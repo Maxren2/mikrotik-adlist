@@ -120,6 +120,24 @@ create_output_header() {
 EOF
 }
 
+resolve_version() {
+    local -r file="$1"
+    local -r declared="$2"
+
+    # Registry-sourced filters carry a version in the JSON; hand-written entries
+    # may leave it null, in which case fall back to the filter's own header.
+    if [[ -n "$declared" && "$declared" != "null" ]]; then
+        echo "$declared"
+        return 0
+    fi
+
+    local detected=""
+    detected=$(grep -m1 -E '^!\s*Version:' "$file" 2>/dev/null \
+        | sed -E 's/^!\s*Version:\s*//' | tr -d '\r') || true
+
+    echo "${detected:-unknown}"
+}
+
 count_hosts_entries() {
     local -r file="$1"
     grep -c '^0\.0\.0\.0 ' "$file" 2>/dev/null || echo "0"
@@ -189,7 +207,9 @@ process_single_filter() {
     fi
 
     # Create output file with header
-    create_output_header "$output_file" "$download_url" "$version"
+    local resolved_version
+    resolved_version=$(resolve_version "$temp_file" "$version")
+    create_output_header "$output_file" "$download_url" "$resolved_version"
 
     local -i entries_count=0
 

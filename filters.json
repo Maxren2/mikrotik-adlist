@@ -1,0 +1,251 @@
+{
+  "_comment": [
+    "Filter definitions for transform.sh — consumed as: .filters[] | filterKey|downloadUrl|version",
+    "Source: https://github.com/hagezi/dns-blocklists (adblock/ = AdGuard syntax, ||domain^).",
+    "hagezi publishes no hosts-format directory, so transform.sh converts ||domain^ -> 0.0.0.0 domain.",
+    "version is null on purpose: transform.sh reads the real '! Version:' line from each downloaded file.",
+    "To drop a list, delete its object. To add one, copy an object and change name/filterKey.",
+    "Deliberately EXCLUDED — these do not work as DNS hosts entries:",
+    "  *-ips.txt (doh-ips, nameserver-ips, tif-ips): contain ||1.2.3.4^ -> would emit '0.0.0.0 1.2.3.4'.",
+    "      Use these in /ip/firewall address-list instead, not /ip/dns/adlist.",
+    "  whitelist-*.txt and spam-tlds-adblock-allow.txt: allow rules (@@||domain^), not blocklists.",
+    "  spam-tlds*.txt: bare TLDs (||actor^) -> '0.0.0.0 actor' matches only that literal hostname,",
+    "      not *.actor, so it blocks nothing. TLD blocking needs regex rules, not an adlist."
+  ],
+  "filters": [
+    {
+      "name": "HaGeZi's Light DNS Blocklist",
+      "filterKey": "hagezi_light",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Multi NORMAL DNS Blocklist",
+      "filterKey": "hagezi_multi",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Pro DNS Blocklist",
+      "filterKey": "hagezi_pro",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Pro mini DNS Blocklist",
+      "filterKey": "hagezi_pro_mini",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Pro++ DNS Blocklist",
+      "filterKey": "hagezi_pro_plus",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Pro++ mini DNS Blocklist",
+      "filterKey": "hagezi_pro_plus_mini",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Ultimate DNS Blocklist",
+      "filterKey": "hagezi_ultimate",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Ultimate mini DNS Blocklist",
+      "filterKey": "hagezi_ultimate_mini",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.mini.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Threat Intelligence Feeds",
+      "filterKey": "hagezi_tif",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Threat Intelligence Feeds medium",
+      "filterKey": "hagezi_tif_medium",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Threat Intelligence Feeds mini",
+      "filterKey": "hagezi_tif_mini",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Pop-Up Ads DNS Blocklist",
+      "filterKey": "hagezi_popupads",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Fake DNS Blocklist",
+      "filterKey": "hagezi_fake",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Anti-Piracy DNS Blocklist",
+      "filterKey": "hagezi_anti_piracy",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Gambling DNS Blocklist",
+      "filterKey": "hagezi_gambling",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Gambling medium DNS Blocklist",
+      "filterKey": "hagezi_gambling_medium",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.medium.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Gambling mini DNS Blocklist",
+      "filterKey": "hagezi_gambling_mini",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.mini.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's NSFW DNS Blocklist",
+      "filterKey": "hagezi_nsfw",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Social DNS Blocklist",
+      "filterKey": "hagezi_social",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/social.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Encrypted DNS Servers",
+      "filterKey": "hagezi_doh",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Most Abused Encrypted DNS Servers",
+      "filterKey": "hagezi_doh_top",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass",
+      "filterKey": "hagezi_doh_vpn_proxy_bypass",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Dynamic DNS Blocklist",
+      "filterKey": "hagezi_dyndns",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Badware Hoster Blocklist",
+      "filterKey": "hagezi_hoster",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's URL Shortener Blocklist",
+      "filterKey": "hagezi_urlshortener",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/urlshortener.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Safesearch not supported Blocklist",
+      "filterKey": "hagezi_nosafesearch",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Referral Blocklist",
+      "filterKey": "hagezi_referral",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Amazon",
+      "filterKey": "hagezi_native_amazon",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Apple",
+      "filterKey": "hagezi_native_apple",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Huawei",
+      "filterKey": "hagezi_native_huawei",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - LG webOS",
+      "filterKey": "hagezi_native_lgwebos",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - OPPO/Realme",
+      "filterKey": "hagezi_native_oppo_realme",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Roku",
+      "filterKey": "hagezi_native_roku",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Samsung",
+      "filterKey": "hagezi_native_samsung",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - TikTok",
+      "filterKey": "hagezi_native_tiktok",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - TikTok Extended",
+      "filterKey": "hagezi_native_tiktok_extended",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Vivo",
+      "filterKey": "hagezi_native_vivo",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Windows/Office",
+      "filterKey": "hagezi_native_winoffice",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
+      "version": null
+    },
+    {
+      "name": "HaGeZi's Native Tracker Blocklist - Xiaomi",
+      "filterKey": "hagezi_native_xiaomi",
+      "downloadUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt",
+      "version": null
+    }
+  ]
+}
