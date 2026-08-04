@@ -93,6 +93,8 @@ Requires `bash`, `jq`, `curl`:
 
 ## License
 
-Scripts, automation and documentation: MIT (see [LICENSE](LICENSE)).
+MIT (see [LICENSE](LICENSE)). `transform.sh` and the original automation are
+copyright © 2025 [Igor Kha](https://github.com/IgorKha) and reused here under
+that licence; changes in this fork are documented in the git history.
 
 Blocklist data is derived from [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) and remains subject to [its license](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE).

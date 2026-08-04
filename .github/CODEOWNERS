@@ -1,19 +1,20 @@
 # Lines starting with '#' are comments.
 # Each line is a file pattern followed by one or more owners.
 
-# Global ownership - Igor Kha is the main maintainer
-* @IgorKha
+# Global ownership - Maxren2 maintains this fork
+* @Maxren2
 
 # Repository configuration and CI/CD
-.github/ @IgorKha
-.github/workflows/ @IgorKha
-.gitignore @IgorKha
-.gitlint @IgorKha
-.pre-commit-config.yaml @IgorKha
-.editorconfig @IgorKha
-.codespellrc @IgorKha
+.github/ @Maxren2
+.github/workflows/ @Maxren2
+.gitignore @Maxren2
+.gitlint @Maxren2
+.pre-commit-config.yaml @Maxren2
+.editorconfig @Maxren2
+.codespellrc @Maxren2
 
 # Core project files
-README.md @IgorKha
-LICENSE @IgorKha
-transform.sh @IgorKha
+README.md @Maxren2
+LICENSE @Maxren2
+filters.json @Maxren2
+transform.sh @Maxren2

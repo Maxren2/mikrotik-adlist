@@ -14,6 +14,11 @@ SCRIPT_NAME="$(basename "$0")"
 readonly OUTPUT_DIR="hosts"
 readonly TEMP_DIR_PREFIX="dns_transform"
 
+# Repository that generated the lists, written into each file's header so
+# consumers know where to report a stale list. GitHub Actions sets
+# GITHUB_REPOSITORY automatically, so forks stay correct without editing this.
+readonly PROJECT_URL="${PROJECT_URL:-https://github.com/${GITHUB_REPOSITORY:-Maxren2/mikrotik-adlist}}"
+
 # Global counters
 declare -i g_total_transformed=0
 declare -i g_processed_filters=0
@@ -116,7 +121,7 @@ create_output_header() {
 ! Original: $original_url
 ! Version: $version
 ! Last modified: $timestamp
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Transformed by: $PROJECT_URL
 EOF
 }
 
