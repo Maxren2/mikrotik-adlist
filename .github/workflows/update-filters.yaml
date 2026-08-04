@@ -48,8 +48,12 @@ jobs:
               changed=$((changed + 1))
               continue
             fi
-            # Compare domains only, ignoring the '!' comment header
-            if diff -q <(grep -v '^!' "$f") <(git show "HEAD:$f" | grep -v '^!') >/dev/null 2>&1; then
+            # Ignore only the volatile header lines. "Last modified" changes
+            # every run and "Version" every upstream rebuild, neither of which
+            # implies a domain changed. Other header lines (Original,
+            # Transformed by) reflect config and must still be committed.
+            if diff -q <(grep -vE '^! (Last modified|Version):' "$f") \
+                       <(git show "HEAD:$f" | grep -vE '^! (Last modified|Version):') >/dev/null 2>&1; then
               git checkout HEAD -- "$f"
               reverted=$((reverted + 1))
             else
