@@ -36,6 +36,29 @@ jobs:
       - name: Run transform script
         run: ./transform.sh ./filters.json
 
+      # Every run stamps a fresh "! Last modified" into all 39 files, so without
+      # this the job would commit ~124 MB weekly even when no domain changed.
+      - name: Discard header-only changes
+        run: |
+          changed=0
+          reverted=0
+          for f in hosts/*.txt; do
+            # A list that is new to the repo is always kept
+            if ! git cat-file -e "HEAD:$f" 2>/dev/null; then
+              changed=$((changed + 1))
+              continue
+            fi
+            # Compare domains only, ignoring the '!' comment header
+            if diff -q <(grep -v '^!' "$f") <(git show "HEAD:$f" | grep -v '^!') >/dev/null 2>&1; then
+              git checkout HEAD -- "$f"
+              reverted=$((reverted + 1))
+            else
+              changed=$((changed + 1))
+            fi
+          done
+          echo "Lists with content changes: $changed"
+          echo "Lists reverted (header-only): $reverted"
+
       - name: Check for changes
         id: check-changes
         run: |
