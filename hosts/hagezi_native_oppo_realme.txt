@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
 ! Version: 2026.0803.0707.52
-! Last modified: 2026-08-04T18:35:24.878Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Last modified: 2026-08-09T06:35:01.690Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
 0.0.0.0 classify-app-sg.allawnos.com

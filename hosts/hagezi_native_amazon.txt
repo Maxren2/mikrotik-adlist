@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
-! Version: 2026.0803.2157.39
-! Last modified: 2026-08-04T18:35:24.146Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Version: 2026.0807.2210.03
+! Last modified: 2026-08-09T06:35:00.994Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
 0.0.0.0 aan.amazon.co.uk
@@ -43,7 +43,6 @@
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-gamma-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-ott-c2s.amazon-adsystem.com
-0.0.0.0 aax-ott-sdk.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott-sdk.amazon-adsystem.com
 0.0.0.0 aax-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott.amazon-adsystem.com
@@ -71,7 +70,6 @@
 0.0.0.0 aax-us-west-ott-events.amazon-adsystem.com
 0.0.0.0 aax-us-west-ott.amazon-adsystem.com
 0.0.0.0 aax-us-west-rtb.amazon-adsystem.com
-0.0.0.0 aax-us.amazon-adsystem.amazon.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-vx-api-us-east-1.amazon-adsystem.com
 0.0.0.0 aax-vx-api-us-west-2.amazon-adsystem.com
@@ -216,7 +214,6 @@
 0.0.0.0 maws-aax-eu-rtb-adx.amazon-adsystem.com
 0.0.0.0 maws-aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 maws-aax-eu.amazon-adsystem.com
-0.0.0.0 maws-aax-fe-sin.amazon-adsystem.com
 0.0.0.0 maws-aax-fe.amazon-adsystem.com
 0.0.0.0 maws-aax-us-east-rtb-adx.amazon-adsystem.com
 0.0.0.0 maws-aax-us-east-rtb.amazon-adsystem.com
@@ -274,6 +271,7 @@
 0.0.0.0 sponsored-ads-eu.amazon.se
 0.0.0.0 sponsored-ads-fe.amazon-adsystem.com
 0.0.0.0 sponsored-ads-na.amazon-adsystem.com
+0.0.0.0 sponsored-ads.amazon.ae
 0.0.0.0 sponsored-ads.amazon.ca
 0.0.0.0 sponsored-ads.amazon.co.jp
 0.0.0.0 sponsored-ads.amazon.co.uk
@@ -281,6 +279,7 @@
 0.0.0.0 sponsored-ads.amazon.com.br
 0.0.0.0 sponsored-ads.amazon.com.mx
 0.0.0.0 sponsored-ads.amazon.com
+0.0.0.0 sponsored-ads.amazon.eg
 0.0.0.0 sponsored-ads.amazon.es
 0.0.0.0 sponsored-ads.amazon.fr
 0.0.0.0 sponsored-ads.amazon.in.alphionsee.in

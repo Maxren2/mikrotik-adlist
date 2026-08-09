@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
 ! Version: 2026.0703.1844.28
-! Last modified: 2026-08-04T18:35:24.327Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Last modified: 2026-08-09T06:35:01.173Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
 0.0.0.0 cdn-xp-ingest-ab.v.aaplimg.com

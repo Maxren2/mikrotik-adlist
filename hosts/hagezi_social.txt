@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/social.txt
-! Version: 2026.0717.1732.43
-! Last modified: 2026-08-04T18:35:22.339Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Version: 2026.0805.2156.36
+! Last modified: 2026-08-09T06:34:59.202Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 2ch.org
 0.0.0.0 4cdn.org
 0.0.0.0 4chan.org

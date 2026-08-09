@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt
 ! Version: 2026.0724.2049.45
-! Last modified: 2026-08-04T18:35:25.076Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Last modified: 2026-08-09T06:35:01.851Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 roku.adsmeasurement.com
 0.0.0.0 adeng-identity-prod3.bdp.roku.com
 0.0.0.0 adeng-looker-bi-oneview-prod-1001.bdp.roku.com

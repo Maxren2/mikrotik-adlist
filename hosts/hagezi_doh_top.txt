@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.0804.0813.56
-! Last modified: 2026-08-04T18:35:22.688Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Version: 2026.0808.0836.11
+! Last modified: 2026-08-09T06:34:59.588Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
 0.0.0.0 doh-dns-apple-com.v.aaplimg.com
@@ -59,7 +59,6 @@
 0.0.0.0 dns.guard.io
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 httpdns.huaweicloud.com
-0.0.0.0 mask.icloud.com
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 http-dns.imoim.net
@@ -146,12 +145,14 @@
 0.0.0.0 abpvn.org
 0.0.0.0 adfreedns.top
 0.0.0.0 adguard-dns.com
+0.0.0.0 affcdn.net
 0.0.0.0 affsoft.cc
 0.0.0.0 ahadns.net
 0.0.0.0 alidns.com
 0.0.0.0 andrewnw.xyz
 0.0.0.0 applied-privacy.net
 0.0.0.0 atris.cyou
+0.0.0.0 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 0.0.0.0 bancuh.com
 0.0.0.0 bazooki-infra.dev
 0.0.0.0 bestwon203.com
@@ -196,6 +197,7 @@
 0.0.0.0 eth.link
 0.0.0.0 farewellkou.click
 0.0.0.0 fidelius.top
+0.0.0.0 gclouddns.com
 0.0.0.0 getdnsapi.net
 0.0.0.0 gibblets.top
 0.0.0.0 glacius.top
@@ -248,6 +250,7 @@
 0.0.0.0 sunnygyl.com
 0.0.0.0 surt.ovh
 0.0.0.0 tecdrive.site
+0.0.0.0 tk31z.com
 0.0.0.0 tlz.asia
 0.0.0.0 toaster.lol
 0.0.0.0 tri-dns.net

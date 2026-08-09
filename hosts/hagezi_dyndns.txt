@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
-! Version: 2026.0803.0820.33
-! Last modified: 2026-08-04T18:35:23.130Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Version: 2026.0806.0251.22
+! Last modified: 2026-08-09T06:35:00.039Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
 0.0.0.0 dynamicdns.co.uk
@@ -62,6 +62,7 @@
 0.0.0.0 88uan.com
 0.0.0.0 88zkt.com
 0.0.0.0 99tac.com
+0.0.0.0 aa.am
 0.0.0.0 abatek.com
 0.0.0.0 abmetalmecanica.com
 0.0.0.0 abrdns.com

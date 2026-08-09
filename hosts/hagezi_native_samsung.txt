@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt
-! Version: 2026.0802.1807.45
-! Last modified: 2026-08-04T18:35:25.286Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Version: 2026.0807.2219.30
+! Last modified: 2026-08-09T06:35:02.046Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
 0.0.0.0 samsungcard.data.adobedc.net
@@ -120,7 +120,6 @@
 0.0.0.0 acr-in-prd.samsungcloud.tv
 0.0.0.0 acr-kr-prd.samsungcloud.tv
 0.0.0.0 acr-mx-prd.samsungcloud.tv
-0.0.0.0 acr-nz-prd.samsungcloud.tv
 0.0.0.0 acr-us-prd.samsungcloud.tv
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 devicelog.samsungcloudsolution.net

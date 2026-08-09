@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.0804.0643.01
-! Last modified: 2026-08-04T18:35:23.951Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Version: 2026.0808.0649.58
+! Last modified: 2026-08-09T06:35:00.821Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
 0.0.0.0 t.6sc.co
@@ -250,6 +250,7 @@
 0.0.0.0 m-4wovq.custobar.com
 0.0.0.0 m-5fwyg.custobar.com
 0.0.0.0 m-6pyms.custobar.com
+0.0.0.0 m-7huqs.custobar.com
 0.0.0.0 m-7ihcs.custobar.com
 0.0.0.0 m-7uz3v.custobar.com
 0.0.0.0 m-ax.custobar.com
@@ -378,7 +379,6 @@
 0.0.0.0 suite30.emarsys.net
 0.0.0.0 suite30-cdnnet.emarsys.net
 0.0.0.0 suite30-cf.emarsys.net
-0.0.0.0 suite32.emarsys.net
 0.0.0.0 suite33.emarsys.net
 0.0.0.0 suite33-cf.emarsys.net
 0.0.0.0 suite34.emarsys.net
@@ -475,7 +475,6 @@
 0.0.0.0 els-cdn.exponea.com
 0.0.0.0 fis-iittala-cdn.exponea.com
 0.0.0.0 fis-royalcopenhagen-cdn.exponea.com
-0.0.0.0 neoengage-va-cdn.exponea.com
 0.0.0.0 pan-cdn.exponea.com
 0.0.0.0 puc-cdn.exponea.com
 0.0.0.0 raisin-cdn.exponea.com
@@ -510,6 +509,7 @@
 0.0.0.0 track.glovoapp.com
 0.0.0.0 tracker.gobjet.fr
 0.0.0.0 adservice.google.at
+0.0.0.0 adservice.google.bg
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.ch
 0.0.0.0 adservice.google.com
@@ -548,7 +548,6 @@
 0.0.0.0 click.holidayinnclubemail.com
 0.0.0.0 go.hotmart.com
 0.0.0.0 click.instantink.hpsmart.com
-0.0.0.0 sites.hscoscdn-ap1.net
 0.0.0.0 sites.hscoscdn-eu1.net
 0.0.0.0 sites.hscoscdn-na2.net
 0.0.0.0 341676991.group0.sites.hscoscdn-na3.net
@@ -909,6 +908,7 @@
 0.0.0.0 link.swa.info
 0.0.0.0 link.sylikes.com
 0.0.0.0 count.shopping.t-online.de
+0.0.0.0 redirect1069.tagcommander.com
 0.0.0.0 redirect476.tagcommander.com
 0.0.0.0 redirect492.tagcommander.com
 0.0.0.0 data.email.tangerine.ca
@@ -1233,6 +1233,7 @@
 0.0.0.0 mkto-ab100192.com
 0.0.0.0 mkto-ab100241.com
 0.0.0.0 mkto-ab110171.com
+0.0.0.0 mkto-ab110192.com
 0.0.0.0 mkto-ab120150.com
 0.0.0.0 mkto-ab130037.com
 0.0.0.0 mkto-ab130188.com
@@ -1297,7 +1298,7 @@
 0.0.0.0 mkto-ab480014.com
 0.0.0.0 mkto-ab480015.com
 0.0.0.0 mkto-ab480166.com
-0.0.0.0 mkto-ab530057.com
+0.0.0.0 mkto-ab500022.com
 0.0.0.0 mkto-ab530192.com
 0.0.0.0 mkto-ab540059.com
 0.0.0.0 mkto-ab540143.com
@@ -1307,13 +1308,13 @@
 0.0.0.0 mkto-ab550184.com
 0.0.0.0 mkto-ab560068.com
 0.0.0.0 mkto-ab560119.com
-0.0.0.0 mkto-ab560171.com
 0.0.0.0 mkto-ab570110.com
 0.0.0.0 mkto-ab570128.com
 0.0.0.0 mkto-ab580004.com
 0.0.0.0 mkto-ab600004.com
 0.0.0.0 mkto-ab610035.com
 0.0.0.0 mkto-ab610084.com
+0.0.0.0 mkto-ab620021.com
 0.0.0.0 mkto-ab620024.com
 0.0.0.0 mkto-ab620054.com
 0.0.0.0 mkto-ab620071.com
@@ -1382,7 +1383,6 @@
 0.0.0.0 mkto-m0106.com
 0.0.0.0 mkto-m0111.com
 0.0.0.0 mkto-mlm10010008.com
-0.0.0.0 mkto-mlm10030005.com
 0.0.0.0 mkto-n0092.com
 0.0.0.0 mkto-n0243.com
 0.0.0.0 mkto-nld1010057.com
@@ -1442,6 +1442,7 @@
 0.0.0.0 mkto-sj210111.com
 0.0.0.0 mkto-sj210170.com
 0.0.0.0 mkto-sj220006.com
+0.0.0.0 mkto-sj220082.com
 0.0.0.0 mkto-sj230006.com
 0.0.0.0 mkto-sj240021.com
 0.0.0.0 mkto-sj250062.com

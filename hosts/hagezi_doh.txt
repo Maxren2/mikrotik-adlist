@@ -1,7 +1,7 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0803.0821.15
-! Last modified: 2026-08-04T18:35:22.494Z
-! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+! Version: 2026.0808.0834.46
+! Last modified: 2026-08-09T06:34:59.384Z
+! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.010812.xyz
@@ -326,7 +326,6 @@
 0.0.0.0 dns.bitup.de
 0.0.0.0 dns-tls.bitwiseshift.net
 0.0.0.0 woc.beelstb.biz.id
-0.0.0.0 gate.blackboxdynamics.io
 0.0.0.0 dns1.blackrandcrf.ru
 0.0.0.0 fennec.blackyfox.net
 0.0.0.0 doh.de.blahdns.com
@@ -359,9 +358,7 @@
 0.0.0.0 dns.bluestarnc.com
 0.0.0.0 dns.bmwhocking.com
 0.0.0.0 cloud.boboba.ru
-0.0.0.0 d.bod.lol
 0.0.0.0 dns.bofh.in
-0.0.0.0 doh.boje8.me
 0.0.0.0 adguard.bonis.de
 0.0.0.0 adguard1.bonis.de
 0.0.0.0 adguard2.bonis.de
@@ -428,12 +425,10 @@
 0.0.0.0 dns.ch295.ru
 0.0.0.0 dns.chadeyron.fr
 0.0.0.0 dns.chalkychalk.com
-0.0.0.0 rdns2.chancetheitguy.com
 0.0.0.0 adguard.chanhome.xyz
 0.0.0.0 cloudsrv.charitosnet.de
 0.0.0.0 adghome.charleschan.net
 0.0.0.0 dns.charraud.eu
-0.0.0.0 dns.chattalk.link
 0.0.0.0 adguard.chaudharyarnav.com
 0.0.0.0 dns.chenu.ch
 0.0.0.0 adguard.chestnov.ru
@@ -453,7 +448,6 @@
 0.0.0.0 dns.circl.lu
 0.0.0.0 dns.citrahost.com
 0.0.0.0 dns.citystars.cn
-0.0.0.0 ns.ciwer.cn
 0.0.0.0 alpha.cixy.xyz
 0.0.0.0 stella.clae.net
 0.0.0.0 dns.clanless.ovh
@@ -548,7 +542,6 @@
 0.0.0.0 shinano.anime.com.my
 0.0.0.0 test.businessconnect.com.tr
 0.0.0.0 dns.ceai.com.tw
-0.0.0.0 dns.cloud88.com.au
 0.0.0.0 dns.complianceauditores.com.br
 0.0.0.0 dns.damlayayinevi.com.tr
 0.0.0.0 adguard.doranpierst.com.tr
@@ -611,7 +604,6 @@
 0.0.0.0 dns.cybertonic.tech
 0.0.0.0 dns2.cybrespace.net
 0.0.0.0 dns.cynthialabs.net
-0.0.0.0 dns.cysynex.cloud
 0.0.0.0 nextcloud.d-alahmad.de
 0.0.0.0 dns.d365.in
 0.0.0.0 s2.d3mik.ru
@@ -767,19 +759,14 @@
 0.0.0.0 ams02.dnscry.pt
 0.0.0.0 ams03.dnscry.pt
 0.0.0.0 aqx01.dnscry.pt
-0.0.0.0 ath01.dnscry.pt
 0.0.0.0 atl01.dnscry.pt
-0.0.0.0 bcn01.dnscry.pt
 0.0.0.0 bei01.dnscry.pt
 0.0.0.0 bkk01.dnscry.pt
 0.0.0.0 blr01.dnscry.pt
 0.0.0.0 bne01.dnscry.pt
-0.0.0.0 bog01.dnscry.pt
 0.0.0.0 bom02.dnscry.pt
 0.0.0.0 bre01.dnscry.pt
-0.0.0.0 bru01.dnscry.pt
 0.0.0.0 bts01.dnscry.pt
-0.0.0.0 bud01.dnscry.pt
 0.0.0.0 buh01.dnscry.pt
 0.0.0.0 coe01.dnscry.pt
 0.0.0.0 cph01.dnscry.pt
@@ -794,7 +781,6 @@
 0.0.0.0 dus01.dnscry.pt
 0.0.0.0 dus02.dnscry.pt
 0.0.0.0 dus03.dnscry.pt
-0.0.0.0 evn01.dnscry.pt
 0.0.0.0 eyg01.dnscry.pt
 0.0.0.0 fet02.dnscry.pt
 0.0.0.0 fnt01.dnscry.pt
@@ -804,8 +790,6 @@
 0.0.0.0 geg01.dnscry.pt
 0.0.0.0 grr01.dnscry.pt
 0.0.0.0 gva01.dnscry.pt
-0.0.0.0 gyd01.dnscry.pt
-0.0.0.0 gye01.dnscry.pt
 0.0.0.0 haf01.dnscry.pt
 0.0.0.0 han01.dnscry.pt
 0.0.0.0 hel01.dnscry.pt
@@ -829,25 +813,20 @@
 0.0.0.0 las01.dnscry.pt
 0.0.0.0 lax01.dnscry.pt
 0.0.0.0 lax02.dnscry.pt
-0.0.0.0 lim02.dnscry.pt
 0.0.0.0 lis01.dnscry.pt
 0.0.0.0 lis02.dnscry.pt
 0.0.0.0 llk01.dnscry.pt
 0.0.0.0 lon01.dnscry.pt
-0.0.0.0 los01.dnscry.pt
 0.0.0.0 los02.dnscry.pt
-0.0.0.0 lux01.dnscry.pt
 0.0.0.0 mad01.dnscry.pt
 0.0.0.0 man01.dnscry.pt
 0.0.0.0 mci01.dnscry.pt
 0.0.0.0 mel01.dnscry.pt
 0.0.0.0 mia01.dnscry.pt
 0.0.0.0 mil01.dnscry.pt
-0.0.0.0 mnl01.dnscry.pt
 0.0.0.0 moe01.dnscry.pt
 0.0.0.0 mow01.dnscry.pt
 0.0.0.0 mrs01.dnscry.pt
-0.0.0.0 mru01.dnscry.pt
 0.0.0.0 mru02.dnscry.pt
 0.0.0.0 msp01.dnscry.pt
 0.0.0.0 muc01.dnscry.pt
@@ -863,15 +842,11 @@
 0.0.0.0 pdx01.dnscry.pt
 0.0.0.0 ped01.dnscry.pt
 0.0.0.0 per01.dnscry.pt
-0.0.0.0 phl01.dnscry.pt
 0.0.0.0 phx01.dnscry.pt
 0.0.0.0 prg01.dnscry.pt
-0.0.0.0 qro01.dnscry.pt
 0.0.0.0 rdd01.dnscry.pt
-0.0.0.0 rdu01.dnscry.pt
 0.0.0.0 rix01.dnscry.pt
 0.0.0.0 sea01.dnscry.pt
-0.0.0.0 sel01.dnscry.pt
 0.0.0.0 sel02.dnscry.pt
 0.0.0.0 sgn01.dnscry.pt
 0.0.0.0 sin02.dnscry.pt
@@ -887,7 +862,6 @@
 0.0.0.0 tbs01.dnscry.pt
 0.0.0.0 tia01.dnscry.pt
 0.0.0.0 tll01.dnscry.pt
-0.0.0.0 tlv01.dnscry.pt
 0.0.0.0 tpa01.dnscry.pt
 0.0.0.0 tpe01.dnscry.pt
 0.0.0.0 trf01.dnscry.pt
@@ -1061,7 +1035,6 @@
 0.0.0.0 adguard.ef67daisuki.club
 0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 cloud.efreakbnc.net
-0.0.0.0 doh.eieidns.com
 0.0.0.0 adguard.eischmann.cz
 0.0.0.0 dd.elashri.net
 0.0.0.0 hole.elbschloss.xyz
@@ -1153,7 +1126,6 @@
 0.0.0.0 gsat.familyds.com
 0.0.0.0 adguard1.fampopprol.me
 0.0.0.0 dns.fancyorg.at
-0.0.0.0 dns.farakaft.ir
 0.0.0.0 dns.farshidhakimy.de
 0.0.0.0 dns.farshmc.ru
 0.0.0.0 waterfox-ohttp-relay.fastly-edge.com
@@ -1258,7 +1230,6 @@
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 adguard.gattow.com
 0.0.0.0 dns.gearworks.app
-0.0.0.0 dns.geekbyte.de
 0.0.0.0 adg.geili.me
 0.0.0.0 dns.geohide.ru
 0.0.0.0 geshido.vpn.geshido.ru
@@ -1307,7 +1278,6 @@
 0.0.0.0 cloud.gqwyq.top
 0.0.0.0 adguard.grantbruneau.com
 0.0.0.0 cloud.graphicpoint.pl
-0.0.0.0 dns.green-ping.lol
 0.0.0.0 adguard.green1052.com
 0.0.0.0 secure-dns.gridlax.com
 0.0.0.0 dns.griffioen.me
@@ -1412,7 +1382,6 @@
 0.0.0.0 dns.hotta.page
 0.0.0.0 dns.housedenolf.be
 0.0.0.0 freemnt.hpitto.com
-0.0.0.0 doh.hshkf.com
 0.0.0.0 pub.hsuan.ink
 0.0.0.0 dnsguard.hte.vn
 0.0.0.0 dns.huanmave.cc
@@ -1423,7 +1392,6 @@
 0.0.0.0 dns.hujiayucc.cn
 0.0.0.0 doth.huque.com
 0.0.0.0 dns.huseynov.work
-0.0.0.0 dns.hussainnabil.de
 0.0.0.0 dns.huth.nu
 0.0.0.0 v2-1.huwenqiang.xyz
 0.0.0.0 ad.huyct.net
@@ -1464,7 +1432,6 @@
 0.0.0.0 dns-public.ibakerserver.pt
 0.0.0.0 dns.iblockads.net
 0.0.0.0 dns-us.ibmcloud.top
-0.0.0.0 mask.icloud.com
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 dns.pttien.id.vn
@@ -1538,7 +1505,6 @@
 0.0.0.0 dns.itwht.com
 0.0.0.0 pdns.itxe.net
 0.0.0.0 dns.itya.xyz
-0.0.0.0 dns1.iwall.cloud
 0.0.0.0 ag.iyn.one
 0.0.0.0 adg.jabertechnologies.ch
 0.0.0.0 securifi.jagalabs.net
@@ -2022,6 +1988,7 @@
 0.0.0.0 dns.nhtsky.com
 0.0.0.0 d.niaox.com
 0.0.0.0 dnsotls.lab.nic.cl
+0.0.0.0 dns.nic.in
 0.0.0.0 doh.nic.lv
 0.0.0.0 odvr.nic.cz
 0.0.0.0 dns.niccoli.cc
@@ -3060,7 +3027,6 @@
 0.0.0.0 dns4me.net
 0.0.0.0 dns8.org
 0.0.0.0 dnsbunker.org
-0.0.0.0 dnscity.org
 0.0.0.0 dnsdoh.art
 0.0.0.0 dnsenc.com
 0.0.0.0 dnsforfamily.com
@@ -3155,7 +3121,6 @@
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 imperio.top
 0.0.0.0 incaseineeditoneday.com
-0.0.0.0 ingenmannsland.online
 0.0.0.0 inpssh.online
 0.0.0.0 intertop.link
 0.0.0.0 ion.pm
