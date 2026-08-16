@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
-! Version: 2026.0626.1904.40
-! Last modified: 2026-08-09T06:35:02.951Z
+! Version: 2026.0814.2207.01
+! Last modified: 2026-08-16T06:19:22.229Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -92,7 +92,6 @@
 0.0.0.0 ip-info.ff.avast.sec.miui.com
 0.0.0.0 streamback.ff.avast.sec.miui.com
 0.0.0.0 cse.avlyun.sec.miui.com
-0.0.0.0 log-abroad.avlyun.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 auth.be.sec.miui.com

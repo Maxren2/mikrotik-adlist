@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.0808.0649.58
-! Last modified: 2026-08-09T06:35:00.821Z
+! Version: 2026.0815.0650.27
+! Last modified: 2026-08-16T06:19:21.036Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -248,6 +248,7 @@
 0.0.0.0 m-3b5ue.custobar.com
 0.0.0.0 m-42m67.custobar.com
 0.0.0.0 m-4wovq.custobar.com
+0.0.0.0 m-54yud.custobar.com
 0.0.0.0 m-5fwyg.custobar.com
 0.0.0.0 m-6pyms.custobar.com
 0.0.0.0 m-7huqs.custobar.com
@@ -255,9 +256,12 @@
 0.0.0.0 m-7uz3v.custobar.com
 0.0.0.0 m-ax.custobar.com
 0.0.0.0 m-b2o72.custobar.com
+0.0.0.0 m-bcta6.custobar.com
+0.0.0.0 m-bsp.custobar.com
 0.0.0.0 m-eqxt2.custobar.com
 0.0.0.0 m-fi32s.custobar.com
 0.0.0.0 m-fucdf.custobar.com
+0.0.0.0 m-gs5w6.custobar.com
 0.0.0.0 m-gzmk5.custobar.com
 0.0.0.0 m-hju7x.custobar.com
 0.0.0.0 m-htgjb.custobar.com
@@ -474,7 +478,10 @@
 0.0.0.0 dvr-cdn.exponea.com
 0.0.0.0 els-cdn.exponea.com
 0.0.0.0 fis-iittala-cdn.exponea.com
+0.0.0.0 fis-moominarabia-cdn.exponea.com
 0.0.0.0 fis-royalcopenhagen-cdn.exponea.com
+0.0.0.0 hpt-cdn.exponea.com
+0.0.0.0 neoengage-va-cdn.exponea.com
 0.0.0.0 pan-cdn.exponea.com
 0.0.0.0 puc-cdn.exponea.com
 0.0.0.0 raisin-cdn.exponea.com
@@ -557,6 +564,7 @@
 0.0.0.0 sites.hscoscdn20.net
 0.0.0.0 sites.hscoscdn30.net
 0.0.0.0 sites.hscoscdn40.net
+0.0.0.0 api.getsidekick.comapi.hubapi.com
 0.0.0.0 api.hubapi.com
 0.0.0.0 api-ap1.hubapi.com
 0.0.0.0 api-eu1.hubapi.com
@@ -659,7 +667,7 @@
 0.0.0.0 api-02.moengage.com
 0.0.0.0 api-03.moengage.com
 0.0.0.0 api-04.moengage.com
-0.0.0.0 api-101.moengage.com
+0.0.0.0 bapi-01.moengage.com
 0.0.0.0 bapi-02.moengage.com
 0.0.0.0 bapi-04.moengage.com
 0.0.0.0 t.emailing.monoprix.fr
@@ -1291,6 +1299,7 @@
 0.0.0.0 mkto-ab440025.com
 0.0.0.0 mkto-ab440026.com
 0.0.0.0 mkto-ab440032.com
+0.0.0.0 mkto-ab440076.com
 0.0.0.0 mkto-ab450015.com
 0.0.0.0 mkto-ab450037.com
 0.0.0.0 mkto-ab470119.com
@@ -1299,6 +1308,7 @@
 0.0.0.0 mkto-ab480015.com
 0.0.0.0 mkto-ab480166.com
 0.0.0.0 mkto-ab500022.com
+0.0.0.0 mkto-ab520004.com
 0.0.0.0 mkto-ab530192.com
 0.0.0.0 mkto-ab540059.com
 0.0.0.0 mkto-ab540143.com

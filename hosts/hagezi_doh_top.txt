@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.0808.0836.11
-! Last modified: 2026-08-09T06:34:59.588Z
+! Version: 2026.0815.0824.41
+! Last modified: 2026-08-16T06:19:20.148Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
@@ -120,6 +120,7 @@
 0.0.0.0 homenet.telecomitalia.it
 0.0.0.0 sdkconfig.tlivedns.com
 0.0.0.0 dns.twnic.tw
+0.0.0.0 dot.ublockdns.com
 0.0.0.0 my.ublockdns.com
 0.0.0.0 dns.umbrella.com
 0.0.0.0 doh.umbrella.com
@@ -261,6 +262,7 @@
 0.0.0.0 urology.wiki
 0.0.0.0 v.recipes
 0.0.0.0 vorlif.org
+0.0.0.0 wantaquddin.com
 0.0.0.0 wikimedia-dns.org
 0.0.0.0 wyx.cloud
 0.0.0.0 xbox-dns.ru
