@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0815.0823.14
-! Last modified: 2026-08-16T06:19:20.003Z
+! Version: 2026.0821.0831.45
+! Last modified: 2026-08-23T06:20:09.686Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -167,8 +167,15 @@
 0.0.0.0 rdjdns.ajraspi.xyz
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.albony.xyz
+0.0.0.0 dns.alekberg.net
+0.0.0.0 dns2.alekberg.net
+0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
+0.0.0.0 dnsnl-noads.alekberg.net
+0.0.0.0 dnsse.alekberg.net
+0.0.0.0 dnsse-noads.alekberg.net
 0.0.0.0 odoh-target.alekberg.net
+0.0.0.0 odoh-target-noads.alekberg.net
 0.0.0.0 odoh-target-noads-se.alekberg.net
 0.0.0.0 odoh-target-se.alekberg.net
 0.0.0.0 agh.alematho.de
@@ -379,6 +386,7 @@
 0.0.0.0 81xyz.brudnowski.eu
 0.0.0.0 doh.bt.com
 0.0.0.0 goose.buckyfan.net
+0.0.0.0 doh.bugdns.com
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 dns.burgas.pro
 0.0.0.0 dns.busold.ws
@@ -467,6 +475,7 @@
 0.0.0.0 adguard.veanswart.cloudns.be
 0.0.0.0 9132706292.cloudns.be
 0.0.0.0 zeusvps.cloudns.nz
+0.0.0.0 dns-secondary.cloudnx.cloud
 0.0.0.0 dns.cloudseriousshit.com
 0.0.0.0 dns.cloudtrust.solutions
 0.0.0.0 ca.doh.cloudveil.org
@@ -1285,6 +1294,7 @@
 0.0.0.0 dns.gsmseti.net
 0.0.0.0 bigseal1.gu-natee.uk
 0.0.0.0 dns.guard.io
+0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 homedns.gumeniuk.com
 0.0.0.0 dns.gupthabrothers.in
@@ -1427,6 +1437,7 @@
 0.0.0.0 dns-public.ibakerserver.pt
 0.0.0.0 dns.iblockads.net
 0.0.0.0 dns-us.ibmcloud.top
+0.0.0.0 mask.icloud.com
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 dns.pttien.id.vn
@@ -1585,7 +1596,6 @@
 0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kekew.racing
 0.0.0.0 doh3.kekew.info
-0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kempkens.org
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -1892,7 +1902,6 @@
 0.0.0.0 ae-fuj-w-p-2.nashkan.net
 0.0.0.0 ae-fuj-w-p-3.nashkan.net
 0.0.0.0 ae-fuj-w-p-4.nashkan.net
-0.0.0.0 at-wie-w-p-1.nashkan.net
 0.0.0.0 au-syd-w-f-1.nashkan.net
 0.0.0.0 au-syd-w-p-1.nashkan.net
 0.0.0.0 de-fra-w-f-1.nashkan.net
@@ -1902,7 +1911,6 @@
 0.0.0.0 de-fsn-w-p-1.nashkan.net
 0.0.0.0 fi-hel-w-f-2.nashkan.net
 0.0.0.0 fi-hel-w-p-1.nashkan.net
-0.0.0.0 fr-gra-w-p-1.nashkan.net
 0.0.0.0 gb-cov-w-f-1.nashkan.net
 0.0.0.0 gb-cov-w-f-2.nashkan.net
 0.0.0.0 gb-cov-w-p-1.nashkan.net
@@ -1946,6 +1954,7 @@
 0.0.0.0 guard-jkt-225.glosindo.net.id
 0.0.0.0 dns1.gms.net.id
 0.0.0.0 dns2.gms.net.id
+0.0.0.0 doh.infotek.net.id
 0.0.0.0 br.lfac.net.br
 0.0.0.0 us.lfac.net.br
 0.0.0.0 doh.max.net.id
@@ -2026,6 +2035,7 @@
 0.0.0.0 dns.novg.net
 0.0.0.0 dns.npe.bz
 0.0.0.0 adguard.npglocal.com
+0.0.0.0 dns.npsolution.it
 0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
 0.0.0.0 dnscache0.ns71.net
@@ -2161,6 +2171,7 @@
 0.0.0.0 helios.plan9-dns.com
 0.0.0.0 kronos.plan9-dns.com
 0.0.0.0 pluton.plan9-dns.com
+0.0.0.0 hydra.plan9-ns1.com
 0.0.0.0 draco.plan9-ns2.com
 0.0.0.0 door.plasmadancer.ru
 0.0.0.0 secure-dns.pleumkungz.com
@@ -2719,6 +2730,7 @@
 0.0.0.0 dmit.wangjiaqi.store
 0.0.0.0 dns.wargan.io
 0.0.0.0 abel.waringer-atg.de
+0.0.0.0 dns.warma.me
 0.0.0.0 dns.warpnine.de
 0.0.0.0 dns.warrior.fr
 0.0.0.0 dooh.waterfox.net
@@ -2806,7 +2818,9 @@
 0.0.0.0 dns.yatima.tv
 0.0.0.0 adguard.yavuztutcu.net
 0.0.0.0 adguardhome.yavuztutcu.net
+0.0.0.0 lion.yazilimatolye.com
 0.0.0.0 biba.ydns.eu
+0.0.0.0 sg.yepdns.com
 0.0.0.0 adguard.ygd.lol
 0.0.0.0 ns6.ygy.ru
 0.0.0.0 dns.yingroad.top
@@ -3075,6 +3089,7 @@
 0.0.0.0 hfgx.shop
 0.0.0.0 hg8.asia
 0.0.0.0 hgrps.eu
+0.0.0.0 himedns.com
 0.0.0.0 hitian.me
 0.0.0.0 hnsdoh.com
 0.0.0.0 home-server.store
@@ -3217,7 +3232,6 @@
 0.0.0.0 polisitogel.hair
 0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
-0.0.0.0 princez.uk
 0.0.0.0 privatebard.com
 0.0.0.0 project-evoex.de
 0.0.0.0 psociety.de

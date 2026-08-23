@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.0815.0824.41
-! Last modified: 2026-08-16T06:19:20.148Z
+! Version: 2026.0822.0838.25
+! Last modified: 2026-08-23T06:20:09.900Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
@@ -26,7 +26,6 @@
 0.0.0.0 ore-dns.bitdefender.net
 0.0.0.0 tky-dns.bitdefender.net
 0.0.0.0 doh-de.blahdns.com
-0.0.0.0 doh-fi.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 doh-sg.blahdns.com
 0.0.0.0 dns.brahma.world
@@ -59,6 +58,7 @@
 0.0.0.0 dns.guard.io
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 httpdns.huaweicloud.com
+0.0.0.0 mask.icloud.com
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 http-dns.imoim.net
@@ -109,7 +109,6 @@
 0.0.0.0 dns12.quad9.net
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dnspub.restena.lu
-0.0.0.0 dns.rubyfish.cn
 0.0.0.0 free.shecan.ir
 0.0.0.0 dns.smartguard.io
 0.0.0.0 doh-01.spectrum.com

@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/social.txt
-! Version: 2026.0805.2156.36
-! Last modified: 2026-08-09T06:34:59.202Z
+! Version: 2026.0821.2200.20
+! Last modified: 2026-08-23T06:20:09.503Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 2ch.org
 0.0.0.0 4cdn.org
@@ -686,6 +686,7 @@
 0.0.0.0 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-va.ibyteimg.com
+0.0.0.0 p16-tiktok-web-ads-sg.ibyteimg.com
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 parse.com
 0.0.0.0 periscope.tv
@@ -758,6 +759,7 @@
 0.0.0.0 reddit.com
 0.0.0.0 redditmail.com
 0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
 0.0.0.0 redkix.com
 0.0.0.0 rocksdb.com
 0.0.0.0 rocksdb.net
