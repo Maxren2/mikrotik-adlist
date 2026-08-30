@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0821.0831.45
-! Last modified: 2026-08-23T06:20:09.686Z
+! Version: 2026.0830.0840.32
+! Last modified: 2026-08-30T10:49:01.997Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -488,8 +488,6 @@
 0.0.0.0 teamspeak.adriason.co.uk
 0.0.0.0 adguard.cell.co.id
 0.0.0.0 dns.chaosen3.co.uk
-0.0.0.0 ct1doh.cipherdns.co.za
-0.0.0.0 jb1doh.cipherdns.co.za
 0.0.0.0 dns-01.computerservices.co.nz
 0.0.0.0 dns-02.computerservices.co.nz
 0.0.0.0 adg.datamatter.co.za
@@ -524,6 +522,7 @@
 0.0.0.0 doh.vpsdns.co.za
 0.0.0.0 dns.walshnet.co.uk
 0.0.0.0 agh.workfordemo.co.in
+0.0.0.0 cipherdns.co.za
 0.0.0.0 crusnik80.co.za
 0.0.0.0 pooblet.co.za
 0.0.0.0 rmdns26.co.uk
@@ -1828,6 +1827,7 @@
 0.0.0.0 dns.moraru.net
 0.0.0.0 dns.motazhakim.com
 0.0.0.0 dns.mrkaran.dev
+0.0.0.0 adguard.mrmartian.co
 0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip
 0.0.0.0 ns.mtsoln.com

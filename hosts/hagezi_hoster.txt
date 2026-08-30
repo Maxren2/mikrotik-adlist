@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
-! Version: 2026.0820.1450.48
-! Last modified: 2026-08-23T06:20:10.536Z
+! Version: 2026.0823.0737.28
+! Last modified: 2026-08-30T10:49:02.893Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -402,7 +402,6 @@
 0.0.0.0 corolain.ru
 0.0.0.0 craftum.io
 0.0.0.0 created.app
-0.0.0.0 creatorlink.net
 0.0.0.0 crypto-market-world.com
 0.0.0.0 cryptonight.net
 0.0.0.0 cs-clan.org
@@ -825,7 +824,6 @@
 0.0.0.0 mybluehost.me
 0.0.0.0 mybluehostin.me
 0.0.0.0 myclickfunnels.com
-0.0.0.0 mycpanel.rs
 0.0.0.0 mydiscussion.net
 0.0.0.0 myeweb.net
 0.0.0.0 myfoolmoon.com
