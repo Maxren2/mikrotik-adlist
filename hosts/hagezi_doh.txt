@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0830.0840.32
-! Last modified: 2026-08-30T10:49:01.997Z
+! Version: 2026.0906.0841.20
+! Last modified: 2026-09-06T09:47:17.154Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -39,7 +39,6 @@
 0.0.0.0 vps.202316.xyz
 0.0.0.0 dns.23-4.cn
 0.0.0.0 t2c.240130034.xyz
-0.0.0.0 dns.240527.xyz
 0.0.0.0 doh003.280blocker.net
 0.0.0.0 skynet.2bsafe.info
 0.0.0.0 doh.2kil.com
@@ -176,11 +175,8 @@
 0.0.0.0 dnsse-noads.alekberg.net
 0.0.0.0 odoh-target.alekberg.net
 0.0.0.0 odoh-target-noads.alekberg.net
-0.0.0.0 odoh-target-noads-se.alekberg.net
-0.0.0.0 odoh-target-se.alekberg.net
 0.0.0.0 agh.alematho.de
 0.0.0.0 diskstation.alexpollard.net
-0.0.0.0 management.alexpollard.net
 0.0.0.0 httpdns.alicdn.com
 0.0.0.0 dns.aliyun.com
 0.0.0.0 resolvers-cn.httpdns.aliyuncs.com
@@ -303,7 +299,6 @@
 0.0.0.0 friend.bedro.cloud
 0.0.0.0 justhost.bedro.cloud
 0.0.0.0 cloud.beerloga.su
-0.0.0.0 senko.beerloga.su
 0.0.0.0 dns.belnet.be
 0.0.0.0 adblock.benmeyer.net
 0.0.0.0 dns.bermeitinger.eu
@@ -418,9 +413,7 @@
 0.0.0.0 adguard.cedoman.com
 0.0.0.0 unicast2.servers.censurfridns.dk
 0.0.0.0 anycast.censurfridns.dk
-0.0.0.0 anycast.censurfridns.nu
 0.0.0.0 unicast.censurfridns.dk
-0.0.0.0 unicast.censurfridns.nu
 0.0.0.0 dns.cert.ee
 0.0.0.0 pds.cfornas.casa
 0.0.0.0 ibuki.cgnat.net
@@ -482,7 +475,6 @@
 0.0.0.0 us.doh.cloudveil.org
 0.0.0.0 dns.cmrg.net
 0.0.0.0 adguard.cnbeining.com
-0.0.0.0 doh.cnetwork.cloud
 0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 dns.adriason.co.uk
 0.0.0.0 teamspeak.adriason.co.uk
@@ -921,7 +913,6 @@
 0.0.0.0 doh.domreg.lt
 0.0.0.0 takhtakh.domyah.net
 0.0.0.0 dns.doserver.top
-0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
 0.0.0.0 family.dns.doubleangels.com
 0.0.0.0 dotserver.douyucdn.cn
@@ -970,13 +961,11 @@
 0.0.0.0 krafty31.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 ldaman.duckdns.org
-0.0.0.0 leoadguard.duckdns.org
 0.0.0.0 mipelinusa.duckdns.org
 0.0.0.0 morgenegg.duckdns.org
 0.0.0.0 nas1403.duckdns.org
 0.0.0.0 naujas123.duckdns.org
 0.0.0.0 nicko99.duckdns.org
-0.0.0.0 nikamurs.duckdns.org
 0.0.0.0 nqh-dns.duckdns.org
 0.0.0.0 o--o.duckdns.org
 0.0.0.0 pitchforkwaydns.duckdns.org
@@ -1053,7 +1042,6 @@
 0.0.0.0 dnssec.dns.enginyring.com
 0.0.0.0 dns01.enginyring.com
 0.0.0.0 dns02.enginyring.com
-0.0.0.0 home.enjoymylife.net
 0.0.0.0 dns.envs.net
 0.0.0.0 dns.enzomtp.party
 0.0.0.0 adguard.eoghan-net.com
@@ -1168,7 +1156,6 @@
 0.0.0.0 dns.flwagners.com
 0.0.0.0 dns.flyer.vn
 0.0.0.0 dns.flymc.cc
-0.0.0.0 biying.flymlc.com
 0.0.0.0 hk154.flyzhouyc.win
 0.0.0.0 jp193.flyzhouyc.win
 0.0.0.0 st.flyzhouyc.win
@@ -1181,7 +1168,6 @@
 0.0.0.0 ro-bu.foxyfy.net
 0.0.0.0 us-ny.foxyfy.net
 0.0.0.0 us-sj.foxyfy.net
-0.0.0.0 adgd.fragmentance.ru
 0.0.0.0 dns.family.fraiss.at
 0.0.0.0 resolver.frank-ruan.com
 0.0.0.0 wandana.franklinfamily.au
@@ -1219,7 +1205,6 @@
 0.0.0.0 doh.futa.app
 0.0.0.0 doh.futa.gg
 0.0.0.0 us.future-world.net
-0.0.0.0 dns.futuredns.me
 0.0.0.0 wp-test.fvds.ru
 0.0.0.0 dns.fxdc.ru
 0.0.0.0 adg.g3.monster
@@ -1291,7 +1276,6 @@
 0.0.0.0 dns.grqu.de
 0.0.0.0 vps.grussenmeyer.com
 0.0.0.0 dns.gsmseti.net
-0.0.0.0 bigseal1.gu-natee.uk
 0.0.0.0 dns.guard.io
 0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
@@ -1306,7 +1290,6 @@
 0.0.0.0 dns2.h0schi.cloud
 0.0.0.0 adguard.h22designs.com
 0.0.0.0 adg-nl.h4nt3r.com
-0.0.0.0 adg-swe.h4nt3r.com
 0.0.0.0 adguard.h4nt3r.com
 0.0.0.0 secure.hafnova.com
 0.0.0.0 dns.hahnjo.de
@@ -1338,7 +1321,6 @@
 0.0.0.0 adg.herry.dev
 0.0.0.0 dns.msk.hexagon1736.com
 0.0.0.0 httpdns.ocloud.heytapmobi.com
-0.0.0.0 dns.sgp.hicn.site
 0.0.0.0 mail.hilton-groups.com
 0.0.0.0 dns.hinet.net
 0.0.0.0 dns-01.hir.app
@@ -1389,13 +1371,11 @@
 0.0.0.0 pub.hsuan.ink
 0.0.0.0 dnsguard.hte.vn
 0.0.0.0 dns.huanmave.cc
-0.0.0.0 dns.huas.me
 0.0.0.0 httpdns.huaweicloud.com
 0.0.0.0 doh.hugang8.cn
 0.0.0.0 dns.huizegunsing.nl
 0.0.0.0 dns.hujiayucc.cn
 0.0.0.0 doth.huque.com
-0.0.0.0 dns.huseynov.work
 0.0.0.0 dns.huth.nu
 0.0.0.0 v2-1.huwenqiang.xyz
 0.0.0.0 ad.huyct.net
@@ -1954,7 +1934,6 @@
 0.0.0.0 guard-jkt-225.glosindo.net.id
 0.0.0.0 dns1.gms.net.id
 0.0.0.0 dns2.gms.net.id
-0.0.0.0 doh.infotek.net.id
 0.0.0.0 br.lfac.net.br
 0.0.0.0 us.lfac.net.br
 0.0.0.0 doh.max.net.id
@@ -1977,6 +1956,7 @@
 0.0.0.0 dns.neutopia.org
 0.0.0.0 doh.nexen.cloud
 0.0.0.0 doh.luigi.nexific.it
+0.0.0.0 anycast.nextdns.io
 0.0.0.0 dns.nextdns.io
 0.0.0.0 dns1.nextdns.io
 0.0.0.0 dns2.nextdns.io
@@ -2352,12 +2332,10 @@
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
 0.0.0.0 uw-dns.rubyfish.cn
-0.0.0.0 adg.rueiliu.space
 0.0.0.0 ramy.run.place
 0.0.0.0 doh.runsel.id
 0.0.0.0 agh-bitk.russel053.com
 0.0.0.0 agh-yz.russel053.com
-0.0.0.0 drs.rustsword.com
 0.0.0.0 dns1.ryan-palmer.com
 0.0.0.0 f1.dns.s3cure.me
 0.0.0.0 doh.sa-sa.eu
@@ -2867,7 +2845,6 @@
 0.0.0.0 dns.zmobiletech.com
 0.0.0.0 online.zotio.ru
 0.0.0.0 d.zscale.gq
-0.0.0.0 dns.zui.lol
 0.0.0.0 httpdns.zybang.com
 0.0.0.0 ams.core.access.zznet.fun
 0.0.0.0 hkg.core.access.zznet.fun
@@ -2894,7 +2871,6 @@
 0.0.0.0 3dns.eu
 0.0.0.0 3jjxxl.tech
 0.0.0.0 51576162.ru
-0.0.0.0 55780358.xyz
 0.0.0.0 78e281a9.ru
 0.0.0.0 8888.google
 0.0.0.0 959818.xyz
@@ -2906,7 +2882,6 @@
 0.0.0.0 adampowell.pro
 0.0.0.0 adblockersite.com
 0.0.0.0 adfight.ru
-0.0.0.0 adfiltro.fun
 0.0.0.0 adfreedns.eu
 0.0.0.0 adfreedns.top
 0.0.0.0 adghome.ru
@@ -2915,7 +2890,6 @@
 0.0.0.0 adguard-dns.com
 0.0.0.0 adguard-home.de
 0.0.0.0 admir21.ru
-0.0.0.0 affcdn.net
 0.0.0.0 affsoft.cc
 0.0.0.0 aghdns.com
 0.0.0.0 ahadns.net
@@ -2925,9 +2899,7 @@
 0.0.0.0 aihe.app
 0.0.0.0 alidns.com
 0.0.0.0 aliyunhttpdns.com
-0.0.0.0 alleesph.online
 0.0.0.0 alon93rus.ru
-0.0.0.0 amopython.shop
 0.0.0.0 an81dns.ru
 0.0.0.0 andrewnw.xyz
 0.0.0.0 andrey93rus.ru
@@ -2989,7 +2961,6 @@
 0.0.0.0 cubedns.com
 0.0.0.0 curser.dev
 0.0.0.0 cynntex.fun
-0.0.0.0 d3vy.ru
 0.0.0.0 daverotaquio.net
 0.0.0.0 dedidl.com
 0.0.0.0 deep-henchman-excuse.cfd
@@ -3036,7 +3007,6 @@
 0.0.0.0 dstruis.nl
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
-0.0.0.0 dupatruwi22.fun
 0.0.0.0 duyyen.tk
 0.0.0.0 dvgarm.com
 0.0.0.0 easyhandshake.com
@@ -3064,7 +3034,6 @@
 0.0.0.0 furrytech.io
 0.0.0.0 futurearts.cc
 0.0.0.0 gammesfeld.eu
-0.0.0.0 gclouddns.com
 0.0.0.0 genscorp.es
 0.0.0.0 getdnsapi.net
 0.0.0.0 gibblets.top
@@ -3087,7 +3056,6 @@
 0.0.0.0 herkes.online
 0.0.0.0 hexxitcompany.com
 0.0.0.0 hfgx.shop
-0.0.0.0 hg8.asia
 0.0.0.0 hgrps.eu
 0.0.0.0 himedns.com
 0.0.0.0 hitian.me
@@ -3230,7 +3198,6 @@
 0.0.0.0 polisitogel.beauty
 0.0.0.0 polisitogel.contractors
 0.0.0.0 polisitogel.hair
-0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
 0.0.0.0 privatebard.com
 0.0.0.0 project-evoex.de

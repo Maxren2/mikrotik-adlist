@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
-! Version: 2026.0814.2201.02
-! Last modified: 2026-08-16T06:19:22.127Z
+! Version: 2026.0904.2248.42
+! Last modified: 2026-09-06T09:47:19.487Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -180,7 +180,6 @@
 0.0.0.0 rad.microsoft.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
-0.0.0.0 tar.microsoft.com
 0.0.0.0 telecommandsvc.microsoft.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.microsoft.us

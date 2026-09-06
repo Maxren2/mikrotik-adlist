@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.0830.0656.07
-! Last modified: 2026-08-30T10:49:03.771Z
+! Version: 2026.0906.0658.45
+! Last modified: 2026-09-06T09:47:18.201Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -268,6 +268,7 @@
 0.0.0.0 m-hju7x.custobar.com
 0.0.0.0 m-htgjb.custobar.com
 0.0.0.0 m-itsof.custobar.com
+0.0.0.0 m-jzt.custobar.com
 0.0.0.0 m-kpz.custobar.com
 0.0.0.0 m-kzo.custobar.com
 0.0.0.0 m-ll23a.custobar.com
@@ -477,6 +478,7 @@
 0.0.0.0 cdn.us1.exponea.com
 0.0.0.0 4patientcare-cdn.exponea.com
 0.0.0.0 alx-cdn.exponea.com
+0.0.0.0 amway-cdn.exponea.com
 0.0.0.0 cdn.exponea.com
 0.0.0.0 csb-cdn.exponea.com
 0.0.0.0 dgl-cdn.exponea.com
@@ -537,6 +539,7 @@
 0.0.0.0 adservice.google.hu
 0.0.0.0 adservice.google.ie
 0.0.0.0 adservice.google.it
+0.0.0.0 adservice.google.kz
 0.0.0.0 adservice.google.lt
 0.0.0.0 adservice.google.md
 0.0.0.0 adservice.google.nl
@@ -1237,13 +1240,14 @@
 0.0.0.0 mkto-a0279.com
 0.0.0.0 mkto-ab010044.com
 0.0.0.0 mkto-ab010150.com
+0.0.0.0 mkto-ab020242.com
+0.0.0.0 mkto-ab030075.com
 0.0.0.0 mkto-ab040115.com
 0.0.0.0 mkto-ab040117.com
 0.0.0.0 mkto-ab060101.com
 0.0.0.0 mkto-ab060134.com
 0.0.0.0 mkto-ab060144.com
 0.0.0.0 mkto-ab060210.com
-0.0.0.0 mkto-ab070017.com
 0.0.0.0 mkto-ab070069.com
 0.0.0.0 mkto-ab080055.com
 0.0.0.0 mkto-ab080061.com
@@ -1251,15 +1255,16 @@
 0.0.0.0 mkto-ab100241.com
 0.0.0.0 mkto-ab110171.com
 0.0.0.0 mkto-ab110192.com
+0.0.0.0 mkto-ab120041.com
 0.0.0.0 mkto-ab120150.com
 0.0.0.0 mkto-ab130037.com
 0.0.0.0 mkto-ab130188.com
 0.0.0.0 mkto-ab140048.com
 0.0.0.0 mkto-ab150013.com
+0.0.0.0 mkto-ab150073.com
 0.0.0.0 mkto-ab170094.com
 0.0.0.0 mkto-ab170123.com
 0.0.0.0 mkto-ab170161.com
-0.0.0.0 mkto-ab180008.com
 0.0.0.0 mkto-ab180024.com
 0.0.0.0 mkto-ab220038.com
 0.0.0.0 mkto-ab220141.com
@@ -1276,7 +1281,6 @@
 0.0.0.0 mkto-ab290066.com
 0.0.0.0 mkto-ab290102.com
 0.0.0.0 mkto-ab290138.com
-0.0.0.0 mkto-ab310115.com
 0.0.0.0 mkto-ab320028.com
 0.0.0.0 mkto-ab320182.com
 0.0.0.0 mkto-ab320191.com
@@ -1287,6 +1291,7 @@
 0.0.0.0 mkto-ab350042.com
 0.0.0.0 mkto-ab350047.com
 0.0.0.0 mkto-ab350123.com
+0.0.0.0 mkto-ab370015.com
 0.0.0.0 mkto-ab390033.com
 0.0.0.0 mkto-ab390129.com
 0.0.0.0 mkto-ab390137.com
@@ -1298,7 +1303,6 @@
 0.0.0.0 mkto-ab400187.com
 0.0.0.0 mkto-ab400189.com
 0.0.0.0 mkto-ab410073.com
-0.0.0.0 mkto-ab420081.com
 0.0.0.0 mkto-ab420198.com
 0.0.0.0 mkto-ab430045.com
 0.0.0.0 mkto-ab430076.com
@@ -1306,6 +1310,7 @@
 0.0.0.0 mkto-ab430114.com
 0.0.0.0 mkto-ab430126.com
 0.0.0.0 mkto-ab430167.com
+0.0.0.0 mkto-ab430186.com
 0.0.0.0 mkto-ab430187.com
 0.0.0.0 mkto-ab440025.com
 0.0.0.0 mkto-ab440026.com
@@ -1316,21 +1321,16 @@
 0.0.0.0 mkto-ab450153.com
 0.0.0.0 mkto-ab470013.com
 0.0.0.0 mkto-ab470119.com
-0.0.0.0 mkto-ab470148.com
 0.0.0.0 mkto-ab480014.com
 0.0.0.0 mkto-ab480015.com
 0.0.0.0 mkto-ab480166.com
 0.0.0.0 mkto-ab500022.com
 0.0.0.0 mkto-ab530192.com
-0.0.0.0 mkto-ab540059.com
 0.0.0.0 mkto-ab540143.com
-0.0.0.0 mkto-ab540186.com
 0.0.0.0 mkto-ab550041.com
-0.0.0.0 mkto-ab550140.com
 0.0.0.0 mkto-ab550184.com
 0.0.0.0 mkto-ab560068.com
 0.0.0.0 mkto-ab560119.com
-0.0.0.0 mkto-ab570110.com
 0.0.0.0 mkto-ab570128.com
 0.0.0.0 mkto-ab580004.com
 0.0.0.0 mkto-ab600004.com
@@ -1346,17 +1346,12 @@
 0.0.0.0 mkto-ab630042.com
 0.0.0.0 mkto-ab640171.com
 0.0.0.0 mkto-ab650025.com
-0.0.0.0 mkto-ab650097.com
 0.0.0.0 mkto-ab650172.com
-0.0.0.0 mkto-ab660121.com
 0.0.0.0 mkto-ab660168.com
 0.0.0.0 mkto-ab680016.com
-0.0.0.0 mkto-ab690011.com
-0.0.0.0 mkto-ab690019.com
 0.0.0.0 mkto-ab690062.com
 0.0.0.0 mkto-ab690064.com
 0.0.0.0 mkto-ab690132.com
-0.0.0.0 mkto-ab690180.com
 0.0.0.0 mkto-ab700044.com
 0.0.0.0 mkto-abc0114.com
 0.0.0.0 mkto-abc0241.com
@@ -1374,7 +1369,6 @@
 0.0.0.0 mkto-e0231.com
 0.0.0.0 mkto-f0235.com
 0.0.0.0 mkto-g0030.com
-0.0.0.0 mkto-g0180.com
 0.0.0.0 mkto-h0163.com
 0.0.0.0 mkto-i0206.com
 0.0.0.0 mkto-j0126.com
@@ -1385,7 +1379,6 @@
 0.0.0.0 mkto-lon030291.com
 0.0.0.0 mkto-lon040022.com
 0.0.0.0 mkto-lon040102.com
-0.0.0.0 mkto-lon040152.com
 0.0.0.0 mkto-lon050034.com
 0.0.0.0 mkto-lon050143.com
 0.0.0.0 mkto-lon050200.com
@@ -1415,6 +1408,7 @@
 0.0.0.0 mkto-nld1010097.com
 0.0.0.0 mkto-nld1010150.com
 0.0.0.0 mkto-nld1010159.com
+0.0.0.0 mkto-nld1020025.com
 0.0.0.0 mkto-nld1020077.com
 0.0.0.0 mkto-nld1020138.com
 0.0.0.0 mkto-nld1020173.com
@@ -1423,7 +1417,6 @@
 0.0.0.0 mkto-nld1040056.com
 0.0.0.0 mkto-nld1040117.com
 0.0.0.0 mkto-nld1040152.com
-0.0.0.0 mkto-nld1040186.com
 0.0.0.0 mkto-nld1050007.com
 0.0.0.0 mkto-nld1050048.com
 0.0.0.0 mkto-nld1050103.com
@@ -1431,7 +1424,6 @@
 0.0.0.0 mkto-o0039.com
 0.0.0.0 mkto-p0016.com
 0.0.0.0 mkto-q0155.com
-0.0.0.0 mkto-sj010104.com
 0.0.0.0 mkto-sj010128.com
 0.0.0.0 mkto-sj010203.com
 0.0.0.0 mkto-sj020238.com
@@ -1441,6 +1433,7 @@
 0.0.0.0 mkto-sj040252.com
 0.0.0.0 mkto-sj050106.com
 0.0.0.0 mkto-sj050137.com
+0.0.0.0 mkto-sj050202.com
 0.0.0.0 mkto-sj050237.com
 0.0.0.0 mkto-sj060054.com
 0.0.0.0 mkto-sj070141.com
@@ -1448,7 +1441,7 @@
 0.0.0.0 mkto-sj070214.com
 0.0.0.0 mkto-sj070218.com
 0.0.0.0 mkto-sj080048.com
-0.0.0.0 mkto-sj090132.com
+0.0.0.0 mkto-sj080251.com
 0.0.0.0 mkto-sj130243.com
 0.0.0.0 mkto-sj140007.com
 0.0.0.0 mkto-sj140170.com
@@ -1459,7 +1452,6 @@
 0.0.0.0 mkto-sj180011.com
 0.0.0.0 mkto-sj190094.com
 0.0.0.0 mkto-sj190104.com
-0.0.0.0 mkto-sj190237.com
 0.0.0.0 mkto-sj200186.com
 0.0.0.0 mkto-sj200191.com
 0.0.0.0 mkto-sj200201.com
@@ -1469,24 +1461,23 @@
 0.0.0.0 mkto-sj210170.com
 0.0.0.0 mkto-sj220006.com
 0.0.0.0 mkto-sj220082.com
-0.0.0.0 mkto-sj230006.com
-0.0.0.0 mkto-sj240021.com
 0.0.0.0 mkto-sj250062.com
 0.0.0.0 mkto-sj250111.com
 0.0.0.0 mkto-sj250187.com
 0.0.0.0 mkto-sj270072.com
 0.0.0.0 mkto-sj270078.com
 0.0.0.0 mkto-sj270080.com
+0.0.0.0 mkto-sj290040.com
 0.0.0.0 mkto-sj290167.com
 0.0.0.0 mkto-sj300124.com
 0.0.0.0 mkto-sj310061.com
 0.0.0.0 mkto-sj310157.com
-0.0.0.0 mkto-sj310186.com
-0.0.0.0 mkto-sj320047.com
 0.0.0.0 mkto-sj320061.com
 0.0.0.0 mkto-sj320080.com
 0.0.0.0 mkto-sj330006.com
 0.0.0.0 mkto-sj340004.com
+0.0.0.0 mkto-sj360090.com
+0.0.0.0 mkto-sj360091.com
 0.0.0.0 mkto-sj360104.com
 0.0.0.0 mkto-sj360117.com
 0.0.0.0 mkto-sj360142.com
@@ -1495,6 +1486,7 @@
 0.0.0.0 mkto-sj390079.com
 0.0.0.0 mkto-sjg0030.com
 0.0.0.0 mkto-sjh0084.com
+0.0.0.0 mkto-sji0183.com
 0.0.0.0 mkto-sn010116.com
 0.0.0.0 mkto-sn030149.com
 0.0.0.0 mkto-sn040166.com

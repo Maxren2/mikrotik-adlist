@@ -1,13 +1,12 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
-! Version: 2026.0720.0656.36
-! Last modified: 2026-08-09T06:35:01.348Z
+! Version: 2026.0904.2249.46
+! Last modified: 2026-09-06T09:47:18.553Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
 0.0.0.0 metrics-dre.data.dbankcloud.cn
 0.0.0.0 metrics1.data.dbankcloud.cn
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
-0.0.0.0 datacollector-drcn.dt.dbankcloud.cn
 0.0.0.0 datacollector-dre.dt.dbankcloud.cn
 0.0.0.0 hisearch-dra.dt.dbankcloud.com
 0.0.0.0 hisearch-drcn.dt.dbankcloud.com
