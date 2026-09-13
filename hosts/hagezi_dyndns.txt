@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
-! Version: 2026.0902.0839.18
-! Last modified: 2026-09-06T09:47:17.638Z
+! Version: 2026.0908.1548.05
+! Last modified: 2026-09-13T10:42:55.698Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -69,7 +69,6 @@
 0.0.0.0 afraid.org
 0.0.0.0 agropeople.ru
 0.0.0.0 aintno.info
-0.0.0.0 airdns.org
 0.0.0.0 airlinemeals.net
 0.0.0.0 albertn.ru
 0.0.0.0 allez.la

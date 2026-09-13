@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.0906.0842.04
-! Last modified: 2026-09-06T09:47:17.292Z
+! Version: 2026.0913.0850.28
+! Last modified: 2026-09-13T10:42:55.301Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
@@ -118,6 +118,7 @@
 0.0.0.0 doh-01.spectrum.com
 0.0.0.0 doh-02.spectrum.com
 0.0.0.0 dns.surfsharkdns.com
+0.0.0.0 dns.switch.ch
 0.0.0.0 ibksturm.synology.me
 0.0.0.0 dns.t-ipnet.de
 0.0.0.0 httpdns.danuoyi.tbcache.com
@@ -230,7 +231,6 @@
 0.0.0.0 glacius.top
 0.0.0.0 greatideasforlife.lol
 0.0.0.0 gztech.me
-0.0.0.0 hfgx.shop
 0.0.0.0 himedns.com
 0.0.0.0 hitian.me
 0.0.0.0 hshh.org
@@ -303,6 +303,7 @@
 0.0.0.0 strassmair.org
 0.0.0.0 sunnygyl.com
 0.0.0.0 tecdrive.site
+0.0.0.0 tk31z.com
 0.0.0.0 tlz.asia
 0.0.0.0 toaster.lol
 0.0.0.0 tri-dns.net
@@ -317,19 +318,15 @@
 0.0.0.0 v.recipes
 0.0.0.0 vorlif.org
 0.0.0.0 vtcuong.site
-0.0.0.0 wantaquddin.com
 0.0.0.0 wikimedia-dns.org
 0.0.0.0 wyx.cloud
 0.0.0.0 xbcpb668.com
 0.0.0.0 xbox-dns.ru
 0.0.0.0 xenergy.cc
 0.0.0.0 xholgm.top
-0.0.0.0 xie.ke
 0.0.0.0 xn--durhre-yxa.de
-0.0.0.0 ychen.cf
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
-0.0.0.0 yuvelirtut.website
 0.0.0.0 zburger.top
 0.0.0.0 zdn.ro
 0.0.0.0 zougloub.eu

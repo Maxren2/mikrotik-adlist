@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0906.0841.20
-! Last modified: 2026-09-06T09:47:17.154Z
+! Version: 2026.0911.1545.19
+! Last modified: 2026-09-13T10:42:55.108Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -1603,7 +1603,6 @@
 0.0.0.0 lorc17-dns.komeho.info
 0.0.0.0 ad.kone.ink
 0.0.0.0 adguard.konikoni428.com
-0.0.0.0 adguard.konnkors.lol
 0.0.0.0 doh.kooman.org
 0.0.0.0 dns.kosan.moe
 0.0.0.0 dns.kostydenis.me
@@ -1629,7 +1628,6 @@
 0.0.0.0 dns.l337.site
 0.0.0.0 dns.l6.ee
 0.0.0.0 dns.labar.re
-0.0.0.0 dns.labnekotest.site
 0.0.0.0 doh.lacontrevoie.fr
 0.0.0.0 2024.laijy.top
 0.0.0.0 x.laoban.fun
@@ -1659,8 +1657,6 @@
 0.0.0.0 us.libost.xyz
 0.0.0.0 doh.libredns.gr
 0.0.0.0 dot.libredns.gr
-0.0.0.0 dns.lifeym.xyz
-0.0.0.0 dns.lightmaster.pw
 0.0.0.0 dns.lihj.me
 0.0.0.0 dns.lildinosaur.com
 0.0.0.0 dns.lilith.cloud
@@ -1807,7 +1803,6 @@
 0.0.0.0 dns.moraru.net
 0.0.0.0 dns.motazhakim.com
 0.0.0.0 dns.mrkaran.dev
-0.0.0.0 adguard.mrmartian.co
 0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip
 0.0.0.0 ns.mtsoln.com
@@ -1815,7 +1810,6 @@
 0.0.0.0 dns.mullvad.net
 0.0.0.0 doh.mullvad.net
 0.0.0.0 dns.multi30.pl
-0.0.0.0 blockerads.multimediaconcept.fr
 0.0.0.0 dns.murgi.de
 0.0.0.0 dns.musikantit.fi
 0.0.0.0 dns.muxinghe.cn
@@ -1881,7 +1875,6 @@
 0.0.0.0 ae-fuj-w-p-1.nashkan.net
 0.0.0.0 ae-fuj-w-p-2.nashkan.net
 0.0.0.0 ae-fuj-w-p-3.nashkan.net
-0.0.0.0 ae-fuj-w-p-4.nashkan.net
 0.0.0.0 au-syd-w-f-1.nashkan.net
 0.0.0.0 au-syd-w-p-1.nashkan.net
 0.0.0.0 de-fra-w-f-1.nashkan.net
@@ -1922,13 +1915,11 @@
 0.0.0.0 us-nyc-w-p-1.nashkan.net
 0.0.0.0 us-saj-w-f-1.nashkan.net
 0.0.0.0 us-saj-w-p-1.nashkan.net
-0.0.0.0 dns.native.cat
 0.0.0.0 dns.ndo.dev
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
 0.0.0.0 x210-131-219-118.static.xvps.ne.jp
 0.0.0.0 dns.neeb.it
 0.0.0.0 adguard.neelyha.tk
-0.0.0.0 adguard.neon0404.space
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 positif4.cross.net.id
 0.0.0.0 guard-jkt-225.glosindo.net.id
@@ -2040,7 +2031,6 @@
 0.0.0.0 adguard.ohmhv57.org
 0.0.0.0 adh.olesgroup.com
 0.0.0.0 dns.oliverweinhold.de
-0.0.0.0 dns.olpploiopkuyhiopsfrt.info
 0.0.0.0 dns.omada.cafe
 0.0.0.0 dns.omee4.ru
 0.0.0.0 adguard.oms-ctr.ru
@@ -2125,7 +2115,6 @@
 0.0.0.0 dns.petqa.ru
 0.0.0.0 adguard.pggns.de
 0.0.0.0 dns.pgnhatrang.com
-0.0.0.0 mydns.phatna.net
 0.0.0.0 dns.phillipjberry.net
 0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 dot.centraleu.pi-dns.com
@@ -2251,7 +2240,6 @@
 0.0.0.0 frog.dns.qwer.pw
 0.0.0.0 lion.dns.qwer.pw
 0.0.0.0 tiger.dns.qwer.pw
-0.0.0.0 kams.kii.qzz.io
 0.0.0.0 zouter.zhang3118.qzz.io
 0.0.0.0 home.r01.fr
 0.0.0.0 resolver.r0cket.net
@@ -2366,7 +2354,6 @@
 0.0.0.0 dns.scapetical.com
 0.0.0.0 dns.scarx.net
 0.0.0.0 dns.scayn.com
-0.0.0.0 filter.das.sch.id
 0.0.0.0 dns.schlagheck.berlin
 0.0.0.0 dns.schmidt-zoarn.de
 0.0.0.0 moise-et-maurice-gardent-la-maison.schneiderus.org
@@ -2396,7 +2383,6 @@
 0.0.0.0 node9.servernode.store
 0.0.0.0 adguard.serverrune.be
 0.0.0.0 dns.servizimv.it
-0.0.0.0 alidns.session.pub
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
 0.0.0.0 d2.shabi.icu
@@ -2406,7 +2392,6 @@
 0.0.0.0 dns.shecan.ir
 0.0.0.0 free.shecan.ir
 0.0.0.0 pro.shecan.ir
-0.0.0.0 dns.sheggi.ch
 0.0.0.0 httpdns.n.shifen.com
 0.0.0.0 dns.shimul.me
 0.0.0.0 do.shimul.me
@@ -2459,7 +2444,6 @@
 0.0.0.0 dns.spirio.fr
 0.0.0.0 s1.srch.top
 0.0.0.0 adguard.sre.ovh
-0.0.0.0 proxy.srs.su
 0.0.0.0 dns2.srv-home.fr
 0.0.0.0 resolve.srv-pro.de
 0.0.0.0 resolve02.srv-pro.de
@@ -2679,7 +2663,6 @@
 0.0.0.0 adsl.viettel.vn
 0.0.0.0 dns2.vinc.me
 0.0.0.0 dns.vinnyp.xyz
-0.0.0.0 dns.vinokurov.tk
 0.0.0.0 dns.vip-kingstore.xyz
 0.0.0.0 z.vipit.one
 0.0.0.0 alina.virttec.net
@@ -2804,7 +2787,6 @@
 0.0.0.0 dns.yingroad.top
 0.0.0.0 appart.yoannchappaz.best
 0.0.0.0 com.you-seen.fr
-0.0.0.0 net01.youcef.io
 0.0.0.0 adguard.youler.com
 0.0.0.0 dns.youni.win
 0.0.0.0 guard.yps.tw
@@ -2844,7 +2826,6 @@
 0.0.0.0 xyz3.zmjflow.com
 0.0.0.0 dns.zmobiletech.com
 0.0.0.0 online.zotio.ru
-0.0.0.0 d.zscale.gq
 0.0.0.0 httpdns.zybang.com
 0.0.0.0 ams.core.access.zznet.fun
 0.0.0.0 hkg.core.access.zznet.fun
@@ -3297,7 +3278,6 @@
 0.0.0.0 vpnhellings.nl
 0.0.0.0 vtcuong.site
 0.0.0.0 wallpap.eu
-0.0.0.0 wantaquddin.com
 0.0.0.0 waydnes.ru
 0.0.0.0 webteufel-it.solutions
 0.0.0.0 whatcaniplay.com
@@ -3318,7 +3298,6 @@
 0.0.0.0 xn--80aeak3akfgk.xn--p1acf
 0.0.0.0 xn--80aecoigf4aatn.xn--p1ai
 0.0.0.0 xn--durhre-yxa.de
-0.0.0.0 xorbiadns.com
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 yeralin.net
@@ -3326,7 +3305,6 @@
 0.0.0.0 yovbak.com
 0.0.0.0 ys4.de
 0.0.0.0 yundun.icu
-0.0.0.0 yuvelirtut.website
 0.0.0.0 zabolotskikh.dev
 0.0.0.0 zakaria.website
 0.0.0.0 zaziss.com

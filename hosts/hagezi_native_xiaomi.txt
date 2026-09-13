@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
-! Version: 2026.0814.2207.01
-! Last modified: 2026-08-16T06:19:22.229Z
+! Version: 2026.0911.2204.39
+! Last modified: 2026-09-13T10:42:58.443Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -268,7 +268,6 @@
 0.0.0.0 pull.mitv.pandora.xiaomi.com
 0.0.0.0 media.pre.pandora.xiaomi.com
 0.0.0.0 bsp.sasdc.pandora.xiaomi.com
-0.0.0.0 bgp.tv.pandora.xiaomi.com
 0.0.0.0 3rdupgrade.pandora.xiaomi.com
 0.0.0.0 appstore.pandora.xiaomi.com
 0.0.0.0 bossadmin.pandora.xiaomi.com

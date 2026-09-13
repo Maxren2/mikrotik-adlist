@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
-! Version: 2026.0803.0707.52
-! Last modified: 2026-08-09T06:35:01.690Z
+! Version: 2026.0911.2203.40
+! Last modified: 2026-09-13T10:42:57.284Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
@@ -105,7 +105,6 @@
 0.0.0.0 foreign.coloros.com
 0.0.0.0 guif.coloros.com
 0.0.0.0 guif-eu.coloros.com
-0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 icota-eu.coloros.com
 0.0.0.0 ifrus.coloros.com
 0.0.0.0 ifrus-eu.coloros.com

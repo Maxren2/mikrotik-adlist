@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.0906.0658.45
-! Last modified: 2026-09-06T09:47:18.201Z
+! Version: 2026.0913.0705.50
+! Last modified: 2026-09-13T10:42:56.497Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -149,6 +149,7 @@
 0.0.0.0 adservice.google.co.bw
 0.0.0.0 adservice.google.co.cr
 0.0.0.0 adservice.google.co.id
+0.0.0.0 adservice.google.co.il
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.co.ke
@@ -167,7 +168,7 @@
 0.0.0.0 adservice.google.co.za
 0.0.0.0 adservice.google.co.zm
 0.0.0.0 adservice.google.co.zw
-0.0.0.0 cloudmail16.netcore.co.in
+0.0.0.0 cloudmail15.netcore.co.in
 0.0.0.0 cloudmail17.netcore.co.in
 0.0.0.0 cloudmail18.netcore.co.in
 0.0.0.0 cloudmail19.netcore.co.in
@@ -661,6 +662,7 @@
 0.0.0.0 view.email.microsoftemail.com
 0.0.0.0 email.microsoftonline.com
 0.0.0.0 click.email.microsoftrewards.com
+0.0.0.0 click.microsoftstoreemail.com
 0.0.0.0 tracking.minetracking.com
 0.0.0.0 links.mkt41.net
 0.0.0.0 links.mkt61.net
@@ -675,6 +677,7 @@
 0.0.0.0 api-02.moengage.com
 0.0.0.0 api-03.moengage.com
 0.0.0.0 api-04.moengage.com
+0.0.0.0 bapi-01.moengage.com
 0.0.0.0 bapi-02.moengage.com
 0.0.0.0 bapi-04.moengage.com
 0.0.0.0 t.emailing.monoprix.fr
@@ -782,6 +785,7 @@
 0.0.0.0 riwhpbyab.cc.rs6.net
 0.0.0.0 rjpz4ucab.cc.rs6.net
 0.0.0.0 rny9z6jab.cc.rs6.net
+0.0.0.0 rofikzxab.cc.rs6.net
 0.0.0.0 rpyplocab.cc.rs6.net
 0.0.0.0 rqtqnaqab.cc.rs6.net
 0.0.0.0 ruwolxbab.cc.rs6.net
@@ -927,6 +931,7 @@
 0.0.0.0 link.sylikes.com
 0.0.0.0 count.shopping.t-online.de
 0.0.0.0 redirect1069.tagcommander.com
+0.0.0.0 redirect3431.tagcommander.com
 0.0.0.0 redirect476.tagcommander.com
 0.0.0.0 redirect492.tagcommander.com
 0.0.0.0 data.email.tangerine.ca
@@ -1269,6 +1274,7 @@
 0.0.0.0 mkto-ab220038.com
 0.0.0.0 mkto-ab220141.com
 0.0.0.0 mkto-ab220178.com
+0.0.0.0 mkto-ab230114.com
 0.0.0.0 mkto-ab240112.com
 0.0.0.0 mkto-ab250068.com
 0.0.0.0 mkto-ab250105.com
@@ -1331,8 +1337,10 @@
 0.0.0.0 mkto-ab550184.com
 0.0.0.0 mkto-ab560068.com
 0.0.0.0 mkto-ab560119.com
+0.0.0.0 mkto-ab570052.com
 0.0.0.0 mkto-ab570128.com
 0.0.0.0 mkto-ab580004.com
+0.0.0.0 mkto-ab590004.com
 0.0.0.0 mkto-ab600004.com
 0.0.0.0 mkto-ab610035.com
 0.0.0.0 mkto-ab610084.com
@@ -1353,6 +1361,7 @@
 0.0.0.0 mkto-ab690064.com
 0.0.0.0 mkto-ab690132.com
 0.0.0.0 mkto-ab700044.com
+0.0.0.0 mkto-abb0069.com
 0.0.0.0 mkto-abc0114.com
 0.0.0.0 mkto-abc0241.com
 0.0.0.0 mkto-abd0218.com
@@ -1379,6 +1388,7 @@
 0.0.0.0 mkto-lon030291.com
 0.0.0.0 mkto-lon040022.com
 0.0.0.0 mkto-lon040102.com
+0.0.0.0 mkto-lon040152.com
 0.0.0.0 mkto-lon050034.com
 0.0.0.0 mkto-lon050143.com
 0.0.0.0 mkto-lon050200.com
@@ -1431,6 +1441,7 @@
 0.0.0.0 mkto-sj030216.com
 0.0.0.0 mkto-sj040148.com
 0.0.0.0 mkto-sj040252.com
+0.0.0.0 mkto-sj050029.com
 0.0.0.0 mkto-sj050106.com
 0.0.0.0 mkto-sj050137.com
 0.0.0.0 mkto-sj050202.com
@@ -1484,6 +1495,7 @@
 0.0.0.0 mkto-sj380104.com
 0.0.0.0 mkto-sj380142.com
 0.0.0.0 mkto-sj390079.com
+0.0.0.0 mkto-sj400023.com
 0.0.0.0 mkto-sjg0030.com
 0.0.0.0 mkto-sjh0084.com
 0.0.0.0 mkto-sji0183.com

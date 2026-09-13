@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
-! Version: 2026.0901.0748.50
-! Last modified: 2026-09-06T09:47:17.766Z
+! Version: 2026.0909.1447.31
+! Last modified: 2026-09-13T10:42:55.840Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -1063,7 +1063,6 @@
 0.0.0.0 the-finance-world.com
 0.0.0.0 tiiny.host
 0.0.0.0 tiiny.io
-0.0.0.0 tiiny.site
 0.0.0.0 tinylink.in
 0.0.0.0 tinyurl.ph
 0.0.0.0 tld.cc

@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
-! Version: 2026.0904.2248.42
-! Last modified: 2026-09-06T09:47:19.487Z
+! Version: 2026.0911.2157.59
+! Last modified: 2026-09-13T10:42:58.290Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -369,7 +369,6 @@
 0.0.0.0 citrixtelemetryeheu.servicebus.windows.net
 0.0.0.0 citrixtelemetryeheu-alias.servicebus.windows.net
 0.0.0.0 ehtelemetrystaging-alias.servicebus.windows.net
-0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 kg-legacy-analytics.servicebus.windows.net
