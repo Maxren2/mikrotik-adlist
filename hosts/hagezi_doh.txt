@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0911.1545.19
-! Last modified: 2026-09-13T10:42:55.108Z
+! Version: 2026.0919.0850.41
+! Last modified: 2026-09-20T10:11:45.112Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -145,6 +145,9 @@
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
 0.0.0.0 dns-unfiltered.adguard.com
+0.0.0.0 dns.adguarddns.com
+0.0.0.0 family.adguarddns.com
+0.0.0.0 unfiltered.adguarddns.com
 0.0.0.0 dns.adnull.com
 0.0.0.0 dns.adrianlam.com
 0.0.0.0 adguard.adrianofrongillo.ovh
@@ -234,6 +237,7 @@
 0.0.0.0 doh.archuser.org
 0.0.0.0 dns.ares-taiwan.com
 0.0.0.0 dns.arkbotech.com
+0.0.0.0 doh.armadillodns.net
 0.0.0.0 nsec.arnor.org
 0.0.0.0 dns.articrevised.cc
 0.0.0.0 dns.artikel10.org
@@ -355,6 +359,7 @@
 0.0.0.0 dns.bmwhocking.com
 0.0.0.0 cloud.boboba.ru
 0.0.0.0 dns.bofh.in
+0.0.0.0 doh.boje8.me
 0.0.0.0 adguard.bonis.de
 0.0.0.0 adguard1.bonis.de
 0.0.0.0 adguard2.bonis.de
@@ -470,6 +475,7 @@
 0.0.0.0 zeusvps.cloudns.nz
 0.0.0.0 dns-secondary.cloudnx.cloud
 0.0.0.0 dns.cloudseriousshit.com
+0.0.0.0 dns-fr-psv1.cloudsides.com
 0.0.0.0 dns.cloudtrust.solutions
 0.0.0.0 ca.doh.cloudveil.org
 0.0.0.0 us.doh.cloudveil.org
@@ -1002,6 +1008,7 @@
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
+0.0.0.0 saomai.dynu.com
 0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
@@ -1368,6 +1375,7 @@
 0.0.0.0 dns.hotta.page
 0.0.0.0 dns.housedenolf.be
 0.0.0.0 freemnt.hpitto.com
+0.0.0.0 doh.hshkf.com
 0.0.0.0 pub.hsuan.ink
 0.0.0.0 dnsguard.hte.vn
 0.0.0.0 dns.huanmave.cc
@@ -1375,6 +1383,7 @@
 0.0.0.0 doh.hugang8.cn
 0.0.0.0 dns.huizegunsing.nl
 0.0.0.0 dns.hujiayucc.cn
+0.0.0.0 ads.hunga1k47.com
 0.0.0.0 doth.huque.com
 0.0.0.0 dns.huth.nu
 0.0.0.0 v2-1.huwenqiang.xyz
@@ -1617,6 +1626,7 @@
 0.0.0.0 xray.krnl.eu
 0.0.0.0 dns.krol.cloud
 0.0.0.0 hdns.ksyun.com
+0.0.0.0 dns.kugoapps.com
 0.0.0.0 dns.kukal.cz
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
@@ -1707,12 +1717,14 @@
 0.0.0.0 dns.mafyuh.io
 0.0.0.0 guard.magic-pics.tk
 0.0.0.0 dns.mahiro.online
+0.0.0.0 adhome.maige.fun
 0.0.0.0 dns.mailcastle.in
 0.0.0.0 dnsserver.mailchan.eu
 0.0.0.0 dns.maitrekuc.fr
 0.0.0.0 dns.malhuda.com
 0.0.0.0 dns.mandre.dev
 0.0.0.0 adguard.manmademagic.com
+0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 dns.maomaovpn.com
 0.0.0.0 adguard.mapor.co
 0.0.0.0 dns.marasov.id
@@ -1770,6 +1782,7 @@
 0.0.0.0 dns.mikopono.nl
 0.0.0.0 rwkdwpwsyv48.mikopono.nl
 0.0.0.0 dns.millernetwork.uk
+0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 dns.mipauns.com
 0.0.0.0 guard.miracloud.fr
 0.0.0.0 netcup.mismat.ch
@@ -2091,6 +2104,7 @@
 0.0.0.0 dns.p55k.com
 0.0.0.0 dns.pacificmonster.com
 0.0.0.0 dns.paesa.es
+0.0.0.0 dns.paliska.net
 0.0.0.0 adguard.pancybertronics.com
 0.0.0.0 adguard.pangerl.it
 0.0.0.0 dns.panszelescik.pl
@@ -2617,8 +2631,6 @@
 0.0.0.0 adguard.twotigers.xyz
 0.0.0.0 dns.txq.life
 0.0.0.0 ad.tzockt.beer
-0.0.0.0 dot.ublockdns.com
-0.0.0.0 my.ublockdns.com
 0.0.0.0 v1.ufamax.eu
 0.0.0.0 blokuj.ujwie.co
 0.0.0.0 nitter.ujwie.co
@@ -2759,6 +2771,7 @@
 0.0.0.0 dns.xivilay.dev
 0.0.0.0 dns.xlion.tw
 0.0.0.0 doh.xorlet.ru
+0.0.0.0 adgh.xrossj.top
 0.0.0.0 look.xshentx.org
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
@@ -2796,6 +2809,7 @@
 0.0.0.0 dns.yu.dev
 0.0.0.0 adguard.yuki2th.xyz
 0.0.0.0 httpdns.yunxindns.com
+0.0.0.0 dns.yunzheng.space
 0.0.0.0 s1.yushuncompany.com
 0.0.0.0 dns.yuu-g.net
 0.0.0.0 dns.yuyz.net
@@ -2904,6 +2918,7 @@
 0.0.0.0 beacon.dog
 0.0.0.0 berd.moe
 0.0.0.0 bestwon203.com
+0.0.0.0 blockdns.com
 0.0.0.0 bluedns.xyz
 0.0.0.0 bluemood.me
 0.0.0.0 bobstrecansky.com
@@ -2951,6 +2966,7 @@
 0.0.0.0 digitallink.be
 0.0.0.0 dingdangnao.com
 0.0.0.0 disbish.com
+0.0.0.0 dltuykfgp.top
 0.0.0.0 dns.expert
 0.0.0.0 dns.google
 0.0.0.0 dns.pub
@@ -3224,6 +3240,7 @@
 0.0.0.0 shanghainese.uk
 0.0.0.0 shitblocker.com
 0.0.0.0 signsservers.ru
+0.0.0.0 sitdns.com
 0.0.0.0 skydragoness.com
 0.0.0.0 smartcamp.su
 0.0.0.0 smirnovfamily.ru
@@ -3247,6 +3264,7 @@
 0.0.0.0 thenotionplus.top
 0.0.0.0 thxvv.ru
 0.0.0.0 tigrons.ru
+0.0.0.0 timedns.net
 0.0.0.0 timmes.nl
 0.0.0.0 tk31z.com
 0.0.0.0 tlz.asia
@@ -3259,6 +3277,7 @@
 0.0.0.0 tujenasnaszato.xyz
 0.0.0.0 tuskythehusky.tech
 0.0.0.0 typaza.com
+0.0.0.0 ublockdns.com
 0.0.0.0 unasw.eu
 0.0.0.0 uncensoreddns.org
 0.0.0.0 unp.im

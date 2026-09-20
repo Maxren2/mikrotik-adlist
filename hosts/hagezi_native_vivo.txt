@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
-! Version: 2026.0911.2202.53
-! Last modified: 2026-09-13T10:42:58.137Z
+! Version: 2026.0918.2208.15
+! Last modified: 2026-09-20T10:11:47.777Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -135,6 +135,7 @@
 0.0.0.0 in-vpushort-stsdk.vivoglobal.com
 0.0.0.0 kz-album-api.vivoglobal.com
 0.0.0.0 kz-cname-sin01-bigdata.vivoglobal.com
+0.0.0.0 kz-cota.vivoglobal.com
 0.0.0.0 kz-err-up.vivoglobal.com
 0.0.0.0 kz-monitor-stsdk.vivoglobal.com
 0.0.0.0 kz-onrt-stsdk.vivoglobal.com

@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
-! Version: 2026.0911.2157.01
-! Last modified: 2026-09-13T10:42:56.665Z
+! Version: 2026.0918.0654.54
+! Last modified: 2026-09-20T10:11:46.426Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -281,6 +281,7 @@
 0.0.0.0 sponsored-ads.amazon.ca
 0.0.0.0 sponsored-ads.amazon.co.jp
 0.0.0.0 sponsored-ads.amazon.co.uk
+0.0.0.0 sponsored-ads.amazon.co.za
 0.0.0.0 sponsored-ads.amazon.com.au
 0.0.0.0 sponsored-ads.amazon.com.br
 0.0.0.0 sponsored-ads.amazon.com.mx
@@ -293,6 +294,7 @@
 0.0.0.0 sponsored-ads.amazon.in
 0.0.0.0 sponsored-ads.amazon.it
 0.0.0.0 sponsored-ads.amazon.sa
+0.0.0.0 sponsored-ads.amazon.sg
 0.0.0.0 sq-tungsten-ts-eu.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts-fe.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com

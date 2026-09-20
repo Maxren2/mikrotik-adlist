@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt
-! Version: 2026.0911.2142.03
-! Last modified: 2026-09-13T10:42:56.323Z
+! Version: 2026.0918.2145.28
+! Last modified: 2026-09-20T10:11:46.126Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 search.0xcb.dev
 0.0.0.0 search.0xgingi.com
@@ -42,6 +42,7 @@
 0.0.0.0 search.demoniak.ch
 0.0.0.0 librex.devol.it
 0.0.0.0 searx.devol.it
+0.0.0.0 searxng.diadz.de
 0.0.0.0 search.disroot.org
 0.0.0.0 searx.divided-by-zero.eu
 0.0.0.0 search.dojoro.de
@@ -65,6 +66,7 @@
 0.0.0.0 hmsearx.h0meserver.com
 0.0.0.0 searx.hardwired.link
 0.0.0.0 seeks.hsbp.org
+0.0.0.0 search.internetsucks.net
 0.0.0.0 search.ipsys.bf
 0.0.0.0 search.jpope.org
 0.0.0.0 search.kokomo.cloud
