@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0919.0850.41
-! Last modified: 2026-09-20T10:11:45.112Z
+! Version: 2026.0925.0915.25
+! Last modified: 2026-09-27T10:55:55.313Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -90,6 +90,8 @@
 0.0.0.0 dns.853852.xyz
 0.0.0.0 dns19.854000.xyz
 0.0.0.0 tyo.883933770.xyz
+0.0.0.0 addns.886675.xyz
+0.0.0.0 dot.886675.xyz
 0.0.0.0 dns.886886886.xyz
 0.0.0.0 dns.888654.xyz
 0.0.0.0 arches-srv1.8ws.net
@@ -245,7 +247,6 @@
 0.0.0.0 dns.as212683.net
 0.0.0.0 doh.asagiri.moe
 0.0.0.0 doh.asecdns.com
-0.0.0.0 dot.asecdns.com
 0.0.0.0 midgard.asguardian.de
 0.0.0.0 nilfheim.asguardian.de
 0.0.0.0 dns.ashleyjackson.net
@@ -930,6 +931,8 @@
 0.0.0.0 phonedns.dr3ff1c13nt.com
 0.0.0.0 twingatedns.dr3ff1c13nt.com
 0.0.0.0 dns.dragon0697.me
+0.0.0.0 family.dns.dremaxx.com
+0.0.0.0 open.dns.dremaxx.com
 0.0.0.0 dns.dremaxx.de
 0.0.0.0 dns.druta.me
 0.0.0.0 agh.dshubham.xyz

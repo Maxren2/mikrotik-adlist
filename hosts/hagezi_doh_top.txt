@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.0920.0852.32
-! Last modified: 2026-09-20T10:11:45.288Z
+! Version: 2026.0927.0920.23
+! Last modified: 2026-09-27T10:55:55.450Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
@@ -49,6 +49,7 @@
 0.0.0.0 httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 0.0.0.0 dns.digitalsize.net
 0.0.0.0 dotserver.douyucdn.cn
+0.0.0.0 dns.electrotm.org
 0.0.0.0 waterfox-ohttp-relay.fastly-edge.com
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 doh.ffmuc.net
@@ -69,7 +70,10 @@
 0.0.0.0 dns.iqiyi.com
 0.0.0.0 doh.iqiyi.com
 0.0.0.0 dns.jd.com
+0.0.0.0 protective.joindns4.eu
+0.0.0.0 unfiltered.joindns4.eu
 0.0.0.0 opencdn.jomodns.com
+0.0.0.0 dns.kernel-error.de
 0.0.0.0 hdns.ksyun.com
 0.0.0.0 doh.libredns.gr
 0.0.0.0 httpdns.meituan.com
@@ -108,20 +112,20 @@
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dnspub.restena.lu
 0.0.0.0 dns.rubyfish.cn
+0.0.0.0 free.shecan.ir
+0.0.0.0 dns.smartguard.io
 0.0.0.0 doh-01.spectrum.com
 0.0.0.0 doh-02.spectrum.com
+0.0.0.0 dns.surfsharkdns.com
 0.0.0.0 ibksturm.synology.me
 0.0.0.0 dns.t-ipnet.de
-0.0.0.0 httpdns.danuoyi.tbcache.com
 0.0.0.0 homenet.telecomitalia.it
-0.0.0.0 doh.tiar.app
 0.0.0.0 sdkconfig.tlivedns.com
 0.0.0.0 dns.twnic.tw
 0.0.0.0 dns.umbrella.com
 0.0.0.0 doh.umbrella.com
 0.0.0.0 adsl.viettel.vn
 0.0.0.0 httpdns.volcengineapi.com
-0.0.0.0 dooh.waterfox.net
 0.0.0.0 h4g3z1-doh.top.web.app
 0.0.0.0 dns.wechat.com
 0.0.0.0 paydns.wechatpay.cn
@@ -208,7 +212,6 @@
 0.0.0.0 domain.name
 0.0.0.0 dot.pub
 0.0.0.0 droyd.top
-0.0.0.0 easyhandshake.com
 0.0.0.0 edgy-dns.com
 0.0.0.0 eth.link
 0.0.0.0 farewellkou.click
@@ -218,8 +221,8 @@
 0.0.0.0 gibblets.top
 0.0.0.0 gigatapbot.top
 0.0.0.0 glacius.top
-0.0.0.0 greatideasforlife.lol
 0.0.0.0 gztech.me
+0.0.0.0 hfgx.shop
 0.0.0.0 himedns.com
 0.0.0.0 hitian.me
 0.0.0.0 hshh.org
@@ -234,7 +237,6 @@
 0.0.0.0 jackyes.ovh
 0.0.0.0 jcdns.fun
 0.0.0.0 jkdns.me
-0.0.0.0 johneldenring.lol
 0.0.0.0 kaiwu.xyz
 0.0.0.0 kavkaz.monster
 0.0.0.0 kilabit.info
@@ -282,7 +284,6 @@
 0.0.0.0 quic.lol
 0.0.0.0 r1bnc.com
 0.0.0.0 regiopolis.cloud
-0.0.0.0 renardbleu.dev
 0.0.0.0 rethinkdns.com
 0.0.0.0 revelio.top
 0.0.0.0 ricko.is

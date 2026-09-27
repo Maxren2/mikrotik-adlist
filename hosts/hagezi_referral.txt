@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.0920.0705.09
-! Last modified: 2026-09-20T10:11:46.277Z
+! Version: 2026.0927.0721.06
+! Last modified: 2026-09-27T10:55:56.203Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -269,6 +269,7 @@
 0.0.0.0 m-gzmk5.custobar.com
 0.0.0.0 m-hju7x.custobar.com
 0.0.0.0 m-htgjb.custobar.com
+0.0.0.0 m-irfsz.custobar.com
 0.0.0.0 m-itsof.custobar.com
 0.0.0.0 m-jxb43.custobar.com
 0.0.0.0 m-jzt.custobar.com
@@ -409,6 +410,7 @@
 0.0.0.0 suite45.emarsys.net
 0.0.0.0 suite45-cf.emarsys.net
 0.0.0.0 suite46.emarsys.net
+0.0.0.0 suite48.emarsys.net
 0.0.0.0 suite5.emarsys.net
 0.0.0.0 suite50.emarsys.net
 0.0.0.0 suite51.emarsys.net
@@ -471,7 +473,6 @@
 0.0.0.0 cl.s6.exct.net
 0.0.0.0 cl.s7.exct.net
 0.0.0.0 cl.exct.net
-0.0.0.0 click.idprotect.experian.com
 0.0.0.0 click.e.usa.experian.com
 0.0.0.0 cdn.e-pfg.exponea.com
 0.0.0.0 cdn.eu1.exponea.com
@@ -491,11 +492,13 @@
 0.0.0.0 fis-moominarabia-cdn.exponea.com
 0.0.0.0 fis-royalcopenhagen-cdn.exponea.com
 0.0.0.0 hpt-cdn.exponea.com
+0.0.0.0 neoengage-va-cdn.exponea.com
 0.0.0.0 pan-cdn.exponea.com
 0.0.0.0 puc-cdn.exponea.com
 0.0.0.0 raisin-cdn.exponea.com
 0.0.0.0 ri-cdn.exponea.com
 0.0.0.0 rozetka-cdn.exponea.com
+0.0.0.0 sazka-cdn.exponea.com
 0.0.0.0 sofology-cdn.exponea.com
 0.0.0.0 l.facebook.com
 0.0.0.0 click.fidelityinvestments.com
@@ -718,6 +721,27 @@
 0.0.0.0 track.omguk.com
 0.0.0.0 mail.onedrive.com
 0.0.0.0 trk.outbizz.com
+0.0.0.0 app1a.gateway.portal.outreach.io
+0.0.0.0 app1c.gateway.portal.outreach.io
+0.0.0.0 app1e.gateway.portal.outreach.io
+0.0.0.0 app1f.gateway.portal.outreach.io
+0.0.0.0 app2a.gateway.portal.outreach.io
+0.0.0.0 app2c.gateway.portal.outreach.io
+0.0.0.0 app1a.portal.outreach.io
+0.0.0.0 app1b.portal.outreach.io
+0.0.0.0 app1c.portal.outreach.io
+0.0.0.0 app1e.portal.outreach.io
+0.0.0.0 app1f.portal.outreach.io
+0.0.0.0 app2a.portal.outreach.io
+0.0.0.0 app2b.portal.outreach.io
+0.0.0.0 app2c.portal.outreach.io
+0.0.0.0 app1a.outreach.io
+0.0.0.0 app1b.outreach.io
+0.0.0.0 app1c.outreach.io
+0.0.0.0 app1e.outreach.io
+0.0.0.0 app1f.outreach.io
+0.0.0.0 app2a.outreach.io
+0.0.0.0 app2c.outreach.io
 0.0.0.0 ct.paidmediatrk.com
 0.0.0.0 sites.paradox.ai
 0.0.0.0 link.us.paramountplus.com
@@ -1206,12 +1230,12 @@
 0.0.0.0 mkto-ab010044.com
 0.0.0.0 mkto-ab010150.com
 0.0.0.0 mkto-ab020242.com
-0.0.0.0 mkto-ab030075.com
 0.0.0.0 mkto-ab040117.com
 0.0.0.0 mkto-ab060101.com
 0.0.0.0 mkto-ab060134.com
 0.0.0.0 mkto-ab060144.com
 0.0.0.0 mkto-ab060210.com
+0.0.0.0 mkto-ab060212.com
 0.0.0.0 mkto-ab070069.com
 0.0.0.0 mkto-ab080055.com
 0.0.0.0 mkto-ab080061.com
@@ -1222,10 +1246,11 @@
 0.0.0.0 mkto-ab120041.com
 0.0.0.0 mkto-ab120150.com
 0.0.0.0 mkto-ab130037.com
+0.0.0.0 mkto-ab130147.com
 0.0.0.0 mkto-ab130188.com
 0.0.0.0 mkto-ab140048.com
 0.0.0.0 mkto-ab150013.com
-0.0.0.0 mkto-ab150073.com
+0.0.0.0 mkto-ab150224.com
 0.0.0.0 mkto-ab170094.com
 0.0.0.0 mkto-ab170123.com
 0.0.0.0 mkto-ab170161.com
@@ -1272,7 +1297,6 @@
 0.0.0.0 mkto-ab430114.com
 0.0.0.0 mkto-ab430126.com
 0.0.0.0 mkto-ab430167.com
-0.0.0.0 mkto-ab430186.com
 0.0.0.0 mkto-ab430187.com
 0.0.0.0 mkto-ab440025.com
 0.0.0.0 mkto-ab440026.com
@@ -1281,12 +1305,14 @@
 0.0.0.0 mkto-ab450015.com
 0.0.0.0 mkto-ab450037.com
 0.0.0.0 mkto-ab450153.com
+0.0.0.0 mkto-ab460099.com
 0.0.0.0 mkto-ab470013.com
 0.0.0.0 mkto-ab470119.com
 0.0.0.0 mkto-ab480014.com
 0.0.0.0 mkto-ab480015.com
 0.0.0.0 mkto-ab480166.com
 0.0.0.0 mkto-ab500022.com
+0.0.0.0 mkto-ab520004.com
 0.0.0.0 mkto-ab530192.com
 0.0.0.0 mkto-ab540143.com
 0.0.0.0 mkto-ab550041.com
@@ -1299,6 +1325,7 @@
 0.0.0.0 mkto-ab600004.com
 0.0.0.0 mkto-ab610035.com
 0.0.0.0 mkto-ab610084.com
+0.0.0.0 mkto-ab610096.com
 0.0.0.0 mkto-ab620021.com
 0.0.0.0 mkto-ab620024.com
 0.0.0.0 mkto-ab620054.com
@@ -1326,6 +1353,7 @@
 0.0.0.0 mkto-b0025.com
 0.0.0.0 mkto-c0100.com
 0.0.0.0 mkto-cs0007.com
+0.0.0.0 mkto-d0071.com
 0.0.0.0 mkto-e0014.com
 0.0.0.0 mkto-e0126.com
 0.0.0.0 mkto-e0231.com
@@ -1344,6 +1372,7 @@
 0.0.0.0 mkto-lon050034.com
 0.0.0.0 mkto-lon050143.com
 0.0.0.0 mkto-lon050200.com
+0.0.0.0 mkto-lon060128.com
 0.0.0.0 mkto-lon060131.com
 0.0.0.0 mkto-lon060180.com
 0.0.0.0 mkto-lon060217.com
@@ -1385,8 +1414,10 @@
 0.0.0.0 mkto-nld1050103.com
 0.0.0.0 mkto-nld1050130.com
 0.0.0.0 mkto-nld1050142.com
+0.0.0.0 mkto-nld1050156.com
 0.0.0.0 mkto-nld1050162.com
 0.0.0.0 mkto-q0155.com
+0.0.0.0 mkto-sj010128.com
 0.0.0.0 mkto-sj010203.com
 0.0.0.0 mkto-sj020238.com
 0.0.0.0 mkto-sj030214.com
@@ -1399,9 +1430,9 @@
 0.0.0.0 mkto-sj050237.com
 0.0.0.0 mkto-sj070141.com
 0.0.0.0 mkto-sj070193.com
+0.0.0.0 mkto-sj070214.com
 0.0.0.0 mkto-sj070218.com
 0.0.0.0 mkto-sj080048.com
-0.0.0.0 mkto-sj080251.com
 0.0.0.0 mkto-sj130243.com
 0.0.0.0 mkto-sj140007.com
 0.0.0.0 mkto-sj140170.com
@@ -1422,6 +1453,7 @@
 0.0.0.0 mkto-sj210170.com
 0.0.0.0 mkto-sj220006.com
 0.0.0.0 mkto-sj220082.com
+0.0.0.0 mkto-sj240021.com
 0.0.0.0 mkto-sj250062.com
 0.0.0.0 mkto-sj250111.com
 0.0.0.0 mkto-sj250187.com
@@ -1431,6 +1463,7 @@
 0.0.0.0 mkto-sj280147.com
 0.0.0.0 mkto-sj290040.com
 0.0.0.0 mkto-sj290167.com
+0.0.0.0 mkto-sj310061.com
 0.0.0.0 mkto-sj310157.com
 0.0.0.0 mkto-sj320061.com
 0.0.0.0 mkto-sj320080.com
@@ -1449,6 +1482,7 @@
 0.0.0.0 mkto-sj400023.com
 0.0.0.0 mkto-sjg0030.com
 0.0.0.0 mkto-sjh0084.com
+0.0.0.0 mkto-sjh0178.com
 0.0.0.0 mkto-sji0183.com
 0.0.0.0 mkto-sn010116.com
 0.0.0.0 mkto-sn030149.com

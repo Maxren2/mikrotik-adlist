@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/social.txt
-! Version: 2026.0912.0735.40
-! Last modified: 2026-09-13T10:42:54.964Z
+! Version: 2026.0925.2157.19
+! Last modified: 2026-09-27T10:55:55.184Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 2ch.org
 0.0.0.0 4cdn.org
@@ -686,7 +686,6 @@
 0.0.0.0 p16-tiktok-livestudio-asset-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
-0.0.0.0 p16-tiktok-va.ibyteimg.com
 0.0.0.0 p16-tiktok-web-ads-sg.ibyteimg.com
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 parse.com

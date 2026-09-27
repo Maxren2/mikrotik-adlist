@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
-! Version: 2026.0918.2208.15
-! Last modified: 2026-09-20T10:11:47.777Z
+! Version: 2026.0925.2206.45
+! Last modified: 2026-09-27T10:55:57.253Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -71,7 +71,10 @@
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
 0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
+0.0.0.0 co-cota.vivoglobal.com
 0.0.0.0 co-domaincfg.vivoglobal.com
+0.0.0.0 co-onrt-stsdk.vivoglobal.com
+0.0.0.0 co-ort-stsdk.vivoglobal.com
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-st-sl.vivoglobal.com
@@ -79,7 +82,9 @@
 0.0.0.0 co-timesync.vivoglobal.com
 0.0.0.0 co-vcode-api.vivoglobal.com
 0.0.0.0 co-vcode-od.vivoglobal.com
+0.0.0.0 co-vcode-or.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
+0.0.0.0 de-gdpr-vcode-api.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
 0.0.0.0 eu-album-api.vivoglobal.com
 0.0.0.0 eu-cota.vivoglobal.com
@@ -111,6 +116,7 @@
 0.0.0.0 in-apport-stsdk.vivoglobal.com
 0.0.0.0 in-apppnrt-stsdk.vivoglobal.com
 0.0.0.0 in-appprt-stsdk.vivoglobal.com
+0.0.0.0 in-cfg-stsdk.vivoglobal.com
 0.0.0.0 in-cota.vivoglobal.com
 0.0.0.0 in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 in-ctdbort-stsdk.vivoglobal.com

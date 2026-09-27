@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
-! Version: 2026.0918.2146.14
-! Last modified: 2026-09-20T10:11:45.631Z
+! Version: 2026.0924.2349.25
+! Last modified: 2026-09-27T10:55:55.726Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -11,7 +11,6 @@
 0.0.0.0 ddns.com.co
 0.0.0.0 dynamicdns.com.co
 0.0.0.0 winco.com.br
-0.0.0.0 dyn.dns.he.net
 0.0.0.0 4040.idv.tw
 0.0.0.0 ddns.me.uk
 0.0.0.0 dynamicdns.me.uk

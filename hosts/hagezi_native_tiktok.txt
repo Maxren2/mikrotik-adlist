@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-! Version: 2026.0918.2204.29
-! Last modified: 2026-09-20T10:11:47.466Z
+! Version: 2026.0925.2203.16
+! Last modified: 2026-09-27T10:55:57.055Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 analytics.us.tiktok.com.bytewlb.akadns.net
@@ -220,6 +220,7 @@
 0.0.0.0 live-video-log16-normal-alisg.tiktokv.com
 0.0.0.0 location.tiktokv.com
 0.0.0.0 location.tiktokv.eu
+0.0.0.0 location.tiktokv.us
 0.0.0.0 location-i18n.tiktokv.com
 0.0.0.0 location-ru.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com

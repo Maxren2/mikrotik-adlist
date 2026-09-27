@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
-! Version: 2026.0831.1836.12
-! Last modified: 2026-09-06T09:47:18.440Z
+! Version: 2026.0920.1145.21
+! Last modified: 2026-09-27T10:55:56.411Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -30,6 +30,7 @@
 0.0.0.0 partiality.itunes-apple.com.akadns.net
 0.0.0.0 searchads.lb-apple.com.akadns.net
 0.0.0.0 iad-apple.com.akadns.net
+0.0.0.0 aios-otel-collector.g.apple.com
 0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 msc-dct-prod.msc.apple.com
 0.0.0.0 fbs.smoot.apple.com
