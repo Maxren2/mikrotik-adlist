@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
-! Version: 2026.0911.2204.39
-! Last modified: 2026-09-13T10:42:58.443Z
+! Version: 2026.0927.2037.15
+! Last modified: 2026-10-04T11:25:12.069Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -145,7 +145,7 @@
 0.0.0.0 stat.miui.com
 0.0.0.0 testit.miui.com
 0.0.0.0 tracking.miui.com
-0.0.0.0 h4g3z1-native.xiaomi.web.app
+0.0.0.0 h4g3z1-native-xiaomi.web.app
 0.0.0.0 api.ads.xiaomi.com
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 tracker-preview.ai.xiaomi.com

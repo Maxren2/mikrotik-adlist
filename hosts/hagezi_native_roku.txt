@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt
-! Version: 2026.0924.0800.55
-! Last modified: 2026-09-27T10:55:56.855Z
+! Version: 2026.0927.2034.34
+! Last modified: 2026-10-04T11:25:11.249Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 roku.adsmeasurement.com
 0.0.0.0 adeng-identity-prod3.bdp.roku.com
@@ -73,5 +73,5 @@
 0.0.0.0 logs.roku.com
 0.0.0.0 wwwimg.roku.com
 0.0.0.0 ads.rokuapi.net
-0.0.0.0 h4g3z1-native.roku.web.app
+0.0.0.0 h4g3z1-native-roku.web.app
 0.0.0.0 ravm.tv

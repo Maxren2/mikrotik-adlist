@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
-! Version: 2026.0920.1145.21
-! Last modified: 2026-09-27T10:55:56.411Z
+! Version: 2026.1002.2203.56
+! Last modified: 2026-10-04T11:25:10.618Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -19,10 +19,7 @@
 0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 supportmetrics.v.aaplimg.com
 0.0.0.0 xp.v.aaplimg.com
-0.0.0.0 ab.apple.com.akadns.net
-0.0.0.0 diagassets-lb.apple.com.akadns.net
 0.0.0.0 diagnostics.apple.com.akadns.net
-0.0.0.0 iadcontent-lb.apple.com.akadns.net
 0.0.0.0 iadsdk.apple.com.akadns.net
 0.0.0.0 idiagnostics.apple.com.akadns.net
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
@@ -108,6 +105,6 @@
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 marketing.services.apple
 0.0.0.0 beacon.shazam.com
-0.0.0.0 h4g3z1-native.apple.web.app
+0.0.0.0 h4g3z1-native-apple.web.app
 0.0.0.0 applemediaservices.com
 0.0.0.0 qwapi.com

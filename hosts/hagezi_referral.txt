@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.0927.0721.06
-! Last modified: 2026-09-27T10:55:56.203Z
+! Version: 2026.1004.0726.39
+! Last modified: 2026-10-04T11:25:10.349Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -15,6 +15,7 @@
 0.0.0.0 track.addtocart.today
 0.0.0.0 a1.adform.net
 0.0.0.0 track.adform.net
+0.0.0.0 track-eu.adform.net
 0.0.0.0 app.eu.adjust.com
 0.0.0.0 app.tr.adjust.com
 0.0.0.0 app.us.adjust.com
@@ -267,6 +268,7 @@
 0.0.0.0 m-fucdf.custobar.com
 0.0.0.0 m-gs5w6.custobar.com
 0.0.0.0 m-gzmk5.custobar.com
+0.0.0.0 m-hbr.custobar.com
 0.0.0.0 m-hju7x.custobar.com
 0.0.0.0 m-htgjb.custobar.com
 0.0.0.0 m-irfsz.custobar.com
@@ -275,11 +277,14 @@
 0.0.0.0 m-jzt.custobar.com
 0.0.0.0 m-kpz.custobar.com
 0.0.0.0 m-kzo.custobar.com
+0.0.0.0 m-lka.custobar.com
 0.0.0.0 m-ll23a.custobar.com
+0.0.0.0 m-mmasd.custobar.com
 0.0.0.0 m-no5by.custobar.com
 0.0.0.0 m-nvdxq.custobar.com
 0.0.0.0 m-nxt.custobar.com
 0.0.0.0 m-oszhr.custobar.com
+0.0.0.0 m-plo.custobar.com
 0.0.0.0 m-pwvgh.custobar.com
 0.0.0.0 m-qrl63.custobar.com
 0.0.0.0 m-rst.custobar.com
@@ -481,6 +486,7 @@
 0.0.0.0 cdn.uk.exponea.com
 0.0.0.0 cdn.us1.exponea.com
 0.0.0.0 4patientcare-cdn.exponea.com
+0.0.0.0 affinion-cdn.exponea.com
 0.0.0.0 alx-cdn.exponea.com
 0.0.0.0 amway-cdn.exponea.com
 0.0.0.0 cdn.exponea.com
@@ -492,6 +498,7 @@
 0.0.0.0 fis-moominarabia-cdn.exponea.com
 0.0.0.0 fis-royalcopenhagen-cdn.exponea.com
 0.0.0.0 hpt-cdn.exponea.com
+0.0.0.0 lner-cdn.exponea.com
 0.0.0.0 neoengage-va-cdn.exponea.com
 0.0.0.0 pan-cdn.exponea.com
 0.0.0.0 puc-cdn.exponea.com
@@ -569,6 +576,7 @@
 0.0.0.0 click.holidayinnclubemail.com
 0.0.0.0 go.hotmart.com
 0.0.0.0 click.instantink.hpsmart.com
+0.0.0.0 sites.hscoscdn-ap1.net
 0.0.0.0 sites.hscoscdn-eu1.net
 0.0.0.0 sites.hscoscdn-na2.net
 0.0.0.0 341676991.group0.sites.hscoscdn-na3.net
@@ -680,7 +688,6 @@
 0.0.0.0 api-02.moengage.com
 0.0.0.0 api-03.moengage.com
 0.0.0.0 api-04.moengage.com
-0.0.0.0 bapi-01.moengage.com
 0.0.0.0 bapi-02.moengage.com
 0.0.0.0 bapi-04.moengage.com
 0.0.0.0 t.emailing.monoprix.fr
@@ -736,7 +743,6 @@
 0.0.0.0 app2b.portal.outreach.io
 0.0.0.0 app2c.portal.outreach.io
 0.0.0.0 app1a.outreach.io
-0.0.0.0 app1b.outreach.io
 0.0.0.0 app1c.outreach.io
 0.0.0.0 app1e.outreach.io
 0.0.0.0 app1f.outreach.io
@@ -953,7 +959,6 @@
 0.0.0.0 secure.traqkarr.com
 0.0.0.0 track.connect.travelaudience.com
 0.0.0.0 onboard.triptease.io
-0.0.0.0 trk.trktrackier.com
 0.0.0.0 tracking.trucliks.com
 0.0.0.0 tracker.trust-link.io
 0.0.0.0 analytics.trustyou.com
@@ -1297,6 +1302,7 @@
 0.0.0.0 mkto-ab430114.com
 0.0.0.0 mkto-ab430126.com
 0.0.0.0 mkto-ab430167.com
+0.0.0.0 mkto-ab430186.com
 0.0.0.0 mkto-ab430187.com
 0.0.0.0 mkto-ab440025.com
 0.0.0.0 mkto-ab440026.com
@@ -1345,6 +1351,7 @@
 0.0.0.0 mkto-ab700044.com
 0.0.0.0 mkto-abb0069.com
 0.0.0.0 mkto-abc0114.com
+0.0.0.0 mkto-abc0203.com
 0.0.0.0 mkto-abc0241.com
 0.0.0.0 mkto-abd0218.com
 0.0.0.0 mkto-abj0022.com
@@ -1365,6 +1372,7 @@
 0.0.0.0 mkto-lon020062.com
 0.0.0.0 mkto-lon020336.com
 0.0.0.0 mkto-lon030249.com
+0.0.0.0 mkto-lon030262.com
 0.0.0.0 mkto-lon030291.com
 0.0.0.0 mkto-lon040022.com
 0.0.0.0 mkto-lon040102.com
@@ -1389,6 +1397,7 @@
 0.0.0.0 mkto-lon090131.com
 0.0.0.0 mkto-lon100051.com
 0.0.0.0 mkto-lon100178.com
+0.0.0.0 mkto-lon100192.com
 0.0.0.0 mkto-m0106.com
 0.0.0.0 mkto-m0111.com
 0.0.0.0 mkto-mlm10010008.com
@@ -1402,6 +1411,7 @@
 0.0.0.0 mkto-nld1010159.com
 0.0.0.0 mkto-nld1020025.com
 0.0.0.0 mkto-nld1020077.com
+0.0.0.0 mkto-nld1020084.com
 0.0.0.0 mkto-nld1020138.com
 0.0.0.0 mkto-nld1020173.com
 0.0.0.0 mkto-nld1020221.com
@@ -1455,7 +1465,6 @@
 0.0.0.0 mkto-sj220082.com
 0.0.0.0 mkto-sj240021.com
 0.0.0.0 mkto-sj250062.com
-0.0.0.0 mkto-sj250111.com
 0.0.0.0 mkto-sj250187.com
 0.0.0.0 mkto-sj270072.com
 0.0.0.0 mkto-sj270078.com
@@ -1469,8 +1478,6 @@
 0.0.0.0 mkto-sj320080.com
 0.0.0.0 mkto-sj330006.com
 0.0.0.0 mkto-sj340004.com
-0.0.0.0 mkto-sj360090.com
-0.0.0.0 mkto-sj360091.com
 0.0.0.0 mkto-sj360104.com
 0.0.0.0 mkto-sj360117.com
 0.0.0.0 mkto-sj360142.com

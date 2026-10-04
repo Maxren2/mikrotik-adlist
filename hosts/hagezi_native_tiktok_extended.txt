@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt
-! Version: 2026.0925.2204.00
-! Last modified: 2026-09-27T10:55:57.141Z
+! Version: 2026.1002.2209.28
+! Last modified: 2026-10-04T11:25:11.632Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
@@ -52,6 +52,7 @@
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xlog-va-useast2a.byteoversea.com
+0.0.0.0 frontier.us.capcut.com
 0.0.0.0 log-boot.capcutapi.com
 0.0.0.0 log-sg.capcutapi.com
 0.0.0.0 log-v2-boot.capcutapi.com
@@ -93,7 +94,9 @@
 0.0.0.0 tnc-va.capcutapi.com
 0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
+0.0.0.0 tnc16-normal-us-ttp2.capcutapi.us
 0.0.0.0 frontier.capcutw.us
+0.0.0.0 frontier-us-ttp2.capcutw.us
 0.0.0.0 mon-i18n.tiktokv.com.dvaitas.lt
 0.0.0.0 mon16-normal-no1a.tiktokv.eu.dvaitas.lt
 0.0.0.0 mon16-normal-useastred.tiktokv.eu.dvaitas.lt
@@ -479,6 +482,7 @@
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
+0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger16-normal-useastred.tiktokv.eu
 0.0.0.0 rtlog.tiktokv.com
@@ -615,4 +619,4 @@
 0.0.0.0 mcs-ie.tiktokw.eu.ttdns3.com
 0.0.0.0 mcs-ie2.tiktokw.eu.ttdns3.com
 0.0.0.0 ad-instantpage.tiktokv.us.ttdns4.com
-0.0.0.0 h4g3z1-native.tiktok.extended.web.app
+0.0.0.0 h4g3z1-native-tiktok-extended.web.app

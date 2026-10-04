@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.0925.0915.25
-! Last modified: 2026-09-27T10:55:55.313Z
+! Version: 2026.1004.0912.56
+! Last modified: 2026-10-04T11:25:09.098Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -115,7 +115,6 @@
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
 0.0.0.0 doh-dns-apple-com.v.aaplimg.com
 0.0.0.0 dns.aaronplayzgaming.com
-0.0.0.0 dns.aaytorr.com
 0.0.0.0 adguard.abd.ong
 0.0.0.0 dns.abdullahabas.de
 0.0.0.0 dns.abdullahabas.online
@@ -171,15 +170,6 @@
 0.0.0.0 rdjdns.ajraspi.xyz
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.albony.xyz
-0.0.0.0 dns.alekberg.net
-0.0.0.0 dns2.alekberg.net
-0.0.0.0 dnses.alekberg.net
-0.0.0.0 dnsnl.alekberg.net
-0.0.0.0 dnsnl-noads.alekberg.net
-0.0.0.0 dnsse.alekberg.net
-0.0.0.0 dnsse-noads.alekberg.net
-0.0.0.0 odoh-target.alekberg.net
-0.0.0.0 odoh-target-noads.alekberg.net
 0.0.0.0 agh.alematho.de
 0.0.0.0 diskstation.alexpollard.net
 0.0.0.0 httpdns.alicdn.com
@@ -214,9 +204,6 @@
 0.0.0.0 dns.andreykiv.com
 0.0.0.0 doh.angry.im
 0.0.0.0 rootdns.anir0y.in
-0.0.0.0 dns.jp.anitelecom.org
-0.0.0.0 dns.ru.anitelekom.ru
-0.0.0.0 sanns.aniuo.com
 0.0.0.0 dns.anne-pierre.fr
 0.0.0.0 dns.anon.no
 0.0.0.0 dns2.anuar.me
@@ -274,13 +261,11 @@
 0.0.0.0 vdsn-nl-2.azatmutq.com
 0.0.0.0 dns.azcom.dev
 0.0.0.0 dns.azfar.my
-0.0.0.0 doh.azoris.ovh
 0.0.0.0 sradg.eastus.cloudapp.azure.com
 0.0.0.0 doh1.b-cdn.net
 0.0.0.0 doh2.b-cdn.net
 0.0.0.0 dns.b33.network
 0.0.0.0 dns.b33.space
-0.0.0.0 node3.b4el.ru
 0.0.0.0 dns.b612.me
 0.0.0.0 dns.b72.com
 0.0.0.0 dns.bad-taste.app
@@ -376,7 +361,6 @@
 0.0.0.0 dns.braene.com
 0.0.0.0 dns.brahma.world
 0.0.0.0 dns.brembeck.cloud
-0.0.0.0 dns.briac-mlb.fr
 0.0.0.0 dns.system.brianhong.kr
 0.0.0.0 ag.brianlee.fun
 0.0.0.0 dns.brionesserver.net
@@ -387,7 +371,6 @@
 0.0.0.0 81xyz.brudnowski.eu
 0.0.0.0 doh.bt.com
 0.0.0.0 goose.buckyfan.net
-0.0.0.0 doh.bugdns.com
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 dns.burgas.pro
 0.0.0.0 dns.busold.ws
@@ -430,9 +413,7 @@
 0.0.0.0 cloudsrv.charitosnet.de
 0.0.0.0 adghome.charleschan.net
 0.0.0.0 dns.charraud.eu
-0.0.0.0 adguard.chaudharyarnav.com
 0.0.0.0 dns.chenu.ch
-0.0.0.0 adguard.chestnov.ru
 0.0.0.0 dns.chilimac.net
 0.0.0.0 dns.chillstice.com
 0.0.0.0 dns.chriscsc.me
@@ -568,7 +549,6 @@
 0.0.0.0 allain.com.br
 0.0.0.0 lothuscorp.com.br
 0.0.0.0 skynetinternet.com.br
-0.0.0.0 dns.comeonjames.club
 0.0.0.0 dns.comff.net
 0.0.0.0 hk.conana.info
 0.0.0.0 dns1.conne.net
@@ -597,7 +577,6 @@
 0.0.0.0 a5135324.csie.io
 0.0.0.0 dns.csswg.org
 0.0.0.0 webdav.cubecloud.win
-0.0.0.0 iux3-s.cuiy4trg8fmosya2iip3ci.name
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
@@ -1011,7 +990,6 @@
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
-0.0.0.0 saomai.dynu.com
 0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
@@ -1038,6 +1016,7 @@
 0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 cloud.efreakbnc.net
 0.0.0.0 adguard.eischmann.cz
+0.0.0.0 dns.ekinao.com
 0.0.0.0 dd.elashri.net
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.electrotm.org
@@ -1148,7 +1127,6 @@
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 dot.ffmuc.net
 0.0.0.0 dns.ffnw.de
-0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 adg.fiyaajans.com
 0.0.0.0 dns.fizz.studio
@@ -1287,7 +1265,6 @@
 0.0.0.0 vps.grussenmeyer.com
 0.0.0.0 dns.gsmseti.net
 0.0.0.0 dns.guard.io
-0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 homedns.gumeniuk.com
 0.0.0.0 dns.gupthabrothers.in
@@ -1378,7 +1355,9 @@
 0.0.0.0 dns.hotta.page
 0.0.0.0 dns.housedenolf.be
 0.0.0.0 freemnt.hpitto.com
+0.0.0.0 dns.hqdns.sarl
 0.0.0.0 doh.hshkf.com
+0.0.0.0 dns.hshoe.cn
 0.0.0.0 pub.hsuan.ink
 0.0.0.0 dnsguard.hte.vn
 0.0.0.0 dns.huanmave.cc
@@ -2774,7 +2753,6 @@
 0.0.0.0 dns.xivilay.dev
 0.0.0.0 dns.xlion.tw
 0.0.0.0 doh.xorlet.ru
-0.0.0.0 adgh.xrossj.top
 0.0.0.0 look.xshentx.org
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
@@ -2831,7 +2809,6 @@
 0.0.0.0 doh.zephyrus.id
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 oraclejp01.zerotorez.com
-0.0.0.0 dns.zfsystem.tech
 0.0.0.0 d.zhanchuraevv.ru
 0.0.0.0 httpdns.zhihu.com
 0.0.0.0 doh.zhongbr.uk
@@ -3174,6 +3151,7 @@
 0.0.0.0 ntwrkh.pro
 0.0.0.0 nwps.fi
 0.0.0.0 o1.lt
+0.0.0.0 obscuro.top
 0.0.0.0 oculta.me
 0.0.0.0 okado.online
 0.0.0.0 oowo.de
@@ -3320,8 +3298,6 @@
 0.0.0.0 xn--80aeak3akfgk.xn--p1acf
 0.0.0.0 xn--80aecoigf4aatn.xn--p1ai
 0.0.0.0 xn--durhre-yxa.de
-0.0.0.0 ychen.cf
-0.0.0.0 ychen.gq
 0.0.0.0 yeralin.net
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
