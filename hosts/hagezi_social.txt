@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/social.txt
-! Version: 2026.0925.2157.19
-! Last modified: 2026-09-27T10:55:55.184Z
+! Version: 2026.1009.2153.05
+! Last modified: 2026-10-11T11:42:09.909Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 2ch.org
 0.0.0.0 4cdn.org
@@ -806,6 +806,8 @@
 0.0.0.0 thefind.com
 0.0.0.0 theinstagramhack.com
 0.0.0.0 tiktok.com
+0.0.0.0 tiktok.tps.dv.tech
+0.0.0.0 tiktokcdn-eu.com.ttdns3.com
 0.0.0.0 tiktokcdn-eu.com
 0.0.0.0 tiktokcdn-eu.net
 0.0.0.0 tiktokcdn-in.com
@@ -815,8 +817,11 @@
 0.0.0.0 tiktokcdn.shop
 0.0.0.0 tiktokcdn.us
 0.0.0.0 tiktokrow-cdn.com
+0.0.0.0 tiktokv.com.edgesuite.net
 0.0.0.0 tiktokv.com
+0.0.0.0 tiktokv.eu.edgesuite.net
 0.0.0.0 tiktokv.eu
+0.0.0.0 tiktokv.us.edgesuite.net
 0.0.0.0 tiktokv.us
 0.0.0.0 tiktokw.eu
 0.0.0.0 tiktokw.us

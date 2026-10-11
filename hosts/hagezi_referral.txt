@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.1004.0726.39
-! Last modified: 2026-10-04T11:25:10.349Z
+! Version: 2026.1011.0728.36
+! Last modified: 2026-10-11T11:42:11.902Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -76,6 +76,35 @@
 0.0.0.0 aax-us-east-retail-direct.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 assoc-redirect.amazon.com
+0.0.0.0 aax-events-cell01-cf.ap-southeast.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.eu-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-pdns-wt.us-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.eu-south.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.eu-west.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-pdns-wt.us-east.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.fe.us-west.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.fe.us-west.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-pdns-wt.fe.us-west.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-fe-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-us-east-retail-direct.amazon-adsystem.com
@@ -252,6 +281,7 @@
 0.0.0.0 m-42m67.custobar.com
 0.0.0.0 m-4wovq.custobar.com
 0.0.0.0 m-54yud.custobar.com
+0.0.0.0 m-55aim.custobar.com
 0.0.0.0 m-5fwyg.custobar.com
 0.0.0.0 m-5gene.custobar.com
 0.0.0.0 m-6pyms.custobar.com
@@ -507,6 +537,7 @@
 0.0.0.0 rozetka-cdn.exponea.com
 0.0.0.0 sazka-cdn.exponea.com
 0.0.0.0 sofology-cdn.exponea.com
+0.0.0.0 thu-cdn.exponea.com
 0.0.0.0 l.facebook.com
 0.0.0.0 click.fidelityinvestments.com
 0.0.0.0 click.figma.com
@@ -576,7 +607,7 @@
 0.0.0.0 click.holidayinnclubemail.com
 0.0.0.0 go.hotmart.com
 0.0.0.0 click.instantink.hpsmart.com
-0.0.0.0 sites.hscoscdn-ap1.net
+0.0.0.0 47587921.group0.sites.hscoscdn-ap1.net
 0.0.0.0 sites.hscoscdn-eu1.net
 0.0.0.0 sites.hscoscdn-na2.net
 0.0.0.0 341676991.group0.sites.hscoscdn-na3.net
@@ -688,6 +719,7 @@
 0.0.0.0 api-02.moengage.com
 0.0.0.0 api-03.moengage.com
 0.0.0.0 api-04.moengage.com
+0.0.0.0 bapi-01.moengage.com
 0.0.0.0 bapi-02.moengage.com
 0.0.0.0 bapi-04.moengage.com
 0.0.0.0 t.emailing.monoprix.fr
@@ -743,6 +775,7 @@
 0.0.0.0 app2b.portal.outreach.io
 0.0.0.0 app2c.portal.outreach.io
 0.0.0.0 app1a.outreach.io
+0.0.0.0 app1b.outreach.io
 0.0.0.0 app1c.outreach.io
 0.0.0.0 app1e.outreach.io
 0.0.0.0 app1f.outreach.io
@@ -803,6 +836,7 @@
 0.0.0.0 click.royalcaribbeanmarketing.com
 0.0.0.0 r5siqu4ab.cc.rs6.net
 0.0.0.0 riwhpbyab.cc.rs6.net
+0.0.0.0 rj8k6hdab.cc.rs6.net
 0.0.0.0 rofikzxab.cc.rs6.net
 0.0.0.0 rvalb7cab.cc.rs6.net
 0.0.0.0 rxnpit6ab.cc.rs6.net
@@ -1234,6 +1268,7 @@
 0.0.0.0 micpn.com
 0.0.0.0 mkto-ab010044.com
 0.0.0.0 mkto-ab010150.com
+0.0.0.0 mkto-ab010164.com
 0.0.0.0 mkto-ab020242.com
 0.0.0.0 mkto-ab040117.com
 0.0.0.0 mkto-ab060101.com
@@ -1263,6 +1298,7 @@
 0.0.0.0 mkto-ab220038.com
 0.0.0.0 mkto-ab230114.com
 0.0.0.0 mkto-ab240112.com
+0.0.0.0 mkto-ab240175.com
 0.0.0.0 mkto-ab250068.com
 0.0.0.0 mkto-ab250105.com
 0.0.0.0 mkto-ab250167.com
@@ -1340,9 +1376,11 @@
 0.0.0.0 mkto-ab620130.com
 0.0.0.0 mkto-ab630033.com
 0.0.0.0 mkto-ab630042.com
+0.0.0.0 mkto-ab630057.com
 0.0.0.0 mkto-ab640171.com
 0.0.0.0 mkto-ab650025.com
 0.0.0.0 mkto-ab650172.com
+0.0.0.0 mkto-ab660066.com
 0.0.0.0 mkto-ab660168.com
 0.0.0.0 mkto-ab680016.com
 0.0.0.0 mkto-ab690062.com
@@ -1352,6 +1390,7 @@
 0.0.0.0 mkto-abb0069.com
 0.0.0.0 mkto-abc0114.com
 0.0.0.0 mkto-abc0203.com
+0.0.0.0 mkto-abc0232.com
 0.0.0.0 mkto-abc0241.com
 0.0.0.0 mkto-abd0218.com
 0.0.0.0 mkto-abj0022.com
@@ -1370,6 +1409,7 @@
 0.0.0.0 mkto-j0126.com
 0.0.0.0 mkto-lon020055.com
 0.0.0.0 mkto-lon020062.com
+0.0.0.0 mkto-lon020302.com
 0.0.0.0 mkto-lon020336.com
 0.0.0.0 mkto-lon030249.com
 0.0.0.0 mkto-lon030262.com
@@ -1383,6 +1423,7 @@
 0.0.0.0 mkto-lon060128.com
 0.0.0.0 mkto-lon060131.com
 0.0.0.0 mkto-lon060180.com
+0.0.0.0 mkto-lon060196.com
 0.0.0.0 mkto-lon060217.com
 0.0.0.0 mkto-lon070075.com
 0.0.0.0 mkto-lon070192.com
@@ -1401,6 +1442,8 @@
 0.0.0.0 mkto-m0106.com
 0.0.0.0 mkto-m0111.com
 0.0.0.0 mkto-mlm10010008.com
+0.0.0.0 mkto-mlm10030005.com
+0.0.0.0 mkto-mlm10040018.com
 0.0.0.0 mkto-mlm20020041.com
 0.0.0.0 mkto-n0092.com
 0.0.0.0 mkto-n0243.com
@@ -1414,19 +1457,23 @@
 0.0.0.0 mkto-nld1020084.com
 0.0.0.0 mkto-nld1020138.com
 0.0.0.0 mkto-nld1020173.com
+0.0.0.0 mkto-nld1020182.com
 0.0.0.0 mkto-nld1020221.com
 0.0.0.0 mkto-nld1030007.com
 0.0.0.0 mkto-nld1040056.com
 0.0.0.0 mkto-nld1040117.com
 0.0.0.0 mkto-nld1040152.com
+0.0.0.0 mkto-nld1040179.com
 0.0.0.0 mkto-nld1050007.com
 0.0.0.0 mkto-nld1050048.com
 0.0.0.0 mkto-nld1050103.com
 0.0.0.0 mkto-nld1050130.com
+0.0.0.0 mkto-nld1050131.com
 0.0.0.0 mkto-nld1050142.com
 0.0.0.0 mkto-nld1050156.com
 0.0.0.0 mkto-nld1050162.com
 0.0.0.0 mkto-q0155.com
+0.0.0.0 mkto-sj010104.com
 0.0.0.0 mkto-sj010128.com
 0.0.0.0 mkto-sj010203.com
 0.0.0.0 mkto-sj020238.com
@@ -1452,7 +1499,6 @@
 0.0.0.0 mkto-sj160211.com
 0.0.0.0 mkto-sj170174.com
 0.0.0.0 mkto-sj180011.com
-0.0.0.0 mkto-sj190094.com
 0.0.0.0 mkto-sj190104.com
 0.0.0.0 mkto-sj200186.com
 0.0.0.0 mkto-sj200191.com
@@ -1490,6 +1536,7 @@
 0.0.0.0 mkto-sjg0030.com
 0.0.0.0 mkto-sjh0084.com
 0.0.0.0 mkto-sjh0178.com
+0.0.0.0 mkto-sji0033.com
 0.0.0.0 mkto-sji0183.com
 0.0.0.0 mkto-sn010116.com
 0.0.0.0 mkto-sn030149.com
