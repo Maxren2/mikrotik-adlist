@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.1011.0916.37
-! Last modified: 2026-10-11T11:42:10.038Z
+! Version: 2026.1016.1001.04
+! Last modified: 2026-10-18T10:00:24.369Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -170,6 +170,9 @@
 0.0.0.0 rdjdns.ajraspi.xyz
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.albony.xyz
+0.0.0.0 dnses.alekberg.net
+0.0.0.0 dnsnl.alekberg.net
+0.0.0.0 dnsse.alekberg.net
 0.0.0.0 agh.alematho.de
 0.0.0.0 diskstation.alexpollard.net
 0.0.0.0 httpdns.alicdn.com
@@ -401,7 +404,9 @@
 0.0.0.0 adguard.cedoman.com
 0.0.0.0 unicast2.servers.censurfridns.dk
 0.0.0.0 anycast.censurfridns.dk
+0.0.0.0 anycast.censurfridns.nu
 0.0.0.0 unicast.censurfridns.dk
+0.0.0.0 unicast.censurfridns.nu
 0.0.0.0 dns.cert.ee
 0.0.0.0 pds.cfornas.casa
 0.0.0.0 ibuki.cgnat.net
@@ -424,6 +429,7 @@
 0.0.0.0 dns.chunghwamc.com
 0.0.0.0 oraclejp2.chungyu.com
 0.0.0.0 c.cicitt.ch
+0.0.0.0 doh.cippapp.com
 0.0.0.0 canadianshield.cira.ca
 0.0.0.0 crd.circl.lu
 0.0.0.0 dns.circl.lu
@@ -462,6 +468,7 @@
 0.0.0.0 us.doh.cloudveil.org
 0.0.0.0 dns.cmrg.net
 0.0.0.0 adguard.cnbeining.com
+0.0.0.0 doh.cnetwork.cloud
 0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 dns.adriason.co.uk
 0.0.0.0 teamspeak.adriason.co.uk
@@ -1607,6 +1614,7 @@
 0.0.0.0 dns.l337.site
 0.0.0.0 dns.l6.ee
 0.0.0.0 dns.labar.re
+0.0.0.0 dns.labnekotest.site
 0.0.0.0 doh.lacontrevoie.fr
 0.0.0.0 2024.laijy.top
 0.0.0.0 x.laoban.fun
@@ -1896,6 +1904,7 @@
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
 0.0.0.0 x210-131-219-118.static.xvps.ne.jp
 0.0.0.0 dns.neeb.it
+0.0.0.0 adguard.neon0404.space
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 positif4.cross.net.id
 0.0.0.0 guard-jkt-225.glosindo.net.id
@@ -2007,6 +2016,7 @@
 0.0.0.0 adguard.ohmhv57.org
 0.0.0.0 adh.olesgroup.com
 0.0.0.0 dns.oliverweinhold.de
+0.0.0.0 dns.olpploiopkuyhiopsfrt.info
 0.0.0.0 dns.omada.cafe
 0.0.0.0 dns.omee4.ru
 0.0.0.0 one.one.one.one
@@ -2287,6 +2297,7 @@
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
 0.0.0.0 uw-dns.rubyfish.cn
+0.0.0.0 adg.rueiliu.space
 0.0.0.0 ramy.run.place
 0.0.0.0 doh.runsel.id
 0.0.0.0 agh-bitk.russel053.com
@@ -2415,6 +2426,7 @@
 0.0.0.0 resolve2.srv-pro.de
 0.0.0.0 dns.sshub.win
 0.0.0.0 doh.ntu.ssooss.win
+0.0.0.0 ag.ssrahul96.xyz
 0.0.0.0 dns.sstomp.nl
 0.0.0.0 dns2.st4rs.net
 0.0.0.0 hk2.ss.startagegames.com
@@ -2506,7 +2518,6 @@
 0.0.0.0 d51538618.access.telenet.be
 0.0.0.0 guard.telesterion.de
 0.0.0.0 agh.srv.tenete.net
-0.0.0.0 ag.teqilla.tk
 0.0.0.0 apne1.dns.terumi.club
 0.0.0.0 dns.soldier.terumi.club
 0.0.0.0 dns.tesem.dog
@@ -2523,7 +2534,6 @@
 0.0.0.0 blocker.thethorsens.org
 0.0.0.0 dns.thezudrive.xyz
 0.0.0.0 wg.thienhv.com
-0.0.0.0 doh.thio.me
 0.0.0.0 dns.thiz.top
 0.0.0.0 dns.thore.cloud
 0.0.0.0 doh.tiar.app
@@ -2582,7 +2592,6 @@
 0.0.0.0 adguard.twotigers.xyz
 0.0.0.0 dns.txq.life
 0.0.0.0 ad.tzockt.beer
-0.0.0.0 v1.ufamax.eu
 0.0.0.0 blokuj.ujwie.co
 0.0.0.0 nitter.ujwie.co
 0.0.0.0 adguard.ulbricht.cloud
@@ -2622,7 +2631,6 @@
 0.0.0.0 ad.viet.date
 0.0.0.0 dns.vietdns.vn
 0.0.0.0 kids.vietdns.vn
-0.0.0.0 tls.vietguards.cloud
 0.0.0.0 adsl.viettel.vn
 0.0.0.0 dns2.vinc.me
 0.0.0.0 dns.vinnyp.xyz
@@ -2643,6 +2651,7 @@
 0.0.0.0 dns.w3ctag.org
 0.0.0.0 bh.wael.name
 0.0.0.0 dns.wael.name
+0.0.0.0 dns.wahr.top
 0.0.0.0 aqua.is.my.waifu.cz
 0.0.0.0 darkness.is.my.waifu.cz
 0.0.0.0 megumin.is.my.waifu.cz
@@ -2706,6 +2715,7 @@
 0.0.0.0 dns1.wyss.network
 0.0.0.0 ads.x88.in
 0.0.0.0 adguard.x88x.xyz
+0.0.0.0 dns.x8net.ru
 0.0.0.0 adguard.xandersalarie.com
 0.0.0.0 adb-home.xaoimoon.fr
 0.0.0.0 adb-wan.xaoimoon.fr
@@ -2752,7 +2762,6 @@
 0.0.0.0 com.you-seen.fr
 0.0.0.0 adguard.youler.com
 0.0.0.0 dns.youni.win
-0.0.0.0 guard.yps.tw
 0.0.0.0 dus.ysbs.uk
 0.0.0.0 dns.ytpom.ru
 0.0.0.0 dns2.ytpom.ru
@@ -2789,6 +2798,7 @@
 0.0.0.0 xyz3.zmjflow.com
 0.0.0.0 dns.zmobiletech.com
 0.0.0.0 online.zotio.ru
+0.0.0.0 dns.zui.lol
 0.0.0.0 httpdns.zybang.com
 0.0.0.0 ams.core.access.zznet.fun
 0.0.0.0 hkg.core.access.zznet.fun
@@ -2826,6 +2836,7 @@
 0.0.0.0 adampowell.pro
 0.0.0.0 adblockersite.com
 0.0.0.0 adfight.ru
+0.0.0.0 adfiltro.fun
 0.0.0.0 adfreedns.eu
 0.0.0.0 adfreedns.top
 0.0.0.0 adghome.ru
@@ -2843,6 +2854,7 @@
 0.0.0.0 aihe.app
 0.0.0.0 alidns.com
 0.0.0.0 aliyunhttpdns.com
+0.0.0.0 alleesph.online
 0.0.0.0 alon93rus.ru
 0.0.0.0 an81dns.ru
 0.0.0.0 andrewnw.xyz
@@ -3268,7 +3280,6 @@
 0.0.0.0 zabolotskikh.dev
 0.0.0.0 zakaria.website
 0.0.0.0 zaziss.com
-0.0.0.0 zburger.top
 0.0.0.0 zdn.ro
 0.0.0.0 zhengkaiyun.top
 0.0.0.0 zougloub.eu

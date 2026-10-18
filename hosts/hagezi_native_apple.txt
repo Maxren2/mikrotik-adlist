@@ -1,17 +1,19 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
-! Version: 2026.1002.2203.56
-! Last modified: 2026-10-04T11:25:10.618Z
+! Version: 2026.1017.1853.28
+! Last modified: 2026-10-18T10:00:30.408Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
 0.0.0.0 cdn-xp-ingest-ab.v.aaplimg.com
 0.0.0.0 iphonesubmissions.v.aaplimg.com
+0.0.0.0 prod-app-analytics-event-gateway.v.aaplimg.com
 0.0.0.0 prod-event-relay-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-books-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-notes-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-sports-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-stocks-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
+0.0.0.0 prod-iwork-events.v.aaplimg.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
 0.0.0.0 securemetrics.v.aaplimg.com
 0.0.0.0 securemetrics-cn.v.aaplimg.com
@@ -28,6 +30,7 @@
 0.0.0.0 searchads.lb-apple.com.akadns.net
 0.0.0.0 iad-apple.com.akadns.net
 0.0.0.0 aios-otel-collector.g.apple.com
+0.0.0.0 app-events.infoapps.apple.com
 0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 msc-dct-prod.msc.apple.com
 0.0.0.0 fbs.smoot.apple.com
@@ -46,6 +49,7 @@
 0.0.0.0 dz1dt3wqswdezgx4j2ryem5iad.apple.com
 0.0.0.0 experiments.apple.com
 0.0.0.0 flirfvysba2opz0zmzqs5iuiad.apple.com
+0.0.0.0 freeform-events.apple.com
 0.0.0.0 graffiti-tags.apple.com
 0.0.0.0 iad.apple.com
 0.0.0.0 iadcontent.apple.com

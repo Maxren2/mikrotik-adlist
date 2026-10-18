@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.1011.0728.36
-! Last modified: 2026-10-11T11:42:11.902Z
+! Version: 2026.1018.0747.42
+! Last modified: 2026-10-18T10:00:30.227Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -198,7 +198,6 @@
 0.0.0.0 adservice.google.co.za
 0.0.0.0 adservice.google.co.zm
 0.0.0.0 adservice.google.co.zw
-0.0.0.0 cloudmail15.netcore.co.in
 0.0.0.0 cloudmail17.netcore.co.in
 0.0.0.0 cloudmail18.netcore.co.in
 0.0.0.0 cloudmail19.netcore.co.in
@@ -292,6 +291,7 @@
 0.0.0.0 m-b2o72.custobar.com
 0.0.0.0 m-bcta6.custobar.com
 0.0.0.0 m-bsp.custobar.com
+0.0.0.0 m-bzp7z.custobar.com
 0.0.0.0 m-c5a3m.custobar.com
 0.0.0.0 m-eqxt2.custobar.com
 0.0.0.0 m-fi32s.custobar.com
@@ -334,6 +334,7 @@
 0.0.0.0 m-ueuba.custobar.com
 0.0.0.0 m-vek.custobar.com
 0.0.0.0 m-vq63s.custobar.com
+0.0.0.0 m-wg25k.custobar.com
 0.0.0.0 m-zvrkv.custobar.com
 0.0.0.0 m-zwhsc.custobar.com
 0.0.0.0 edge-e-balw.customer.io
@@ -774,8 +775,6 @@
 0.0.0.0 app2a.portal.outreach.io
 0.0.0.0 app2b.portal.outreach.io
 0.0.0.0 app2c.portal.outreach.io
-0.0.0.0 app1a.outreach.io
-0.0.0.0 app1b.outreach.io
 0.0.0.0 app1c.outreach.io
 0.0.0.0 app1e.outreach.io
 0.0.0.0 app1f.outreach.io
@@ -835,6 +834,7 @@
 0.0.0.0 adorama.rfvk.net
 0.0.0.0 click.royalcaribbeanmarketing.com
 0.0.0.0 r5siqu4ab.cc.rs6.net
+0.0.0.0 ratm5k9ab.cc.rs6.net
 0.0.0.0 riwhpbyab.cc.rs6.net
 0.0.0.0 rj8k6hdab.cc.rs6.net
 0.0.0.0 rofikzxab.cc.rs6.net
@@ -987,6 +987,8 @@
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 ts.tradetracker.net
+0.0.0.0 ad.trafficgate.net
+0.0.0.0 ad2.trafficgate.net
 0.0.0.0 track.trafficguard.ai
 0.0.0.0 godev.trakaff.net
 0.0.0.0 api.traq.li
@@ -1266,10 +1268,12 @@
 0.0.0.0 mediazotic.net
 0.0.0.0 mention-me.com
 0.0.0.0 micpn.com
+0.0.0.0 mjt.lu
 0.0.0.0 mkto-ab010044.com
 0.0.0.0 mkto-ab010150.com
 0.0.0.0 mkto-ab010164.com
 0.0.0.0 mkto-ab020242.com
+0.0.0.0 mkto-ab040003.com
 0.0.0.0 mkto-ab040117.com
 0.0.0.0 mkto-ab060101.com
 0.0.0.0 mkto-ab060134.com
@@ -1279,6 +1283,7 @@
 0.0.0.0 mkto-ab070069.com
 0.0.0.0 mkto-ab080055.com
 0.0.0.0 mkto-ab080061.com
+0.0.0.0 mkto-ab090179.com
 0.0.0.0 mkto-ab100192.com
 0.0.0.0 mkto-ab100241.com
 0.0.0.0 mkto-ab110171.com
@@ -1295,10 +1300,12 @@
 0.0.0.0 mkto-ab170123.com
 0.0.0.0 mkto-ab170161.com
 0.0.0.0 mkto-ab180024.com
+0.0.0.0 mkto-ab200187.com
 0.0.0.0 mkto-ab220038.com
 0.0.0.0 mkto-ab230114.com
 0.0.0.0 mkto-ab240112.com
 0.0.0.0 mkto-ab240175.com
+0.0.0.0 mkto-ab250055.com
 0.0.0.0 mkto-ab250068.com
 0.0.0.0 mkto-ab250105.com
 0.0.0.0 mkto-ab250167.com
@@ -1317,6 +1324,7 @@
 0.0.0.0 mkto-ab340128.com
 0.0.0.0 mkto-ab350042.com
 0.0.0.0 mkto-ab350047.com
+0.0.0.0 mkto-ab350122.com
 0.0.0.0 mkto-ab350123.com
 0.0.0.0 mkto-ab370015.com
 0.0.0.0 mkto-ab390033.com
@@ -1350,6 +1358,7 @@
 0.0.0.0 mkto-ab460099.com
 0.0.0.0 mkto-ab470013.com
 0.0.0.0 mkto-ab470119.com
+0.0.0.0 mkto-ab470124.com
 0.0.0.0 mkto-ab480014.com
 0.0.0.0 mkto-ab480015.com
 0.0.0.0 mkto-ab480166.com
@@ -1363,6 +1372,7 @@
 0.0.0.0 mkto-ab560119.com
 0.0.0.0 mkto-ab570052.com
 0.0.0.0 mkto-ab570128.com
+0.0.0.0 mkto-ab570178.com
 0.0.0.0 mkto-ab580004.com
 0.0.0.0 mkto-ab600004.com
 0.0.0.0 mkto-ab610035.com
@@ -1460,6 +1470,7 @@
 0.0.0.0 mkto-nld1020182.com
 0.0.0.0 mkto-nld1020221.com
 0.0.0.0 mkto-nld1030007.com
+0.0.0.0 mkto-nld1030009.com
 0.0.0.0 mkto-nld1040056.com
 0.0.0.0 mkto-nld1040117.com
 0.0.0.0 mkto-nld1040152.com
@@ -1493,10 +1504,12 @@
 0.0.0.0 mkto-sj130243.com
 0.0.0.0 mkto-sj140007.com
 0.0.0.0 mkto-sj140170.com
+0.0.0.0 mkto-sj140221.com
 0.0.0.0 mkto-sj150025.com
 0.0.0.0 mkto-sj160006.com
 0.0.0.0 mkto-sj160014.com
 0.0.0.0 mkto-sj160211.com
+0.0.0.0 mkto-sj160226.com
 0.0.0.0 mkto-sj170174.com
 0.0.0.0 mkto-sj180011.com
 0.0.0.0 mkto-sj190104.com
@@ -1540,6 +1553,7 @@
 0.0.0.0 mkto-sji0183.com
 0.0.0.0 mkto-sn010116.com
 0.0.0.0 mkto-sn030149.com
+0.0.0.0 mkto-sn040139.com
 0.0.0.0 mkto-sn040166.com
 0.0.0.0 mkto-sn060071.com
 0.0.0.0 mktoweb.com
@@ -1642,7 +1656,6 @@
 0.0.0.0 trackwithadsplus.com
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradetracker.com
-0.0.0.0 trkjkamaret.com
 0.0.0.0 trkn.us
 0.0.0.0 trkrcc.com
 0.0.0.0 uinterbox.com

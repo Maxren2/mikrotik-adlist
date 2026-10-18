@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-! Version: 2026.1009.2200.19
-! Last modified: 2026-10-11T11:42:13.861Z
+! Version: 2026.1016.2205.52
+! Last modified: 2026-10-18T10:00:31.085Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 analytics.us.tiktok.com.bytewlb.akadns.net
@@ -164,7 +164,6 @@
 0.0.0.0 analytics-ttp2.us.tiktok.com
 0.0.0.0 mcs.us.tiktok.com
 0.0.0.0 mcs-ttp2.us.tiktok.com
-0.0.0.0 mssdk.us.tiktok.com
 0.0.0.0 ad.tiktok.tv
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.tiktok.in
@@ -191,7 +190,6 @@
 0.0.0.0 location.tiktok.com
 0.0.0.0 mcs-i18n.tiktok.com
 0.0.0.0 mcs-va.tiktok.com
-0.0.0.0 mssdk-i18n.tiktok.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 location.us.tiktokv.com
 0.0.0.0 location-ttp2.us.tiktokv.com
@@ -200,7 +198,6 @@
 0.0.0.0 log19-applog-useast5.us.tiktokv.com
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
-0.0.0.0 mssdk.us.tiktokv.com
 0.0.0.0 rtc-logger.us.tiktokv.com
 0.0.0.0 rtc-logger-ttp2.us.tiktokv.com
 0.0.0.0 rtlog.us.tiktokv.com
@@ -321,11 +318,6 @@
 0.0.0.0 mon-useast2a.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 monbk.tiktokv.com
-0.0.0.0 mssdk-i18n.tiktokv.com
-0.0.0.0 mssdk-phx.tiktokv.com
-0.0.0.0 mssdk-ru.tiktokv.com
-0.0.0.0 mssdk-sg.tiktokv.com
-0.0.0.0 mssdk-va-useast2a.tiktokv.com
 0.0.0.0 rtc-logger.tiktokv.com
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger-i18n.tiktokv.com
@@ -438,8 +430,6 @@
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-ie2.tiktokw.eu
-0.0.0.0 mssdk.tiktokw.eu
-0.0.0.0 mssdk.tiktokw.us
 0.0.0.0 analytics.tiktok.com.ttdns2.com
 0.0.0.0 analytics-exp-ru.tiktok.com.ttdns2.com
 0.0.0.0 analytics-ru.tiktok.com.ttdns2.com

@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt
-! Version: 2026.1004.0129.50
-! Last modified: 2026-10-04T11:25:10.923Z
+! Version: 2026.1016.2208.09
+! Last modified: 2026-10-18T10:00:30.579Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 lgads.adsmeasurement.com
 0.0.0.0 ae-ad-lgsmartad-com.aws-prd.net
@@ -144,6 +144,7 @@
 0.0.0.0 mt-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 mu-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 mx-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 mx-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 my-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 mz-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 na-ad-lgsmartad-com.aws-prd.net
