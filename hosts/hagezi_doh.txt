@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-! Version: 2026.1016.1001.04
-! Last modified: 2026-10-18T10:00:24.369Z
+! Version: 2026.1024.0945.45
+! Last modified: 2026-10-25T10:16:21.742Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
@@ -829,6 +829,7 @@
 0.0.0.0 prg01.dnscry.pt
 0.0.0.0 rdd01.dnscry.pt
 0.0.0.0 rix01.dnscry.pt
+0.0.0.0 sao01.dnscry.pt
 0.0.0.0 sea01.dnscry.pt
 0.0.0.0 sel02.dnscry.pt
 0.0.0.0 sgn01.dnscry.pt

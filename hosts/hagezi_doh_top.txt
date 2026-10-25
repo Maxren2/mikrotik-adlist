@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.1018.0947.14
-! Last modified: 2026-10-18T10:00:24.528Z
+! Version: 2026.1024.0946.46
+! Last modified: 2026-10-25T10:16:21.878Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
@@ -25,10 +25,7 @@
 0.0.0.0 nvi-dns.bitdefender.net
 0.0.0.0 ore-dns.bitdefender.net
 0.0.0.0 tky-dns.bitdefender.net
-0.0.0.0 doh-ch.blahdns.com
 0.0.0.0 doh-de.blahdns.com
-0.0.0.0 doh-fi.blahdns.com
-0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 doh-sg.blahdns.com
 0.0.0.0 dns.brahma.world
 0.0.0.0 httpdns.c.cdnhwc2.com
@@ -65,7 +62,6 @@
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 http-dns.imoim.net
-0.0.0.0 apidns.kwd.inkuai.com
 0.0.0.0 httpdns.kwd.inkuai.com
 0.0.0.0 dns.iqiyi.com
 0.0.0.0 doh.iqiyi.com
@@ -95,7 +91,6 @@
 0.0.0.0 resolver1.opendns.com
 0.0.0.0 resolver1-fs.opendns.com
 0.0.0.0 resolver2.opendns.com
-0.0.0.0 resolver2-fs.opendns.com
 0.0.0.0 sandbox.opendns.com
 0.0.0.0 httpdns.ocloud.oppomobile.com
 0.0.0.0 httpdns.push.oppomobile.com
@@ -111,7 +106,6 @@
 0.0.0.0 dns12.quad9.net
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dnspub.restena.lu
-0.0.0.0 dns.rubyfish.cn
 0.0.0.0 free.shecan.ir
 0.0.0.0 dns.smartguard.io
 0.0.0.0 doh-01.spectrum.com
@@ -213,7 +207,6 @@
 0.0.0.0 droyd.top
 0.0.0.0 edgy-dns.com
 0.0.0.0 eth.link
-0.0.0.0 farewellkou.click
 0.0.0.0 fezgate.ovh
 0.0.0.0 fidelius.top
 0.0.0.0 getdnsapi.net
