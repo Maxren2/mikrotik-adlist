@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.1024.0759.06
-! Last modified: 2026-10-25T10:16:22.643Z
+! Version: 2026.1101.0842.59
+! Last modified: 2026-11-01T12:09:17.969Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -279,6 +279,7 @@
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 m-3b5ue.custobar.com
 0.0.0.0 m-3fq4v.custobar.com
+0.0.0.0 m-3s3q4.custobar.com
 0.0.0.0 m-42m67.custobar.com
 0.0.0.0 m-4wovq.custobar.com
 0.0.0.0 m-54yud.custobar.com
@@ -295,6 +296,8 @@
 0.0.0.0 m-bsp.custobar.com
 0.0.0.0 m-bzp7z.custobar.com
 0.0.0.0 m-c5a3m.custobar.com
+0.0.0.0 m-dpsxz.custobar.com
+0.0.0.0 m-dsrbu.custobar.com
 0.0.0.0 m-eqxt2.custobar.com
 0.0.0.0 m-fi32s.custobar.com
 0.0.0.0 m-fqlpo.custobar.com
@@ -379,6 +382,7 @@
 0.0.0.0 click.dji.com
 0.0.0.0 postsign.docusign.com
 0.0.0.0 klclick.dollarshaveclub.com
+0.0.0.0 c2827.dotomi.com
 0.0.0.0 cadent-match.dotomi.com
 0.0.0.0 casale-match.dotomi.com
 0.0.0.0 cj.dotomi.com
@@ -534,6 +538,7 @@
 0.0.0.0 fis-moominarabia-cdn.exponea.com
 0.0.0.0 fis-royalcopenhagen-cdn.exponea.com
 0.0.0.0 hpt-cdn.exponea.com
+0.0.0.0 indrive-cdn.exponea.com
 0.0.0.0 lner-cdn.exponea.com
 0.0.0.0 pan-cdn.exponea.com
 0.0.0.0 puc-cdn.exponea.com
@@ -593,6 +598,7 @@
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservice.google.no
 0.0.0.0 adservice.google.pl
+0.0.0.0 adservice.google.pt
 0.0.0.0 adservice.google.ro
 0.0.0.0 adservice.google.rs
 0.0.0.0 adservice.google.ru
@@ -615,7 +621,8 @@
 0.0.0.0 sites.hscoscdn-ap1.net
 0.0.0.0 sites.hscoscdn-eu1.net
 0.0.0.0 sites.hscoscdn-na2.net
-0.0.0.0 sites.hscoscdn-na3.net
+0.0.0.0 341676991.group0.sites.hscoscdn-na3.net
+0.0.0.0 341850582.group0.sites.hscoscdn-na3.net
 0.0.0.0 sites.hscoscdn00.net
 0.0.0.0 sites.hscoscdn10.net
 0.0.0.0 sites.hscoscdn20.net
@@ -783,7 +790,6 @@
 0.0.0.0 app1e.outreach.io
 0.0.0.0 app1f.outreach.io
 0.0.0.0 app2a.outreach.io
-0.0.0.0 app2b.outreach.io
 0.0.0.0 app2c.outreach.io
 0.0.0.0 ct.paidmediatrk.com
 0.0.0.0 sites.paradox.ai
@@ -962,6 +968,7 @@
 0.0.0.0 link.sylikes.com
 0.0.0.0 count.shopping.t-online.de
 0.0.0.0 redirect1069.tagcommander.com
+0.0.0.0 redirect1587.tagcommander.com
 0.0.0.0 redirect3431.tagcommander.com
 0.0.0.0 redirect476.tagcommander.com
 0.0.0.0 redirect492.tagcommander.com
@@ -1276,6 +1283,8 @@
 0.0.0.0 mention-me.com
 0.0.0.0 micpn.com
 0.0.0.0 mjt.lu
+0.0.0.0 mkto-a0279.com
+0.0.0.0 mkto-a0345.com
 0.0.0.0 mkto-ab010044.com
 0.0.0.0 mkto-ab010150.com
 0.0.0.0 mkto-ab010164.com
@@ -1315,6 +1324,7 @@
 0.0.0.0 mkto-ab250055.com
 0.0.0.0 mkto-ab250068.com
 0.0.0.0 mkto-ab250105.com
+0.0.0.0 mkto-ab250167.com
 0.0.0.0 mkto-ab260164.com
 0.0.0.0 mkto-ab270090.com
 0.0.0.0 mkto-ab270109.com
@@ -1371,8 +1381,8 @@
 0.0.0.0 mkto-ab480015.com
 0.0.0.0 mkto-ab480166.com
 0.0.0.0 mkto-ab500022.com
+0.0.0.0 mkto-ab500023.com
 0.0.0.0 mkto-ab520004.com
-0.0.0.0 mkto-ab530057.com
 0.0.0.0 mkto-ab530192.com
 0.0.0.0 mkto-ab540143.com
 0.0.0.0 mkto-ab550041.com
@@ -1425,6 +1435,7 @@
 0.0.0.0 mkto-e0339.com
 0.0.0.0 mkto-f0235.com
 0.0.0.0 mkto-h0163.com
+0.0.0.0 mkto-i0028.com
 0.0.0.0 mkto-i0206.com
 0.0.0.0 mkto-j0126.com
 0.0.0.0 mkto-lon020055.com
@@ -1452,6 +1463,7 @@
 0.0.0.0 mkto-lon080118.com
 0.0.0.0 mkto-lon080132.com
 0.0.0.0 mkto-lon080147.com
+0.0.0.0 mkto-lon080186.com
 0.0.0.0 mkto-lon090040.com
 0.0.0.0 mkto-lon090045.com
 0.0.0.0 mkto-lon090082.com
@@ -1512,6 +1524,7 @@
 0.0.0.0 mkto-sj070214.com
 0.0.0.0 mkto-sj070218.com
 0.0.0.0 mkto-sj080048.com
+0.0.0.0 mkto-sj090132.com
 0.0.0.0 mkto-sj130243.com
 0.0.0.0 mkto-sj140007.com
 0.0.0.0 mkto-sj140170.com
@@ -1544,6 +1557,7 @@
 0.0.0.0 mkto-sj290167.com
 0.0.0.0 mkto-sj310061.com
 0.0.0.0 mkto-sj310157.com
+0.0.0.0 mkto-sj310175.com
 0.0.0.0 mkto-sj320061.com
 0.0.0.0 mkto-sj320080.com
 0.0.0.0 mkto-sj330006.com

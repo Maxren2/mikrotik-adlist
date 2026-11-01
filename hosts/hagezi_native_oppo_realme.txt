@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
-! Version: 2026.1016.2211.23
-! Last modified: 2026-10-18T10:00:30.680Z
+! Version: 2026.1030.2311.45
+! Last modified: 2026-11-01T12:09:18.898Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
@@ -321,6 +321,7 @@
 0.0.0.0 adx-u-in.heytapmobile.com
 0.0.0.0 adx-u-ru.heytapmobile.com
 0.0.0.0 adx-u-sg.heytapmobile.com
+0.0.0.0 adxh3-op-sg.heytapmobile.com
 0.0.0.0 adxu-bigo-sg.heytapmobile.com
 0.0.0.0 bdapi-ads-sg.heytapmobile.com
 0.0.0.0 browser-api-br.heytapmobile.com

@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt
-! Version: 2026.1002.2215.55
-! Last modified: 2026-10-04T11:25:11.388Z
+! Version: 2026.1028.0504.46
+! Last modified: 2026-11-01T12:09:19.237Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -76,6 +76,7 @@
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 ddf.di.atlas.samsung.com
+0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 dqa-auth.di.atlas.samsung.com
 0.0.0.0 regi.di.atlas.samsung.com

@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.1024.0946.46
-! Last modified: 2026-10-25T10:16:21.878Z
+! Version: 2026.1101.1029.45
+! Last modified: 2026-11-01T12:09:16.514Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
@@ -25,7 +25,10 @@
 0.0.0.0 nvi-dns.bitdefender.net
 0.0.0.0 ore-dns.bitdefender.net
 0.0.0.0 tky-dns.bitdefender.net
+0.0.0.0 doh-ch.blahdns.com
 0.0.0.0 doh-de.blahdns.com
+0.0.0.0 doh-fi.blahdns.com
+0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 doh-sg.blahdns.com
 0.0.0.0 dns.brahma.world
 0.0.0.0 httpdns.c.cdnhwc2.com
@@ -46,7 +49,6 @@
 0.0.0.0 httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 0.0.0.0 dns.digitalsize.net
 0.0.0.0 dotserver.douyucdn.cn
-0.0.0.0 dns.electrotm.org
 0.0.0.0 waterfox-ohttp-relay.fastly-edge.com
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 doh.ffmuc.net
@@ -62,14 +64,12 @@
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 http-dns.imoim.net
+0.0.0.0 apidns.kwd.inkuai.com
 0.0.0.0 httpdns.kwd.inkuai.com
 0.0.0.0 dns.iqiyi.com
 0.0.0.0 doh.iqiyi.com
 0.0.0.0 dns.jd.com
-0.0.0.0 protective.joindns4.eu
-0.0.0.0 unfiltered.joindns4.eu
 0.0.0.0 opencdn.jomodns.com
-0.0.0.0 dns.kernel-error.de
 0.0.0.0 hdns.ksyun.com
 0.0.0.0 doh.libredns.gr
 0.0.0.0 httpdns.meituan.com
@@ -91,6 +91,7 @@
 0.0.0.0 resolver1.opendns.com
 0.0.0.0 resolver1-fs.opendns.com
 0.0.0.0 resolver2.opendns.com
+0.0.0.0 resolver2-fs.opendns.com
 0.0.0.0 sandbox.opendns.com
 0.0.0.0 httpdns.ocloud.oppomobile.com
 0.0.0.0 httpdns.push.oppomobile.com
@@ -106,13 +107,10 @@
 0.0.0.0 dns12.quad9.net
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dnspub.restena.lu
-0.0.0.0 free.shecan.ir
-0.0.0.0 dns.smartguard.io
+0.0.0.0 dns.rubyfish.cn
 0.0.0.0 doh-01.spectrum.com
 0.0.0.0 doh-02.spectrum.com
-0.0.0.0 dns.surfsharkdns.com
 0.0.0.0 ibksturm.synology.me
-0.0.0.0 dns.t-ipnet.de
 0.0.0.0 homenet.telecomitalia.it
 0.0.0.0 sdkconfig.tlivedns.com
 0.0.0.0 dns.twnic.tw
@@ -140,7 +138,6 @@
 0.0.0.0 3jjxxl.tech
 0.0.0.0 8888.google
 0.0.0.0 adblockersite.com
-0.0.0.0 adfiltro.fun
 0.0.0.0 adfreedns.top
 0.0.0.0 adguard-dns.com
 0.0.0.0 ahadns.net
@@ -150,7 +147,6 @@
 0.0.0.0 atris.cyou
 0.0.0.0 axaxa.fun
 0.0.0.0 b-ii.com
-0.0.0.0 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 0.0.0.0 bancuh.com
 0.0.0.0 bazooki-infra.dev
 0.0.0.0 beacon.dog
@@ -162,6 +158,7 @@
 0.0.0.0 catdns.org
 0.0.0.0 cfdjb.org
 0.0.0.0 cleanbrowsing.org
+0.0.0.0 cloudbenders.fun
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 cloudflare-gateway.com
 0.0.0.0 cloudflareresolve.com
@@ -171,18 +168,14 @@
 0.0.0.0 cryptostorm.is
 0.0.0.0 cryptroute.com
 0.0.0.0 cubedns.com
-0.0.0.0 cynntex.fun
-0.0.0.0 deep-henchman-excuse.cfd
 0.0.0.0 digitale-gesellschaft.ch
 0.0.0.0 dingdangnao.com
-0.0.0.0 dltuykfgp.top
 0.0.0.0 dns.expert
 0.0.0.0 dns.google
 0.0.0.0 dns.pub
 0.0.0.0 dns.sb
 0.0.0.0 dns.watch
 0.0.0.0 dns-free.link
-0.0.0.0 dns0.eu
 0.0.0.0 dns4me.net
 0.0.0.0 dns8.org
 0.0.0.0 dnsdoh.art
@@ -213,6 +206,7 @@
 0.0.0.0 gibblets.top
 0.0.0.0 glacius.top
 0.0.0.0 gztech.me
+0.0.0.0 himedns.com
 0.0.0.0 hitian.me
 0.0.0.0 hshh.org
 0.0.0.0 httpdns.pro
@@ -229,7 +223,6 @@
 0.0.0.0 kaiwu.xyz
 0.0.0.0 kavkaz.monster
 0.0.0.0 kilabit.info
-0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 lastentarvike.fi
 0.0.0.0 leecurrylawfirm.com
 0.0.0.0 lelux.fi
@@ -243,7 +236,6 @@
 0.0.0.0 maqgie.xyz
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 maxfong.cc
-0.0.0.0 meganerd.nl
 0.0.0.0 mendozasdelivery.com
 0.0.0.0 moamao.shop
 0.0.0.0 morbitzer.de
@@ -265,6 +257,7 @@
 0.0.0.0 pm9352-bd.xyz
 0.0.0.0 polisitogel.beauty
 0.0.0.0 polisitogel.contractors
+0.0.0.0 polisitogel.hair
 0.0.0.0 polisitogel.webcam
 0.0.0.0 project-evoex.de
 0.0.0.0 qqmcfw.tech
@@ -279,17 +272,18 @@
 0.0.0.0 safeservedns.com
 0.0.0.0 shalenkov.dev
 0.0.0.0 sitdns.com
+0.0.0.0 solaxy.live
 0.0.0.0 strassmair.org
 0.0.0.0 sunnygyl.com
 0.0.0.0 tecdrive.site
 0.0.0.0 timedns.net
-0.0.0.0 tlz.asia
+0.0.0.0 tk31z.com
+0.0.0.0 tlzovo.com
+0.0.0.0 toaster.lol
 0.0.0.0 tri-dns.net
 0.0.0.0 tributh.net
 0.0.0.0 truta.org
-0.0.0.0 tujenasnaszato.xyz
 0.0.0.0 tuskythehusky.tech
-0.0.0.0 typaza.com
 0.0.0.0 ublockdns.com
 0.0.0.0 unasw.eu
 0.0.0.0 uncensoreddns.org

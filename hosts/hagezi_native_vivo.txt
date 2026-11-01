@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
-! Version: 2026.1016.2210.24
-! Last modified: 2026-10-18T10:00:31.331Z
+! Version: 2026.1030.2310.29
+! Last modified: 2026-11-01T12:09:19.743Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -89,6 +89,7 @@
 0.0.0.0 de-gdpr-vcode-api.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
 0.0.0.0 eu-album-api.vivoglobal.com
+0.0.0.0 eu-api-stsdk.vivoglobal.com
 0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -114,6 +115,7 @@
 0.0.0.0 in-adreq.vivoglobal.com
 0.0.0.0 in-adsjssdk.vivoglobal.com
 0.0.0.0 in-analyzer-appstore.vivoglobal.com
+0.0.0.0 in-api-stsdk.vivoglobal.com
 0.0.0.0 in-apponrt-stsdk.vivoglobal.com
 0.0.0.0 in-apport-stsdk.vivoglobal.com
 0.0.0.0 in-apppnrt-stsdk.vivoglobal.com
@@ -129,6 +131,7 @@
 0.0.0.0 in-ex-adlog.vivoglobal.com
 0.0.0.0 in-monitor-stsdk.vivoglobal.com
 0.0.0.0 in-news-abroad-backstage-interface.vivoglobal.com
+0.0.0.0 in-nrt-stsdk.vivoglobal.com
 0.0.0.0 in-onrt-stsdk.vivoglobal.com
 0.0.0.0 in-ort-stsdk.vivoglobal.com
 0.0.0.0 in-os-config-appstore.vivoglobal.com
