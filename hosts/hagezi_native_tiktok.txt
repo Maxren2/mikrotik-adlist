@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-! Version: 2026.1028.1440.34
-! Last modified: 2026-11-01T12:09:19.385Z
+! Version: 2026.1106.2256.24
+! Last modified: 2026-11-08T12:18:35.567Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 analytics.us.tiktok.com.bytewlb.akadns.net
@@ -85,12 +85,8 @@
 0.0.0.0 mon32-normal-sg.capcutapi.com
 0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mssdk-sg.capcutapi.com
-0.0.0.0 mssdk16-normal.capcutapi.com
-0.0.0.0 mssdk16-normal-sg.capcutapi.com
 0.0.0.0 mssdk16-normal-us-ttp.capcutapi.us
 0.0.0.0 mssdk16-normal-us-ttp2.capcutapi.us
-0.0.0.0 mssdk32-normal.capcutapi.com
-0.0.0.0 mssdk32-normal-sg.capcutapi.com
 0.0.0.0 pc-mon-boot.capcutapi.com
 0.0.0.0 pc-mon-normal-sg.capcutapi.com
 0.0.0.0 pc-mon-v2-boot.capcutapi.com
@@ -109,6 +105,7 @@
 0.0.0.0 xlog-va.capcutapi.com
 0.0.0.0 frontier.capcutw.us
 0.0.0.0 frontier-us-ttp2.capcutw.us
+0.0.0.0 log9-normal-c-useast1a.tiktokv.com.ecdnx.com
 0.0.0.0 analytics.tiktok.com.edgekey.net
 0.0.0.0 analytics-attribution-va.tiktok.com.edgekey.net
 0.0.0.0 analytics-exp-i18n.tiktok.com.edgekey.net
@@ -138,6 +135,11 @@
 0.0.0.0 analytics-ipv6.tiktokw.us.edgesuite.net
 0.0.0.0 analytics16-normal-useast5.tiktokw.us.edgesuite.net
 0.0.0.0 analytics16-normal-useast8.tiktokw.us.edgesuite.net
+0.0.0.0 log22-normal-alisg.tiktokv.com.kp45.ru
+0.0.0.0 rtlog16-normal-alisg.tiktokv.com.kp45.ru
+0.0.0.0 rtlog22-normal-alisg.tiktokv.com.kp45.ru
+0.0.0.0 log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com
+0.0.0.0 log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 applog.snssdk.com
@@ -241,12 +243,10 @@
 0.0.0.0 ad.tiktokv.eu
 0.0.0.0 ad.tiktokv.us
 0.0.0.0 ad-format.tiktokv.eu
-0.0.0.0 ad-format.tiktokv.us
 0.0.0.0 ad-format-i18n.tiktokv.com
 0.0.0.0 ad-format-ie.tiktokv.eu
 0.0.0.0 ad-format-ru.tiktokv.com
 0.0.0.0 ad-format-sg.tiktokv.com
-0.0.0.0 ad-format-ttp2.tiktokv.eu
 0.0.0.0 ad-format-ttp2.tiktokv.us
 0.0.0.0 ad-format16-normal-useastred.tiktokv.eu
 0.0.0.0 ad-instantpage.tiktokv.eu
@@ -267,12 +267,9 @@
 0.0.0.0 live-video-log16-normal-useastred.tiktokv.eu
 0.0.0.0 location.tiktokv.com
 0.0.0.0 location.tiktokv.eu
-0.0.0.0 location.tiktokv.us
 0.0.0.0 location-i18n.tiktokv.com
 0.0.0.0 location-ie.tiktokv.eu
-0.0.0.0 location-ru.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com
-0.0.0.0 location-ttp2.tiktokv.eu
 0.0.0.0 location-ttp2.tiktokv.us
 0.0.0.0 location-v6.tiktokv.com
 0.0.0.0 location-v6.tiktokv.eu
@@ -284,7 +281,6 @@
 0.0.0.0 location-v6-ttp2.tiktokv.us
 0.0.0.0 location-v6-va.tiktokv.com
 0.0.0.0 location-va.tiktokv.com
-0.0.0.0 location16-normal-useastred.tiktokv.eu
 0.0.0.0 locationv16-normal-useastred.tiktokv.eu
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tiktokv.eu
@@ -396,7 +392,6 @@
 0.0.0.0 rtc-logger.tiktokv.eu
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger-i18n.tiktokv.com
-0.0.0.0 rtc-logger-ie.tiktokv.eu
 0.0.0.0 rtc-logger-ttp2.tiktokv.eu
 0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-va.tiktokv.com
