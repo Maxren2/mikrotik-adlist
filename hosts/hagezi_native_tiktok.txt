@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-! Version: 2026.1106.2256.24
-! Last modified: 2026-11-08T12:18:35.567Z
+! Version: 2026.1113.2229.23
+! Last modified: 2026-11-15T13:02:09.765Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 analytics.us.tiktok.com.bytewlb.akadns.net
@@ -176,8 +176,6 @@
 0.0.0.0 vas-hl-x.snssdk.com
 0.0.0.0 vcl-brain.snssdk.com
 0.0.0.0 xlog.snssdk.com
-0.0.0.0 url4077.ads-service.tiktok.com
-0.0.0.0 url7108.ads-service.tiktok.com
 0.0.0.0 ads.in.tiktok.com
 0.0.0.0 ads.us.tiktok.com
 0.0.0.0 ads-ttp2.us.tiktok.com
@@ -193,6 +191,7 @@
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
 0.0.0.0 ads-ru.tiktok.com
+0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 ads-va.tiktok.com
@@ -353,6 +352,7 @@
 0.0.0.0 log32-normal-zr.tiktokv.com
 0.0.0.0 log32-normal-zr-alisg.tiktokv.com
 0.0.0.0 log32-normal-zr-useast1a.tiktokv.com
+0.0.0.0 log53-normal-c-useast1a.tiktokv.com
 0.0.0.0 log58-normal.tiktokv.com
 0.0.0.0 log58-normal-alisg.tiktokv.com
 0.0.0.0 log58-normal-c-alisg.tiktokv.com
@@ -360,6 +360,8 @@
 0.0.0.0 log58-normal-useast1a.tiktokv.com
 0.0.0.0 log58-normal-useast2a.tiktokv.com
 0.0.0.0 log58-normal-ycru.tiktokv.com
+0.0.0.0 log61-normal-c-alisg.tiktokv.com
+0.0.0.0 log61-normal-c-useast1a.tiktokv.com
 0.0.0.0 log77-normal-c-alisg.tiktokv.com
 0.0.0.0 log77-normal-c-useast1a.tiktokv.com
 0.0.0.0 log9-normal-c-useast1a.tiktokv.com

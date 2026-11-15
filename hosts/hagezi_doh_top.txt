@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.top.txt
-! Version: 2026.1108.0944.58
-! Last modified: 2026-11-08T12:18:33.785Z
+! Version: 2026.1115.0856.55
+! Last modified: 2026-11-15T13:02:07.408Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 httpdns.music.163.com
 0.0.0.0 doh.360.cn
@@ -47,6 +47,7 @@
 0.0.0.0 httpdns-browser.platform.dbankcloud.cn
 0.0.0.0 httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn
 0.0.0.0 httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
+0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns.digitalsize.net
 0.0.0.0 dotserver.douyucdn.cn
 0.0.0.0 waterfox-ohttp-relay.fastly-edge.com
@@ -66,7 +67,6 @@
 0.0.0.0 http-dns.imoim.net
 0.0.0.0 apidns.kwd.inkuai.com
 0.0.0.0 httpdns.kwd.inkuai.com
-0.0.0.0 dns.qiyipic.iqiyi.com
 0.0.0.0 dns.iqiyi.com
 0.0.0.0 doh.iqiyi.com
 0.0.0.0 dns.jd.com
@@ -109,6 +109,7 @@
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dnspub.restena.lu
 0.0.0.0 dns.rubyfish.cn
+0.0.0.0 httpdns.n.shifen.com
 0.0.0.0 doh-01.spectrum.com
 0.0.0.0 doh-02.spectrum.com
 0.0.0.0 ibksturm.synology.me
@@ -170,7 +171,6 @@
 0.0.0.0 cryptostorm.is
 0.0.0.0 cryptroute.com
 0.0.0.0 cubedns.com
-0.0.0.0 digitale-gesellschaft.ch
 0.0.0.0 dingdangnao.com
 0.0.0.0 dns.google
 0.0.0.0 dns.pub
@@ -200,11 +200,9 @@
 0.0.0.0 droyd.top
 0.0.0.0 edgy-dns.com
 0.0.0.0 eth.link
-0.0.0.0 fidelius.top
 0.0.0.0 getdnsapi.net
-0.0.0.0 gibblets.top
 0.0.0.0 gigatapbot.top
-0.0.0.0 glacius.top
+0.0.0.0 greatideasforlife.lol
 0.0.0.0 gztech.me
 0.0.0.0 hfgx.shop
 0.0.0.0 hitian.me
@@ -213,7 +211,6 @@
 0.0.0.0 httpdns.pro
 0.0.0.0 ib.systems
 0.0.0.0 iij.jp
-0.0.0.0 imperio.top
 0.0.0.0 inpssh.online
 0.0.0.0 ivnkn.xyz
 0.0.0.0 jabber-germany.de
@@ -226,6 +223,7 @@
 0.0.0.0 kavkaz.monster
 0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 lastentarvike.fi
+0.0.0.0 ledns.eu
 0.0.0.0 lelux.fi
 0.0.0.0 lesuo.top
 0.0.0.0 lewsha.lol
@@ -249,7 +247,6 @@
 0.0.0.0 ntwrkh.pro
 0.0.0.0 nwps.fi
 0.0.0.0 o1.lt
-0.0.0.0 obscuro.top
 0.0.0.0 openbld.net
 0.0.0.0 paradise-human.shop
 0.0.0.0 pashagame456.com
@@ -286,11 +283,13 @@
 0.0.0.0 vtcuong.site
 0.0.0.0 wikimedia-dns.org
 0.0.0.0 wyx.cloud
+0.0.0.0 xbcpb668.com
 0.0.0.0 xbox-dns.ru
 0.0.0.0 xenergy.cc
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
+0.0.0.0 yuvelirtut.website
 0.0.0.0 zdn.ro
 0.0.0.0 zougloub.eu
 0.0.0.0 ztv.su

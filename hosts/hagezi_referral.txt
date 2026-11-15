@@ -1,6 +1,6 @@
 ! Original: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/blocklist-referral-native.txt
-! Version: 2026.1108.0757.24
-! Last modified: 2026-11-08T12:18:34.603Z
+! Version: 2026.1115.0745.39
+! Last modified: 2026-11-15T13:02:08.632Z
 ! Transformed by: https://github.com/Maxren2/mikrotik-adlist
 0.0.0.0 l.1mp.ru
 0.0.0.0 links.2ns.fi
@@ -48,6 +48,7 @@
 0.0.0.0 trk.affapp.io
 0.0.0.0 trk.affattr.com
 0.0.0.0 t.afi-b.com
+0.0.0.0 links-na.afterpay.com
 0.0.0.0 d.agkn.com
 0.0.0.0 i.airtel.in
 0.0.0.0 t.ajump.link
@@ -185,6 +186,7 @@
 0.0.0.0 adservice.google.co.th
 0.0.0.0 adservice.google.co.uk
 0.0.0.0 adservice.google.co.za
+0.0.0.0 cloudmail15.netcore.co.in
 0.0.0.0 cloudmail17.netcore.co.in
 0.0.0.0 cloudmail18.netcore.co.in
 0.0.0.0 cloudmail19.netcore.co.in
@@ -238,23 +240,22 @@
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 m-3s3q4.custobar.com
 0.0.0.0 m-4wovq.custobar.com
+0.0.0.0 m-55aim.custobar.com
 0.0.0.0 m-5fwyg.custobar.com
 0.0.0.0 m-7uz3v.custobar.com
 0.0.0.0 m-ax.custobar.com
 0.0.0.0 m-b2o72.custobar.com
 0.0.0.0 m-bzp7z.custobar.com
-0.0.0.0 m-dpsxz.custobar.com
-0.0.0.0 m-dsrbu.custobar.com
 0.0.0.0 m-fi32s.custobar.com
 0.0.0.0 m-gzmk5.custobar.com
 0.0.0.0 m-hbr.custobar.com
 0.0.0.0 m-hju7x.custobar.com
-0.0.0.0 m-htgjb.custobar.com
 0.0.0.0 m-itsof.custobar.com
 0.0.0.0 m-jzt.custobar.com
 0.0.0.0 m-kpz.custobar.com
 0.0.0.0 m-l2cgv.custobar.com
 0.0.0.0 m-lka.custobar.com
+0.0.0.0 m-mjr.custobar.com
 0.0.0.0 m-mmasd.custobar.com
 0.0.0.0 m-nxt.custobar.com
 0.0.0.0 m-oszhr.custobar.com
@@ -304,6 +305,7 @@
 0.0.0.0 hermesad.deltaverse-intl.com
 0.0.0.0 tracking.delupe.net
 0.0.0.0 unilever2.demdex.net
+0.0.0.0 unilever3.demdex.net
 0.0.0.0 linkcenter.derbysoftca.com
 0.0.0.0 dealabs.digidip.net
 0.0.0.0 mydealz.digidip.net
@@ -332,7 +334,6 @@
 0.0.0.0 track.effiliation.com
 0.0.0.0 track34102166105.effiliation.com
 0.0.0.0 track34102167160.effiliation.com
-0.0.0.0 track34102180193.effiliation.com
 0.0.0.0 track3410224983.effiliation.com
 0.0.0.0 track35190150.effiliation.com
 0.0.0.0 api.elasticemail.com
@@ -370,6 +371,7 @@
 0.0.0.0 suite34.emarsys.net
 0.0.0.0 suite37.emarsys.net
 0.0.0.0 suite38.emarsys.net
+0.0.0.0 suite38-cf.emarsys.net
 0.0.0.0 suite40.emarsys.net
 0.0.0.0 suite40-cf.emarsys.net
 0.0.0.0 suite41.emarsys.net
@@ -377,7 +379,6 @@
 0.0.0.0 suite45.emarsys.net
 0.0.0.0 suite45-cf.emarsys.net
 0.0.0.0 suite46.emarsys.net
-0.0.0.0 suite46-cf.emarsys.net
 0.0.0.0 suite48.emarsys.net
 0.0.0.0 suite5.emarsys.net
 0.0.0.0 suite50.emarsys.net
@@ -459,7 +460,6 @@
 0.0.0.0 cdn.network.exponea.com
 0.0.0.0 cdn.uk.exponea.com
 0.0.0.0 cdn.us1.exponea.com
-0.0.0.0 4patientcare-cdn.exponea.com
 0.0.0.0 affinion-cdn.exponea.com
 0.0.0.0 alx-cdn.exponea.com
 0.0.0.0 cdn.exponea.com
@@ -469,7 +469,6 @@
 0.0.0.0 fis-iittala-cdn.exponea.com
 0.0.0.0 hpt-cdn.exponea.com
 0.0.0.0 lner-cdn.exponea.com
-0.0.0.0 neoengage-va-cdn.exponea.com
 0.0.0.0 pan-cdn.exponea.com
 0.0.0.0 puc-cdn.exponea.com
 0.0.0.0 ri-cdn.exponea.com
@@ -522,11 +521,9 @@
 0.0.0.0 adservice.google.ie
 0.0.0.0 adservice.google.it
 0.0.0.0 adservice.google.lt
-0.0.0.0 adservice.google.md
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservice.google.no
 0.0.0.0 adservice.google.pl
-0.0.0.0 adservice.google.pt
 0.0.0.0 adservice.google.ro
 0.0.0.0 adservice.google.rs
 0.0.0.0 adservice.google.ru
@@ -561,6 +558,21 @@
 0.0.0.0 api-na3.hubapi.com
 0.0.0.0 c.hubz.pl
 0.0.0.0 ssl.hurra.com
+0.0.0.0 imp.i104546.net
+0.0.0.0 imp.i114863.net
+0.0.0.0 imp.i127447.net
+0.0.0.0 imp.i128439.net
+0.0.0.0 imp.i146998.net
+0.0.0.0 imp.i215020.net
+0.0.0.0 imp.i254217.net
+0.0.0.0 imp.i256749.net
+0.0.0.0 imp.i287301.net
+0.0.0.0 imp.i305175.net
+0.0.0.0 imp.i313392.net
+0.0.0.0 imp.i319830.net
+0.0.0.0 imp.i326929.net
+0.0.0.0 imp.i346552.net
+0.0.0.0 imp.i384100.net
 0.0.0.0 m.icares.app
 0.0.0.0 click.icptrack.com
 0.0.0.0 assets.ikhnaie.link
@@ -638,6 +650,7 @@
 0.0.0.0 click.email.microsoftemail.com
 0.0.0.0 image.email.microsoftemail.com
 0.0.0.0 email.microsoftonline.com
+0.0.0.0 click.microsoftstoreemail.com
 0.0.0.0 tracking.minetracking.com
 0.0.0.0 links.mkt91.net
 0.0.0.0 click.mlsend.com
@@ -659,6 +672,7 @@
 0.0.0.0 1l.my.games
 0.0.0.0 1l-go.my.games
 0.0.0.0 track.mydirectpromonews-ah.com
+0.0.0.0 events.release.narrativ.com
 0.0.0.0 api.narrativ.com
 0.0.0.0 cm.naukri.com
 0.0.0.0 app.link.nba.com
@@ -688,18 +702,17 @@
 0.0.0.0 track.omguk.com
 0.0.0.0 mail.onedrive.com
 0.0.0.0 trk.outbizz.com
+0.0.0.0 app1a.gateway.portal.outreach.io
 0.0.0.0 app1c.gateway.portal.outreach.io
 0.0.0.0 app1e.gateway.portal.outreach.io
 0.0.0.0 app1f.gateway.portal.outreach.io
 0.0.0.0 app2a.gateway.portal.outreach.io
 0.0.0.0 app2c.gateway.portal.outreach.io
 0.0.0.0 app1a.outreach.io
-0.0.0.0 app1b.outreach.io
 0.0.0.0 app1c.outreach.io
 0.0.0.0 app1e.outreach.io
 0.0.0.0 app1f.outreach.io
 0.0.0.0 app2a.outreach.io
-0.0.0.0 app2c.outreach.io
 0.0.0.0 ct.paidmediatrk.com
 0.0.0.0 sites.paradox.ai
 0.0.0.0 cdn.pardot.com
@@ -779,7 +792,7 @@
 0.0.0.0 v.short.gy
 0.0.0.0 s.sick.com
 0.0.0.0 t.sidekickopen05-eu1.com
-0.0.0.0 t.sidekickopen07.com
+0.0.0.0 t.sidekickopen21.com
 0.0.0.0 app.e.sigsauer.com
 0.0.0.0 tm.simptrack.com
 0.0.0.0 clk.simulation-technology.com
@@ -835,10 +848,10 @@
 0.0.0.0 redirect675.tagcommander.com
 0.0.0.0 redirect684.tagcommander.com
 0.0.0.0 redirect837.tagcommander.com
-0.0.0.0 redirect891.tagcommander.com
 0.0.0.0 data.email.tangerine.ca
 0.0.0.0 click.mz.simba.taobao.com
 0.0.0.0 click.simba.taobao.com
+0.0.0.0 click.world.taobao.com
 0.0.0.0 click.taobao.com
 0.0.0.0 goto.target.com
 0.0.0.0 ctagm.tchibo.de
@@ -972,6 +985,7 @@
 0.0.0.0 amazon-value-service.com
 0.0.0.0 amnet.tw
 0.0.0.0 anrdoezrs.net
+0.0.0.0 apmebf.com
 0.0.0.0 apms5.com
 0.0.0.0 aporasal.net
 0.0.0.0 app.link
@@ -997,6 +1011,7 @@
 0.0.0.0 beehiiv.com
 0.0.0.0 bfast.com
 0.0.0.0 bidminer.com
+0.0.0.0 bigcattracks.com
 0.0.0.0 bizrate.com
 0.0.0.0 blissoffer.com
 0.0.0.0 bluekai.com
@@ -1009,6 +1024,7 @@
 0.0.0.0 breaknewz.com
 0.0.0.0 buff.ly
 0.0.0.0 bulletinweb.com
+0.0.0.0 cc-dt.com
 0.0.0.0 cj.com
 0.0.0.0 cjads.com
 0.0.0.0 clck.ru
@@ -1028,6 +1044,7 @@
 0.0.0.0 clkdms.com
 0.0.0.0 cmail19.com
 0.0.0.0 commander1.com
+0.0.0.0 commission-junction.com
 0.0.0.0 construccionrl.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contextweb.com
@@ -1102,6 +1119,7 @@
 0.0.0.0 impulseonline.shop
 0.0.0.0 ink1001.com
 0.0.0.0 intercom-clicks.com
+0.0.0.0 jdoqocy.com
 0.0.0.0 judge.me
 0.0.0.0 kelkoogroup.net
 0.0.0.0 klclick.com
@@ -1141,7 +1159,6 @@
 0.0.0.0 micpn.com
 0.0.0.0 mjt.lu
 0.0.0.0 mkto-a0279.com
-0.0.0.0 mkto-a0345.com
 0.0.0.0 mkto-ab010150.com
 0.0.0.0 mkto-ab010164.com
 0.0.0.0 mkto-ab020242.com
@@ -1156,27 +1173,30 @@
 0.0.0.0 mkto-ab130037.com
 0.0.0.0 mkto-ab130147.com
 0.0.0.0 mkto-ab130188.com
-0.0.0.0 mkto-ab140048.com
 0.0.0.0 mkto-ab170094.com
 0.0.0.0 mkto-ab180024.com
 0.0.0.0 mkto-ab240112.com
+0.0.0.0 mkto-ab240185.com
 0.0.0.0 mkto-ab250055.com
+0.0.0.0 mkto-ab250115.com
 0.0.0.0 mkto-ab250167.com
-0.0.0.0 mkto-ab270109.com
 0.0.0.0 mkto-ab290138.com
+0.0.0.0 mkto-ab300013.com
 0.0.0.0 mkto-ab300154.com
+0.0.0.0 mkto-ab310016.com
 0.0.0.0 mkto-ab330018.com
 0.0.0.0 mkto-ab330047.com
 0.0.0.0 mkto-ab340022.com
 0.0.0.0 mkto-ab350122.com
 0.0.0.0 mkto-ab390033.com
-0.0.0.0 mkto-ab400068.com
+0.0.0.0 mkto-ab390129.com
 0.0.0.0 mkto-ab410098.com
 0.0.0.0 mkto-ab410147.com
 0.0.0.0 mkto-ab420198.com
 0.0.0.0 mkto-ab430045.com
 0.0.0.0 mkto-ab430076.com
 0.0.0.0 mkto-ab430111.com
+0.0.0.0 mkto-ab430114.com
 0.0.0.0 mkto-ab430186.com
 0.0.0.0 mkto-ab430187.com
 0.0.0.0 mkto-ab440026.com
@@ -1200,9 +1220,10 @@
 0.0.0.0 mkto-abc0114.com
 0.0.0.0 mkto-abc0203.com
 0.0.0.0 mkto-abj0022.com
+0.0.0.0 mkto-cs0007.com
 0.0.0.0 mkto-d0071.com
+0.0.0.0 mkto-e0339.com
 0.0.0.0 mkto-h0163.com
-0.0.0.0 mkto-i0028.com
 0.0.0.0 mkto-lon020055.com
 0.0.0.0 mkto-lon020062.com
 0.0.0.0 mkto-lon020302.com
@@ -1212,15 +1233,14 @@
 0.0.0.0 mkto-lon030291.com
 0.0.0.0 mkto-lon030330.com
 0.0.0.0 mkto-lon040102.com
-0.0.0.0 mkto-lon060128.com
+0.0.0.0 mkto-lon060043.com
 0.0.0.0 mkto-lon060131.com
+0.0.0.0 mkto-lon060196.com
+0.0.0.0 mkto-lon070031.com
 0.0.0.0 mkto-lon070075.com
-0.0.0.0 mkto-lon070192.com
 0.0.0.0 mkto-lon080059.com
-0.0.0.0 mkto-lon080147.com
-0.0.0.0 mkto-lon080186.com
 0.0.0.0 mkto-lon090040.com
-0.0.0.0 mkto-lon100192.com
+0.0.0.0 mkto-lon100167.com
 0.0.0.0 mkto-m0111.com
 0.0.0.0 mkto-mlm10010008.com
 0.0.0.0 mkto-mlm10030005.com
@@ -1243,7 +1263,6 @@
 0.0.0.0 mkto-sj010128.com
 0.0.0.0 mkto-sj010203.com
 0.0.0.0 mkto-sj040252.com
-0.0.0.0 mkto-sj050106.com
 0.0.0.0 mkto-sj070214.com
 0.0.0.0 mkto-sj090132.com
 0.0.0.0 mkto-sj130243.com
@@ -1255,23 +1274,25 @@
 0.0.0.0 mkto-sj200201.com
 0.0.0.0 mkto-sj210111.com
 0.0.0.0 mkto-sj210170.com
+0.0.0.0 mkto-sj230010.com
 0.0.0.0 mkto-sj240021.com
-0.0.0.0 mkto-sj250187.com
 0.0.0.0 mkto-sj270072.com
 0.0.0.0 mkto-sj270078.com
 0.0.0.0 mkto-sj270080.com
+0.0.0.0 mkto-sj280085.com
 0.0.0.0 mkto-sj290040.com
 0.0.0.0 mkto-sj290167.com
+0.0.0.0 mkto-sj300023.com
 0.0.0.0 mkto-sj310061.com
-0.0.0.0 mkto-sj310175.com
 0.0.0.0 mkto-sj320080.com
 0.0.0.0 mkto-sj330006.com
 0.0.0.0 mkto-sj360142.com
 0.0.0.0 mkto-sj400023.com
+0.0.0.0 mkto-sjg0030.com
 0.0.0.0 mkto-sjh0084.com
-0.0.0.0 mkto-sjh0178.com
 0.0.0.0 mkto-sji0033.com
 0.0.0.0 mkto-sji0183.com
+0.0.0.0 mkto-sn040110.com
 0.0.0.0 mkto-test.com
 0.0.0.0 mktoweb.com
 0.0.0.0 mmtro.com
@@ -1319,6 +1340,7 @@
 0.0.0.0 purchasenow.us
 0.0.0.0 pxf.io
 0.0.0.0 qflm.net
+0.0.0.0 qksrv.net
 0.0.0.0 ravn.click
 0.0.0.0 reachlocal.com
 0.0.0.0 realestatesrvs.com
